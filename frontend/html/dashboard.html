@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Document</title>
+        <link rel="stylesheet" href="../css/style.css" />
+        <link rel="stylesheet" href="../css/dashboard.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script type="text/javascript" src="../js/dashboard.js"></script>
+        <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    </head>
+    <body>
+        <aside>
+            <h1 class="logo">DBS Sales & Marketing</h1>
+            <div class="sidebar">
+                <a class="selected" id="demography" href="#" onclick="select(this)">Buying Behaviour</a>
+                <a id="geography" href="#" onclick="select(this)">Geography</a>
+                <!-- <a id="items" href="#" onclick="select(this)">Purchases</a> -->
+                <a id="features" href="#" onclick="select(this)">Features</a>
+                <!-- <a id="payment_type" href="#" onclick="select(this)">Payment Type</a> -->
+            </div>
+        </aside>
+        <main>
+            <nav>
+                <ul>
+                    <li ><a href="dbshome.html">Home</a></li>
+
+                    <li class="selected"><a href="dashboard.html">Dashboard</a></li>
+                    <li><a href="prediction.html">Predictive Board</a></li>
+                    <li><a href="recommendation.html">Customer 360</a></li>
+                </ul>
+            </nav>
+            <br>
+            <div class="container">
+                <div class="title">
+                    <h4 id="title">Analytics based on Buying Behaviour</h4>
+                </div>
+                <div class="selector">
+                    
+                    <select name="select" id="select-menu" onchange="switchVal(this);">
+                        <option value="category">Category</option>
+                        <option value="frequency">Frequency</option>
+                        <option value="item_count">Items Count</option>
+                        <option value="pay">Payment</option>
+                    </select>
+                </div>
+                <div class="chart-container">
+                    <div id="chart" class="chart"></div>
+                    <div class="loader">
+
+                        <div class="ball"></div>
+                        <div class="ball"></div>
+                        <div class="ball"></div>
+                        <div class="ball"></div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </body>
+    <script type="text/javascript" src="../js/dashboard.js"></script>
+</html>

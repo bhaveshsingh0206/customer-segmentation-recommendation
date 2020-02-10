@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Predictive Board</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="../css/style.css" />
+        <link rel="stylesheet" href="../css/prediction.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script type="text/javascript" src="../js/prediction.js"></script>
+
+    </head>
+    <body>
+        <aside>
+            <h1 class="logo">DBS Sales & Marketing</h1>
+            <div class="sidebar">
+                <a class="selected" id="brand" href="#" onclick="select(this)">Predict Brand</a>
+                <a href="#" id="score" onclick="select(this)">Predict Performance Score</a>
+                <a href="#" id="camera" onclick="select(this)">Predict User Category</a>
+            </div>
+        </aside>
+        <main>
+            <nav>
+                <ul>
+                    <li ><a href="dbshome.html">Home</a></li>
+
+                    <li><a href="dashboard.html">Dashboard</a></li>
+                    <li class="selected">
+                        <a href="prediction.html">Predictive Board</a>
+                    </li>
+                    <li><a href="recommendation.html">Customer 360</a></li>
+                </ul>
+            </nav>
+            <div class="container">
+                <div class="title">
+                    <h4 id="title">Predict Brand based of City and State</h4>
+                </div>
+                <div class="selector">
+                    <div class="select-container">
+                  <label for="select-1">City</label>
+                    <select name="select-1" id="select-1">
+                        <option selected disabled value="">Select City</option>
+                    </select>
+                </div>
+                <div class="select-container">
+                  <label for="select-2">State</label>
+                    <select name="select-2" id="select-2">
+                        <option disabled value="">Select State</option>
+                    </select>
+                </div>
+                </div>
+                <div class="buttons">
+                    <button>Predict</button>
+                </div>
+                <div class="answer-container">
+                    <div class="card">
+                        <div id="text" class="card-header">
+                            MOST POPULAR PHONES IN THIS PARTICULAR CITY
+                        </div>
+                        <div class="line"></div>
+                        <div id="answer" class="card-body"></div>
+                    </div>
+                    <div class="loader hidden">
+                        <div class="ball"></div>
+                        <div class="ball"></div>
+                        <div class="ball"></div>
+                        <div class="ball"></div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </body>
+    <script type="text/javascript" src="../js/prediction.js"></script>
+</html>

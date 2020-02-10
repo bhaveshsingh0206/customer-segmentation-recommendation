@@ -1,0 +1,92 @@
+Brand,Model,Freq,Display,Processor,Front Camera,Rear Camera,RAM,Storage,Battery,OS,Score
+Alcatel,Alcatel 1C,6,5.30 inches,MediaTek MT6580,5MP,8MP,2GB,16GB,2460mAh,Android 7.0,20.0
+Alcatel,Alcatel 1S,2,5.5 inches,Octa-core 1.6 GHz Cortex-A55,5MP,13MP,4GB,64GB,3060mAh,Android 9.0,75.0
+Alcatel,Alcatel 1V,8,5.5 inches, ARM Cortex-A55  1.6 GHz,5MP,8MP,1GB,16GB,2460mAh,Android 9.0,76.5
+Alcatel,Alcatel 1X,7,5.30 inches,MediaTek MT6580,5MP,8MP,1GB,16GB,2460mAh,Android 8.1,35.0
+Alcatel,Alcatel 3,4,5.5 inches,MediaTek MT6739,5MP,13MP,2GB,16GB,3000mAh,Android 8.0,84.5
+Alcatel,Alcatel 3X,6,6.5 inches,MediaTek MT6763V,8MP,16MP,4GB,64GB,4000mAh,Android 9.0,93.5
+Apple,Apple iPhone 11,39,6.1 inches,Apple A13 Bionic,12MP,16MP,4GB,64GB,3110mAh,iOS 13,521.0
+Apple,Apple iPhone 11 Pro,33,5.8 inches,Apple A13 Bionic,12MP,12MP,4GB,64GB,3046mAh,iOS 13,530.0
+Apple,Apple iPhone 11 Pro Max,26,6.5 inches,Apple A13 Bionic,12MP,12MP,4GB,64GB,3969mAh,iOS 13,535.0
+Apple,Apple iPhone 7,34,4.7inches,Apple A10 Fusion,7MP,12MP,2GB,32GB,1960mAh,iOS 10,237.0
+Apple,Apple iPhone 7 Plus,29,5.5 inches,Apple A10 Fusion,7MP,12MP,3GB,32GB,2900mAh,iOS 10,245.0
+Apple,Apple iPhone 8,33,4.7 inches,Apple A11 Bionic,7MP,12MP,2GB,64GB,1821mAh,iOS 11,330.0
+Apple,Apple iPhone 8 Plus,31,5.5 inches,Apple A11 Bionic,7MP,12MP,3GB,64GB,2691mAh,iOS 11,340.0
+Apple,Apple iPhone X,38,5.8 inches,Apple A11 Bionic,7MP,12MP,3GB,64GB,2716mAh,iOS 12,370.0
+Apple,Apple iPhone XR,38,6.1 inches,Apple A12 Bionic,7MP,12MP,3GB,64GB,2942mAh,iOS 12,346.0
+Apple,Apple iPhone XS,31,5.8 inches,Apple A12 Bionic,7MP,12MP,4GB,64GB,2658mAh,iOS 12,380.0
+Apple,Apple iphone XS Max,28,6.5 inches,Apple A12 Bionic,7MP,12MP,4GB,64GB,3174mAh,iOS 12,390.0
+BLU,BLU Vivo 8,1,5.5 inches,Mediatek Helio P10        ,16MP,13MP,4GB,64GB,4010mAh,Android 7.0,60.0
+BLU,BLU Vivo 8L,2,6.3 inches,MediaTek Helio 6753        ,20MP,13MP,3GB,32GB,4000mAh,Android 7.0,50.0
+BLU,BLU Vivo XR,2,6.3 inches,MediaTek Helio 6753        ,20MP,13MP,3GB,32GB,4010mAh,Android 7.0,50.0
+Google,Google Pixel 3,1,5.5 inches,Qualcomm Snapdragon 845        ,8MP,12.2MP,4GB,64GB,2915mAh,Android 9.0,275.0
+Google,Google Pixel 3XL,1,6.3 inches,Qualcomm Snapdragon 845        ,8MP,12.2MP,4GB,64GB,3430mAh,Android 9.0,280.0
+Google,Google Pixel 3a,1,5.6 inches,Qualcomm Snapdragon 670,8MP,12.2MP,4GB,64GB,3000mAh,Android 9.0,160.0
+Google,Google Pixel 3a XL,2,6.0 inches,Qualcomm Snapdragon 670,8MP,12.2MP,4GB,64GB,3700mAh,Android 9.0,165.0
+Google,Google Pixel 4,4,5.7inches,Qualcomm Snapdragon 855,8MP,12.2MP,6GB,64GB,2800mAh,Android 10.0,425.0
+HTC,HTC Desire 19s,1,5.2inches,Mediatek MT6762 Helio P22,16MP,13MP,3GB,32GB,3850mAh,Android 9.0,86.3
+HTC,HTC Exodus 1,2,6.0 inches,Qualcomm Snapdragon 845,8MP,16MP,6GB,128GB,3500mAh,Android 8.1,275.0
+HTC,HTC U 12,2,6.0 inches,Qualcomm SDM845 Snapdragon 845 ,8MP,12MP,6GB,64GB,3500mAh,Android 8.0,210.0
+HTC,HTC U 12 Life,1,6.0 inches,Qualcomm SDM636 Snapdragon 636 ,13MP,16MP,4GB,64GB,3600mAh,Android 8.1,115.0
+HTC,HTC U 19e,2,6.0 inches,Qualcomm SDM845 Snapdragon 710,24MP,12MP,6GB,128GB,3930mAh,Android 9.0,160.0
+HTC,HTC WildFire X,1,6.22 inches,Mediatek Helio P22,8MP,12MP,3GB,32GB,3300mAh,Android 9.0,76.5
+HTC,Microsoft Lumia 950,5,5.2 inches,Qualcomm MSM8992 Snapdragon 808 ,5MP,20MP,3GB,32GB,3000mAh,Microsoft Windows 10	,60.0
+Windows,Microsoft Lumia 950,6,5.2inches,Qualcomm MSM8992 Snapdragon 808 ,5MP,20MP,3GB,32GB,3000mAh,Microsoft Windows 10	,60.0
+HTC,Microsoft Lumia 950 XL,2,5.7inches,Qualcomm MSM8994 Snapdragon 810 ,5MP,20MP,3GB,32GB,3340mAh,Microsoft Windows 10	,100.0
+Windows,Microsoft Lumia 950 XL,4,5.7inches,Qualcomm MSM8994 Snapdragon 810 ,5MP,20MP,3GB,32GB,3340mAh,Microsoft Windows 10	,100.0
+Huawei,Huawei Mate 30 Pro 5G,9,6.53inches,HiSilicon Kirin 990,32MP,40MP,8GB,128GB,4500mAh,Android 10.0,457.0
+Huawei,Huawei Nova 6 5G,4,6.57inches,HiSilicon Kirin 990,32MP,40MP,8GB,128GB,4200mAh,Android 10.0,450.0
+Huawei,Huawei Nova 6 SE,8,6.4inches,HiSilicon Kirin810,16MP,48MP,8GB,128GB,4200mAh,Android 10.0,290.0
+Huawei,Huawei P Smart Pro,5,6.59inches,HiSilicon Kirin 710F,16MP,48MP,6GB,128GB,4000mAh,Android 10.0,280.0
+LG,LG G8X ThinQ,5,6.4inches,Qualcomm Snapdragon 855        ,32 MP	,12MP,6GB, 128GB,4000mAh        ,Android 9.0,370.0
+LG,LG G8s ThinQ,10,6.2inches,Qualcomm Snapdragon 855        ,8 MP	,12MP,6 GB,128 GB        ,3550mAh        ,Android 9.0,421.0
+LG,LG K12+,12,5.7inches,Mediatek Helio P22,8MP,16MP,3GB,32GB,3000mAh,Android 9.0,76.5
+LG,LG K30,7,5.3inches,Qualcomm Snapdragon 425       ,5MP,13MP,2GB,32GB,2880mAh        ,Android 7.1,35.7
+LG,LG K40S,5,6.1inches,Mediatek MT6762 Helio P22       ,13MP,13MP,2GB,32GB,3500mAh        ,Android 9.0,76.5
+LG,LG K50S,13,6.5inches,Mediatek MT6762 Helio P22,13MP,13MP,3GB,32GB,4000mAh        ,Android 9.0,75.5
+LG,LG Q70,10,6.4inches,Qualcomm Snapdragon 675    ,16MP,32MP,4GB,64GB,4000mAh        ,Android 10.0,130.0
+LG,LG Stylo 5,11,6.2inches,Qualcomm Snapdragon 450    ,5MP,13MP,3GB,32GB,3500mAh,Android 9.0,57.0
+LG,LG V50S ThinQ 5G,10,6.4inches,Qualcomm Snapdragon 855        ,8MP,16MP,6GB,128GB,4000mAh,Android 9.0,370.0
+LG,LG W10,4,6.19inches,MediaTek Helio P22	,8MP,13MP,3GB,32GB,4000mAh        ,Android 9.0,78.0
+LG,LG W30,13,6.26inches,MediaTek Helio P22,16MP,12MP,3GB,32GB,4000mAh        ,Android 9.0,85.0
+LG,LG W30 Pro,11,6.21inches,Qualcomm Snapdragon 632,16MP,13MP,4GB,64GB,4050mAh,Android 9.0,110.0
+LG,LG X4,6,5.3inches,Qualcomm Snapdragon 855        ,8MP,13MP,2GB,32GB,3000mAh        ,Android 7.0,200.0
+LG,LG X6,9,5.5inches,MediaTek MT6750        ,8MP,13MP,2GB,32GB,4500mAh        ,Android 8.0,100.0
+Motorola,Motorola E6 Play,4,5.5inches,MediaTek MT6739,5MP,13MP,2GB,32GB,3000mAh        ,Android 9.0,35.0
+Motorola,Motorola Moto E6,7,5.5inches,Qualcomm Snapdragon 435       ,13MP,13MP,2GB,16GB,3000mAh        ,Android 9.0,80.0
+Motorola,Motorola Moto E6 Plus,8,6.1inches,MediaTek Helio P22,13MP,13MP,4GB,64GB,3000mAh        ,Android 9.0,70.0
+Motorola,Motorola Moto E6s,5,6.1inches,MediaTek Helio P22,8MP,13MP,4GB,64GB,3000mAh        ,Android 9.0,80.0
+Motorola,Motorola Moto G8 Play,7,6.2inches,MediaTek Helio P70,13MP,13MP,2GB,32GB,4000mAh        ,Android 9.0,135.0
+Motorola,Motorola Moto G8 Plus,5,6.3inches,Qualcomm Snapdragon 665  ,25MP,48MP,4GB,64GB,4000mAh        ,Android 10.0,145.0
+Motorola,Motorola One Action,2,6.3inches,Samsung Exynos 9 Octa,12MP,13MP,4GB,128GB,3500mAh        ,Android 9.0,180.0
+Motorola,Motorola One Macro,6,6.2inches,MediaTek Helio P70,12MP,13MP,4GB,64GB,4000mAh        ,Android 9.0,185.0
+Motorola,Motorola One Zoom,7,6.4inches,Qualcomm Snapdragon 675,12MP,48MP,4GB,128GB,4000mAh        ,Android 9.0,170.0
+Motorola,Motorola Razr,7,6.2inches,Qualcomm Snapdragon 710,5MP,16MP,6GB,128GB,2510mAh,Android 9.0,200.0
+Samsung,Samsung Galaxy Note 10,28,6.3inches,Samsung Exynos 9 Octa,12MP,12MP,8GB,256 GB,3500mAh        ,Android 9.0,438.0
+Samsung,Samsung Galaxy Note 10 Plus,26,6.8inches,Samsung Exynos 9 Octa,12MP,12MP,12GB,256 GB,4300mAh,Android 9.0,445.0
+Samsung,Samsung Galaxy Note 8,30,6.3inches,Samsung Exynos 9 Octa,8MP,12MP,6GB,64GB,3300 mAh,Android 7.0,200.0
+Samsung,Samsung Galaxy Note 9,9,6.4inches,Samsung Exynos 9 Octa,8MP,12MP,6GB,128GB,4000mAh,Android 8.0,320.0
+Samsung,Samsung Galaxy S10,30,6.1inches,Samsung Exynos 9 Octa,10MP,12MP,8GB,128GB,3400 mAh,Android 9.0,390.0
+Samsung,Samsung Galaxy S10 Plus,22,6.4inches,Samsung Exynos 9 Octa,10MP,12MP,8GB,128GB,4100 mAh,Android 9.0,395.0
+Samsung,Samsung Galaxy S10 Plus 1TB,16,6.4inches,Samsung Exynos 9 Octa,10MP,12MP,8GB,128GB,4100 mAh,Android 9.0,395.0
+Samsung,Samsung Galaxy S10e,29,5.8inches,Samsung Exynos 9 Octa,10MP,12MP,6GB,128GB,3100 mAh,Android 9.0,385.0
+Samsung,Samsung Galaxy S8 Plus,29,6.2inches,Samsung Exynos 9 Octa,8MP,12MP,4GB,64GB,3500mAh        ,Android 9.0,194.0
+Samsung,Samsung Galaxy S9,26,5.8inches,Samsung Exynos 9 Octa,8MP,12MP,4GB,64GB,3000mAh        ,Android 8.0,315.0
+Samsung,Samsung Galaxy S9 Plus,29,6.2inches,Samsung Exynos 9 Octa,8MP,12MP,6GB,64GB,3500mAh        ,Android 8.0,320.0
+Samsung,Samsung Galaxy S9e,28,5.8inches,Samsung Exynos 9 Octa,8MP,12MP,4GB,64GB,3000mAh        ,Android 8.0,310.0
+Sony,Sony Xperia 1 Professional,3,6.5inches,Qualcomm Snapdragon 855        ,8MP,12MP,6GB,128GB,3300mAh,Android 9.0,450.0
+Sony,Sony Xperia 10 Plus,6,6.5inches,Qualcomm Snapdragon 636,8MP,12MP,4GB,64GB,3000mAh        ,Android 9.0,140.0
+Sony,Sony Xperia 5,6,6.1inches,Qualcomm Snapdragon 855        ,8MP,12MP,6GB,128GB,3140mAh        ,Android 9.0,372.0
+Sony,Sony Xperia 8,1,6.0inches,Qualcomm Snapdragon 630,8MP,12MP,4GB,64GB,2760mAh,Android 9.0,150.0
+Sony,Sony Xperia Ace,5,5.0inches,Qualcomm Snapdragon 630,8MP,12MP,4GB,64GB,2700mAh,Android 9.0,140.0
+Sony,Sony Xperia L2,2,5.5inches,MediaTek MT6737T,8MP,13MP,3GB,32GB,3300mAh,Android 9.0,32.0
+Sony,Sony Xperia L3,4,5.7inches,MediaTek Helio P22,8MP,13MP,3GB,32GB,3300mAh,Android 8.0,76.5
+Sony,Sony Xperia XA2 Plus,1,6.0inches,Qualcomm Snapdragon 630,8MP,23MP,4GB,32GB,3580mAh,Android 8.0,70.0
+Sony,Sony Xperia XZ2,4,5.7inches,Qualcomm Snapdragon 845,5MP,19MP,6GB,64GB,3180mAh,Android 8.0,265.0
+Sony,Sony Xperia XZ2 Premium,3,5.8inches,Qualcomm Snapdragon 845,0MP,0MP,6GB,64GB,3540mAh,Android 8.0,275.0
+Sony,Sony Xperia XZ3,2,6.0inches,Qualcomm Snapdragon 845,13MP,19MP,4GB,64GB,3330mAh,Android 9.0,260.0
+ZTE,ZTE Axon 10 Pro 5G,4,6.47inches,Qualcomm Snapdragon 855,20MP,48MP,6GB,128GB,4000mAh        ,Android 9.0,440.0
+ZTE,ZTE Axon 9 Pro,2,6.21inches,Qualcomm Snapdragon 845,20MP,12MP,6GB,128GB,4000mAh        ,Android 8.0,260.0
+ZTE,ZTE Blade 10 Prime,4,6.3inches,MediaTek Helio P60,16MP,16MP,3GB,64GB,3200mAh,Android 9.0,175.0
+ZTE,ZTE Blade A5,1,5.45inches,Unisoc SC9863,8MP,13MP,2GB,16GB,2600mAh,Android 9.0,76.5
+ZTE,ZTE Blade A7 Prime,2,6.09inches,MediaTek Helio A22,5MP,16MP,3GB,32GB,3200mAh,Android 9.0,136.5

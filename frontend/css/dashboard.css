@@ -1,0 +1,50 @@
+.container {
+    width: 100%;
+    padding-top: 30px;
+    height: 92vh;
+    /*padding: 40px,40px,40px,40px;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.chart-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.chart {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selector {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+select {
+    width: 50%;
+    height: 40px;
+    font-family: 'Muli', sans-serif;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    outline: none;
+}
+.hidden {
+    display: none;
+}
+.title{
+    padding-bottom: 20px;
+    text-align: left;
+}

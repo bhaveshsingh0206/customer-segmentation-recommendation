@@ -1,0 +1,999 @@
+Transaction_date,Payment_Type,Name,City,State,Country,Account_Created,Last_Login,ID,Count,Brand,Model
+2019-01-02 06:17:00,Mastercard,carolina,Basildon,England,United Kingdom,2019-01-02 06:00:00,2019-01-02 06:08:00,1,1,Apple,Apple iPhone 7
+2019-01-02 04:53:00,Visa,Betina,Parkville,MO,United States,2019-01-02 04:42:00,2019-01-02 07:49:00,2,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-02 13:08:00,Mastercard,Federica e Andrea,Astoria,OR,United States,2019-01-01 16:21:00,2019-01-03 12:32:00,3,1,Motorola,Motorola Razr
+2019-01-03 14:44:00,Visa,Gouya,Echuca,Victoria,Australia,2015-09-25 21:13:00,2019-01-03 14:22:00,4,1,Samsung,Samsung Galaxy S9e
+2019-01-04 12:56:00,Visa,Gerd W,Cahaba Heights,AL,United States,2018-11-15 15:47:00,2019-01-04 12:45:00,5,1,Apple,Apple iPhone 8 Plus
+2019-01-04 13:19:00,Visa,LAURENCE,Mickleton,NJ,United States,2018-09-24 15:19:00,2019-01-04 13:04:00,6,1,Samsung,Samsung Galaxy S10e
+2019-01-04 20:11:00,Mastercard,Fleur,Peoria,IL,United States,2019-01-03 09:38:00,2019-01-04 19:45:00,7,1,Apple,Apple iPhone 8
+2019-01-02 20:09:00,Mastercard,adam,Martin,TN,United States,2019-01-02 17:43:00,2019-01-04 20:01:00,8,1,Alcatel,Alcatel 3X
+2019-01-04 13:17:00,Mastercard,Renee Elisabeth,Tel Aviv,Tel Aviv,Israel,2019-01-04 13:03:00,2019-01-04 22:10:00,9,1,Motorola,Motorola Moto E6
+2019-01-04 14:11:00,Visa,Aidan,Chatou,Ile-de-France,France,2018-06-03 04:22:00,2019-01-05 01:17:00,10,1,Motorola,Motorola E6 Play
+2019-01-05 02:42:00,Diners,Stacy,New York,NY,United States,2019-01-05 02:23:00,2019-01-05 04:59:00,11,2,Apple,Apple iPhone XS
+2019-01-09 07:49:00,Visa,Stacy,Rochester Hills,MI,United States,2018-07-28 07:18:00,2019-02-09 17:41:00,11,2,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-05 05:39:00,Amex,Heidi,Eindhoven,Noord-Brabant,Netherlands,2019-01-05 04:55:00,2019-01-05 08:15:00,12,4,Apple,Apple iPhone XS
+2019-01-27 02:26:00,Diners,Heidi,MT Pleasant,TX,United States,2019-01-27 02:16:00,2019-01-27 06:41:00,12,4,Sony,Sony Xperia XZ2
+2019-01-15 11:56:00,Visa,Heidi,Calgary,Alberta,Canada,2019-01-14 09:16:00,2019-01-15 11:39:00,12,4,LG,LG K30
+2019-01-26 14:37:00,Visa,Heidi,St Augustine,FL,United States,2017-12-19 12:00:00,2019-02-04 16:55:00,12,4,Samsung,Samsung Galaxy Note 10
+2019-01-02 09:16:00,Mastercard,Sean,Shavano Park,TX,United States,2019-01-02 08:32:00,2019-01-05 09:05:00,13,3,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-21 14:06:00,Visa,Sean,Wantagh,NY,United States,2019-01-21 12:00:00,2019-01-21 14:06:00,13,3,ZTE,ZTE Blade A7 Prime
+2019-01-31 07:13:00,Amex,Sean,London,England,United Kingdom,2018-01-03 14:59:00,2019-02-22 07:12:00,13,3,Huawei,Huawei Nova 6 5G
+2019-01-05 10:08:00,Visa,Georgia,Eagle,ID,United States,2018-11-11 15:53:00,2019-01-05 10:05:00,14,1,Apple,Apple iPhone 11
+2019-01-02 14:18:00,Visa,Richard,Riverside,NJ,United States,2018-12-09 12:07:00,2019-01-05 11:01:00,15,2,Apple,Apple iPhone 8
+2019-01-18 09:42:00,Visa,Richard,Jamestown,RI,United States,2019-01-18 09:22:00,2019-02-09 08:30:00,15,2,Samsung,Samsung Galaxy S9 Plus
+2019-01-04 01:05:00,Diners,Leanne,Julianstown,Meath,Ireland,2019-01-04 00:00:00,2019-01-05 13:36:00,16,1,HTC,HTC U 19e
+2019-01-05 11:37:00,Visa,Janet,Ottawa,Ontario,Canada,2019-01-05 09:35:00,2019-01-05 19:24:00,17,2,LG,LG G8s ThinQ
+2019-01-12 12:37:00,Visa,Janet,Marietta,GA,United States,2017-09-13 14:20:00,2019-01-17 16:17:00,17,2,Samsung,Samsung Galaxy S10
+2019-01-06 05:02:00,Diners,barbara,Hyderabad,Andhra Pradesh,India,2019-01-06 02:41:00,2019-01-06 07:52:00,18,1,HTC,HTC U 12
+2019-01-06 07:45:00,Visa,Sabine,London,England,United Kingdom,2019-01-06 07:00:00,2019-01-06 09:17:00,19,2,Apple,Apple iPhone 7
+2019-01-14 01:28:00,Mastercard,Sabine,Milton Keynes,England,United Kingdom,2016-06-24 15:10:00,2019-02-07 00:26:00,19,2,Apple,Apple iPhone XR
+2019-01-02 07:35:00,Diners,Hani,Salt Lake City,UT,United States,2018-12-30 05:44:00,2019-01-06 10:52:00,20,1,Motorola,Motorola Moto E6 Plus
+2019-01-07 04:45:00,Amex,Jeremy,London,England,United Kingdom,2019-01-07 04:30:00,2019-01-26 08:01:00,21,2,Apple,Apple iPhone XR
+2019-01-06 12:56:00,Visa,Jeremy,Manchester,England,United Kingdom,2019-01-06 10:58:00,2019-01-06 13:31:00,21,2,Samsung,Samsung Galaxy S10e
+2019-01-01 11:05:00,Diners,Janis,Ballynora,Cork,Ireland,2017-12-10 12:37:00,2019-01-07 01:52:00,22,1,LG,LG G8X ThinQ
+2019-01-05 04:10:00,Mastercard,Nicola,Roodepoort,Gauteng,South Africa,2019-01-05 02:33:00,2019-01-07 05:13:00,23,4,Apple,Apple iPhone 11 Pro Max
+2019-01-10 19:28:00,Visa,Nicola,San Jose,CA,United States,2015-08-05 00:29:00,2019-02-05 21:10:00,23,4,Apple,Apple iPhone 11 Pro
+2019-01-19 06:50:00,Amex,Nicola,Bruxelles,Brussels (Bruxelles),Belgium,2018-07-13 11:29:00,2019-02-18 02:30:00,23,4,Apple,Apple iPhone XS
+2019-01-26 14:43:00,Visa,Nicola,Sneem,Kerry,Ireland,2019-01-26 13:55:00,2019-02-17 11:07:00,23,4,Motorola,Motorola Razr
+2019-01-06 07:18:00,Visa,asuman,Chula Vista,CA,United States,2019-01-06 07:07:00,2019-01-07 07:08:00,24,1,Apple,Apple iPhone 11 Pro
+2019-01-02 01:11:00,Mastercard,Lena,Kuopio,Ita-Suomen Laani,Finland,2018-12-31 02:48:00,2019-01-07 10:20:00,25,1,Motorola,Motorola Razr
+2019-01-22 15:59:00,Visa,Lisa,Ottawa,Ontario,Canada,2019-01-21 09:28:00,2019-02-25 17:15:00,26,10,Samsung,Samsung Galaxy Note 9
+2019-01-17 04:03:00,Visa,Lisa,Borja,Bohol,Philippines,2019-01-17 02:45:00,2019-02-09 06:09:00,26,10,Samsung,Samsung Galaxy Note 10
+2019-01-05 00:46:00,Amex,Lisa,Gurgaon,Haryana,India,2019-01-02 03:03:00,2019-01-27 00:17:00,26,10,Samsung,Samsung Galaxy S9e
+2019-01-31 15:25:00,Visa,Lisa,Ringgold,GA,United States,2019-01-28 09:54:00,2019-02-20 15:53:00,26,10,Samsung,Samsung Galaxy S9 Plus
+2019-01-18 20:16:00,Mastercard,Lisa,Princeton,NJ,United States,2019-01-18 19:47:00,2019-01-26 13:07:00,26,10,Samsung,Samsung Galaxy S10
+2019-01-28 03:07:00,Visa,Lisa,Anse Comeau,Quebec,Canada,2019-01-26 11:47:00,2019-01-28 08:08:00,26,10,Sony,Sony Xperia XA2 Plus
+2019-01-12 11:48:00,Mastercard,Lisa,South Waterford,ME,United States,2017-07-05 14:58:00,2019-02-17 15:29:00,26,10,Samsung,Samsung Galaxy S9
+2019-01-16 05:07:00,Amex,Lisa,Brulon,Pays de la Loire,France,2017-08-06 07:48:00,2019-01-25 11:42:00,26,10,Samsung,Samsung Galaxy Note 9
+2019-01-01 02:24:00,Visa,Lisa,Sugar Land,TX,United States,2019-01-01 01:56:00,2019-01-07 10:52:00,26,10,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-12 23:35:00,Visa,Lisa,Perth,Western Australia,Australia,2016-05-08 23:41:00,2019-02-12 03:46:00,26,10,Samsung,Samsung Galaxy Note 8
+2019-01-07 08:08:00,Diners,Bryan Kerrene,New York,NY,United States,2019-01-07 07:39:00,2019-01-07 12:38:00,27,1,Samsung,Samsung Galaxy S10
+2019-01-02 02:57:00,Visa,chris,London,England,United Kingdom,2018-01-03 07:23:00,2019-01-07 13:14:00,28,3,Apple,Apple iPhone 11
+2019-01-24 03:36:00,Visa,chris,Kjobenhavn,Staden Kobenhavn,Denmark,2019-01-20 13:11:00,2019-02-07 06:52:00,28,3,Motorola,Motorola Moto G8 Plus
+2019-01-11 02:04:00,Visa,chris,Gold Coast,Queensland,Australia,2019-01-11 00:33:00,2019-01-11 02:11:00,28,3,Huawei,Huawei Nova 6 SE
+2019-01-01 20:21:00,Visa,Maxine,Morton,IL,United States,2018-10-24 06:48:00,2019-01-07 20:49:00,29,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-25 02:46:00,Visa,Family,Dubai,Dubayy,United Arab Emirates,2019-01-08 01:19:00,2019-02-08 02:06:00,30,2,LG,LG K12+
+2019-01-08 00:42:00,Visa,Family,Los Gatos,CA,United States,2019-01-08 00:28:00,2019-01-08 03:39:00,30,2,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-27 15:28:00,Visa,Katherine,Corrales,NM,United States,2019-01-17 17:52:00,2019-01-27 15:17:00,31,4,Huawei,Huawei Nova 6 SE
+2019-01-08 03:56:00,Mastercard,Katherine,New York,NY,United States,2019-01-08 03:33:00,2019-01-08 06:19:00,31,4,Huawei,Huawei Nova 6 SE
+2019-01-11 10:51:00,Mastercard,Katherine,Hofheim am Taunus,Hessen,Germany,2018-12-06 01:34:00,2019-01-18 07:17:00,31,4,Motorola,Motorola One Macro
+2019-01-15 08:12:00,Visa,Katherine,Marietta,GA,United States,2019-01-13 10:03:00,2019-02-03 07:44:00,31,4,Sony,Sony Xperia L2
+2019-01-17 12:59:00,Diners,Linda,Den Haag,Zuid-Holland,Netherlands,2018-10-29 13:09:00,2019-01-17 13:07:00,32,2,HTC,HTC U 12 Life
+2019-01-08 03:16:00,Mastercard,Linda,Miami,FL,United States,2019-01-08 03:06:00,2019-01-08 06:34:00,32,2,Samsung,Samsung Galaxy S10e
+2019-01-08 01:59:00,Mastercard,SYLVIA,Vesenaz,Geneve,Switzerland,2017-11-28 11:56:00,2019-01-08 07:20:00,33,1,Apple,Apple iPhone XS
+2019-01-03 09:03:00,Diners,Sheila,Brooklyn,NY,United States,2019-01-03 08:47:00,2019-01-08 10:38:00,34,1,Motorola,Motorola One Zoom
+2019-01-05 13:17:00,Mastercard,Stephanie,Badhoevedorp,Noord-Holland,Netherlands,2019-01-05 12:45:00,2019-01-08 11:45:00,35,6,Apple,Apple iPhone X
+2019-01-23 10:45:00,Visa,Stephanie,Saint Charles,IL,United States,2019-01-23 08:46:00,2019-02-11 17:57:00,35,6,Apple,Apple iPhone XR
+2019-01-30 23:49:00,Visa,Stephanie,Hilversum,Noord-Holland,Netherlands,2018-11-30 11:54:00,2019-02-21 14:05:00,35,6,Apple,Apple iPhone 11
+2019-01-11 14:17:00,Visa,Stephanie,Brussels,Brussels (Bruxelles),Belgium,2019-01-11 13:39:00,2019-01-11 13:39:00,35,6,Apple,Apple iphone XS Max
+2019-01-12 07:23:00,Visa,Stephanie,Fairfax,CA,United States,2019-01-11 14:42:00,2019-02-06 16:13:00,35,6,Apple,Apple iPhone X
+2019-01-15 03:43:00,Visa,Stephanie,Rouen,Upper Normandy,France,2018-12-26 09:01:00,2019-01-15 05:39:00,35,6,Apple,Apple iPhone 11 Pro
+2019-01-02 18:54:00,Mastercard,Kelly,Hendersonville,TN,United States,2018-12-07 04:51:00,2019-02-12 11:31:00,36,3,Samsung,Samsung Galaxy S10e
+2019-01-28 12:54:00,Mastercard,Kelly,Vancouver,British Columbia,Canada,2019-01-27 21:04:00,2019-02-10 12:09:00,36,3,Huawei,Huawei P Smart Pro
+2019-01-06 07:46:00,Amex,Kelly,Reston,VA,United States,2019-01-06 07:30:00,2019-01-08 12:40:00,36,3,Apple,Apple iPhone XS
+2019-01-05 20:00:00,Visa,James,Burpengary,Queensland,Australia,2018-12-10 19:53:00,2019-01-08 17:58:00,37,3,LG,LG X6
+2019-01-09 14:25:00,Amex,James,Guer,Brittany,France,2018-04-07 00:00:00,2019-01-26 05:32:00,37,3,Apple,Apple iPhone 8 Plus
+2019-01-20 08:58:00,Visa,James,Edmonton,Alberta,Canada,2018-12-24 17:51:00,2019-02-18 09:42:00,37,3,Apple,Apple iPhone 7
+2019-01-08 16:24:00,Visa,jennifer,Phoenix,AZ,United States,2019-01-08 15:57:00,2019-01-08 18:30:00,38,2,LG,LG K12+
+2019-01-08 12:04:00,Visa,jennifer,Morro Bay,CA,United States,2013-12-01 19:13:00,2019-02-05 22:11:00,38,2,Samsung,Samsung Galaxy S9 Plus
+2019-01-09 06:39:00,Mastercard,Anneli,Houston,TX,United States,2019-01-09 05:09:00,2019-01-09 07:11:00,39,1,Alcatel,Alcatel 3
+2019-01-06 22:19:00,Amex,Ritz,Pittsfield,VT,United States,2019-01-06 12:00:00,2019-01-09 10:05:00,40,1,Apple,Apple iPhone XR
+2019-01-03 09:54:00,Visa,Sylvia,Zekeriyakoy,Istanbul,Turkey,2018-12-29 10:38:00,2019-01-19 07:37:00,41,3,HTC,HTC Desire 19s
+2019-01-06 23:00:00,Amex,Sylvia,Pittsfield,VT,United States,2019-01-06 12:00:00,2019-01-09 10:05:00,41,3,Motorola,Motorola One Macro
+2019-01-17 09:12:00,Amex,Sylvia,Alexandria,VA,United States,2016-12-26 14:23:00,2019-02-21 04:50:00,41,3,Samsung,Samsung Galaxy Note 10
+2019-01-07 17:51:00,Visa,Marie,Dickerson,MD,United States,2016-01-13 09:38:00,2019-01-26 11:35:00,42,3,ZTE,ZTE Axon 9 Pro
+2019-01-07 07:44:00,Mastercard,Marie,Ball Ground,GA,United States,2019-01-07 05:35:00,2019-01-09 10:52:00,42,3,Samsung,Samsung Galaxy Note 8
+2019-01-20 08:51:00,Visa,Marie,Winchester,MA,United States,2018-07-23 14:59:00,2019-01-22 18:08:00,42,3,Apple,Apple iPhone 11
+2019-01-03 13:24:00,Visa,Mehmet Fatih,Helsingor,Frederiksborg,Denmark,2019-01-03 12:47:00,2019-01-09 11:14:00,43,1,LG,LG K12+
+2019-01-07 15:12:00,Visa,Anabela,Flossmoor,IL,United States,2019-01-05 19:55:00,2019-01-09 16:03:00,44,1,Apple,Apple iPhone XS
+2019-01-09 15:32:00,Diners,Nicole,Basingstoke,England,United Kingdom,2019-01-07 12:31:00,2019-01-17 12:03:00,45,9,Apple,Apple iPhone 7
+2019-01-01 08:09:00,Mastercard,Nicole,South Melbourne,Victoria,Australia,2018-12-30 00:55:00,2019-01-31 05:40:00,45,9,Apple,Apple iPhone 11
+2019-01-30 06:48:00,Mastercard,Nicole,Fayetteville,NC,United States,2019-01-30 04:51:00,2019-02-10 14:41:00,45,9,Apple,Apple iPhone 7 Plus
+2019-01-05 18:55:00,Visa,Nicole,Mc Lean,VA,United States,2018-04-03 16:57:00,2019-02-12 10:25:00,45,9,Apple,Apple iPhone 7 Plus
+2019-01-17 10:14:00,Mastercard,Nicole,Simcoe,Ontario,Canada,2019-01-17 07:46:00,2019-02-18 18:49:00,45,9,Apple,Apple iPhone 7
+2019-01-11 14:56:00,Visa,Nicole,Aardal,Sogn og Fjordane,Norway,2019-01-05 05:51:00,2019-01-31 04:21:00,45,9,Apple,Apple iPhone 11 Pro
+2019-01-07 20:15:00,Amex,Nicole,Houston,TX,United States,2019-01-07 17:17:00,2019-01-09 20:02:00,45,9,Samsung,Samsung Galaxy Note 8
+2019-01-15 11:26:00,Visa,Nicole,Brookline,MA,United States,2017-07-11 11:18:00,2019-01-20 14:01:00,45,9,Samsung,Samsung Galaxy S9e
+2019-01-24 09:30:00,Visa,Nicole,Neuchatel,Neuchatel,Switzerland,2019-01-24 05:24:00,2019-02-14 13:45:00,45,9,Samsung,Samsung Galaxy Note 10
+2019-01-03 10:11:00,Visa,Christiane,Delray Beach,FL,United States,2019-01-03 09:27:00,2019-01-10 09:46:00,46,3,Samsung,Samsung Galaxy S10
+2019-01-28 05:36:00,Visa,Christiane,Black River,Black River,Mauritius,2019-01-09 08:10:00,2019-03-01 04:40:00,46,3,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-06 20:39:00,Mastercard,Christiane,Mission,British Columbia,Canada,2019-01-06 09:44:00,2019-02-23 08:55:00,46,3,Apple,Apple iPhone 8
+2019-01-09 15:58:00,Mastercard,Sari,Newbury,England,United Kingdom,2019-01-09 14:53:00,2019-01-10 13:16:00,47,1,Samsung,Samsung Galaxy S10
+2019-01-13 01:46:00,Mastercard,simone,Lyngby,Kobenhavn,Denmark,2017-10-30 12:03:00,2019-02-05 08:52:00,48,2,Samsung,Samsung Galaxy S10
+2019-01-03 13:11:00,Mastercard,simone,Kobenhavn,Kobenhavn,Denmark,2018-10-31 00:31:00,2019-01-10 13:24:00,48,2,LG,LG V50S ThinQ 5G
+2019-01-29 12:53:00,Visa,Vanessa,Arc-et-Senans,Franche-Comte,France,2019-01-29 10:10:00,2019-02-18 01:03:00,49,4,Samsung,Samsung Galaxy S10
+2019-01-29 05:30:00,Diners,Vanessa,Ithaca,NY,United States,2019-01-29 04:49:00,2019-01-29 06:56:00,49,4,LG,LG V50S ThinQ 5G
+2019-01-03 18:43:00,Visa,Vanessa,Cornwall,Ontario,Canada,2016-07-03 08:36:00,2019-02-17 06:17:00,49,4,Sony,Sony Xperia L3
+2019-01-10 12:57:00,Amex,Vanessa,Sandy Springs,GA,United States,2017-02-07 20:16:00,2019-01-10 14:09:00,49,4,Samsung,Samsung Galaxy S9e
+2019-01-10 14:43:00,Diners,Anupam,Kinsaley,Dublin,Ireland,2019-01-09 11:38:00,2019-01-10 14:37:00,50,1,Samsung,Samsung Galaxy Note 10
+2019-01-10 12:05:00,Visa,Karina,Fort Lauderdale,FL,United States,2018-07-01 12:53:00,2019-01-10 16:33:00,51,1,Apple,Apple iPhone 11 Pro Max
+2019-01-19 16:10:00,Mastercard,Frank,Old Greenwich,CT,United States,2019-01-19 15:31:00,2019-01-19 16:00:00,52,2,LG,LG X6
+2019-01-06 01:20:00,Mastercard,Frank,Melbourne,Victoria,Australia,2019-01-02 17:51:00,2019-01-10 18:27:00,52,2,LG,LG K12+
+2019-01-16 01:51:00,Visa,Angela,Vienna,Vienna,Austria,2019-01-16 01:38:00,2019-01-24 05:39:00,53,3,Samsung,Samsung Galaxy S10
+2019-01-10 14:56:00,Visa,Angela,Ankeny,IA,United States,2019-01-08 03:06:00,2019-01-10 19:41:00,53,3,Samsung,Samsung Galaxy S9 Plus
+2019-01-14 03:09:00,Mastercard,Angela,Newburgh,Scotland,United Kingdom,2017-04-25 05:08:00,2019-01-24 02:12:00,53,3,Huawei,Huawei Nova 6 5G
+2019-01-07 10:01:00,Visa,Darren,Pittsboro,NC,United States,2019-01-07 09:04:00,2019-01-10 20:02:00,54,1,LG,LG K30
+2019-01-01 01:26:00,Mastercard,Nikki,New Rochelle,NY,United States,2019-01-01 00:58:00,2019-01-10 21:31:00,55,1,Apple,Apple iPhone XS
+2019-01-10 21:38:00,Visa,Anushka,Maple Ridge District Municipality,British Columbia,Canada,2019-01-10 21:17:00,2019-01-11 19:32:00,56,1,Samsung,Samsung Galaxy S10 Plus
+2019-01-07 06:18:00,Mastercard,June,Beachwood,OH,United States,2016-02-23 11:56:00,2019-01-11 19:35:00,57,1,LG,LG K12+
+2019-01-04 08:39:00,Diners,Baybars,Prince Albert,Saskatchewan,Canada,2019-01-03 17:17:00,2019-01-11 21:05:00,58,1,Samsung,Samsung Galaxy Note 9
+2019-01-05 00:31:00,Mastercard,Bonnie,Saltsjobaden,Stockholm,Sweden,2019-01-04 23:45:00,2019-01-12 00:37:00,59,1,LG,LG X4
+2019-01-07 19:03:00,Mastercard,Cindy,Englewood,CO,United States,2017-12-17 19:55:00,2019-01-24 19:19:00,60,3,Samsung,Samsung Galaxy S10 Plus
+2019-01-03 16:56:00,Visa,Cindy,Glendora,CA,United States,2014-03-13 14:09:00,2019-02-14 11:23:00,60,3,Apple,Apple iPhone 8
+2019-01-02 06:07:00,Visa,Cindy,Kemble,England,United Kingdom,2018-12-30 10:21:00,2019-01-12 02:24:00,60,3,LG,LG K30
+2019-01-12 03:25:00,Mastercard,chrissy,W Lebanon,NH,United States,2019-01-12 03:12:00,2019-01-12 03:22:00,61,1,Samsung,Samsung Galaxy Note 8
+2019-01-04 13:56:00,Mastercard,Tamar,Headley,England,United Kingdom,2017-11-29 09:23:00,2019-01-12 05:38:00,62,1,Motorola,Motorola E6 Play
+2019-01-07 00:12:00,Mastercard,Deirdre,Lausanne,Vaud,Switzerland,2018-12-01 06:25:00,2019-01-12 06:55:00,63,1,Apple,Apple iPhone 11
+2019-01-12 05:18:00,Mastercard,Bernadett,Southampton,England,United Kingdom,2019-01-12 04:45:00,2019-01-12 08:08:00,64,1,Apple,Apple iPhone X
+2019-01-08 15:16:00,Visa,Dottie,Woodsboro,MD,United States,2019-01-08 14:56:00,2019-01-12 09:29:00,65,1,Apple,Apple iPhone 11 Pro
+2019-01-11 11:33:00,Visa,Stefan,Stavanger,Rogaland,Norway,2019-01-11 09:02:00,2019-01-12 10:37:00,66,1,Samsung,Samsung Galaxy Note 8
+2019-01-07 20:22:00,Visa,Gina,Red Deer,Alberta,Canada,2018-11-23 19:30:00,2019-01-12 12:24:00,67,1,Apple,Apple iPhone 11 Pro Max
+2019-01-02 22:00:00,Diners,Lynne,Memphis,TN,United States,2019-01-02 21:04:00,2019-01-12 13:18:00,68,2,Apple,Apple iPhone 11 Pro
+2019-01-22 18:44:00,Visa,Lynne,Southlake,TX,United States,2019-01-22 17:24:00,2019-01-25 15:02:00,68,2,Apple,Apple iPhone 11
+2019-01-12 12:00:00,Mastercard,Tammy,Milford,ME,United States,2018-07-06 08:49:00,2019-02-21 18:45:00,69,2,Apple,Apple iPhone 8
+2019-01-05 13:52:00,Mastercard,Tammy,Morges,Vaud,Switzerland,2019-01-05 05:55:00,2019-01-12 14:04:00,69,2,Apple,Apple iPhone 7
+2019-01-08 20:32:00,Visa,Kim,Calgary,Alberta,Canada,2019-01-08 20:21:00,2019-01-12 14:07:00,70,7,Sony,Sony Xperia 5
+2019-01-13 20:22:00,Visa,Kim,Kelowna,British Columbia,Canada,2018-08-02 14:28:00,2019-01-25 19:25:00,70,7,Sony,Sony Xperia L3
+2019-01-02 02:50:00,Visa,Kim,Newcastle,Wicklow,Ireland,2015-10-12 06:56:00,2019-02-04 02:19:00,70,7,Samsung,Samsung Galaxy Note 10
+2019-01-29 16:07:00,Diners,Kim,Paris,Ile-de-France,France,2019-01-29 15:45:00,2019-02-10 22:24:00,70,7,Motorola,Motorola Moto G8 Play
+2019-01-25 19:59:00,Visa,Kim,Seattle,WA,United States,2018-08-13 18:27:00,2019-02-01 16:04:00,70,7,Sony,Sony Xperia 5
+2019-01-05 05:33:00,Mastercard,Kim,London,England,United Kingdom,2015-12-08 13:22:00,2019-01-27 04:49:00,70,7,Sony,Sony Xperia Ace
+2019-01-06 14:08:00,Mastercard,Kim,Brussels,Brussels (Bruxelles),Belgium,2018-12-18 07:04:00,2019-02-21 10:49:00,70,7,Samsung,Samsung Galaxy S10e
+2019-01-08 13:34:00,Visa,Bruce,Belleville,Ontario,Canada,2019-01-06 14:38:00,2019-01-12 18:31:00,71,1,Sony,Sony Xperia XZ2
+2019-01-11 13:08:00,Visa,Rosa Maria,Cincinnati,OH,United States,2019-01-11 12:38:00,2019-01-12 18:44:00,72,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-12 19:04:00,Visa,Lydia,Comox,British Columbia,Canada,2018-09-20 20:53:00,2019-01-12 19:01:00,73,1,Samsung,Samsung Galaxy S10 Plus
+2019-01-21 14:15:00,Amex,Eric,Ely,NV,United States,2019-01-21 13:56:00,2019-01-23 10:35:00,74,3,Apple,Apple iPhone 8 Plus
+2019-01-12 13:41:00,Visa,Eric,Gasperich,Luxembourg,Luxembourg,2019-01-12 13:16:00,2019-01-13 01:03:00,74,3,HTC,Microsoft Lumia 950 XL
+2019-01-14 06:35:00,Visa,Eric,Melbourne,Victoria,Australia,2018-07-25 07:02:00,2019-02-11 02:05:00,74,3,Samsung,Samsung Galaxy S10
+2019-01-11 10:38:00,Mastercard,AnaPaula,Helens Bay,Northern Ireland,United Kingdom,2018-09-04 09:26:00,2019-01-13 02:36:00,75,1,LG,LG K50S
+2019-01-13 05:57:00,Visa,Robin,Milan,Lombardy,Italy,2018-10-15 05:31:00,2019-01-13 05:55:00,76,1,Samsung,Samsung Galaxy S10e
+2019-01-13 06:13:00,Visa,Gitte,Staten Island,NY,United States,2019-01-13 05:17:00,2019-01-13 07:33:00,77,1,Alcatel,Alcatel 1X
+2019-01-08 13:14:00,Visa,Dr. Claudia,Oslo,Oslo,Norway,2019-01-08 12:47:00,2019-01-13 10:49:00,78,1,Apple,Apple iPhone 11
+2019-01-02 11:41:00,Visa,Crystal,Farmington,Michigan,United States,2019-01-01 12:00:00,2019-01-13 18:34:00,79,1,Windows,Microsoft Lumia 950
+2019-01-07 19:50:00,Diners,Delphine,Santa Monica,CA,United States,2019-01-03 12:04:00,2019-01-13 20:17:00,80,1,Samsung,Samsung Galaxy S9e
+2019-01-01 20:28:00,Visa,nathalie,Calgary,Alberta,Canada,2019-01-01 20:11:00,2019-01-13 21:11:00,81,1,Apple,Apple iPhone 7
+2019-01-03 15:22:00,Mastercard,Lindi,Vancouver,British Columbia,Canada,2018-02-20 22:45:00,2019-01-13 23:02:00,82,1,Motorola,Motorola E6 Play
+2019-01-12 03:03:00,Mastercard,Valda,Irvine,CA,United States,2019-01-12 02:48:00,2019-01-14 01:07:00,83,1,Samsung,Samsung Galaxy Note 8
+2019-01-05 08:58:00,Mastercard,Marcia,Telgte,Nordrhein-Westfalen,Germany,2018-09-01 03:39:00,2019-01-14 02:07:00,84,1,LG,LG X6
+2019-01-28 07:07:00,Visa,Kevin,Berkeswell,England,United Kingdom,2019-01-28 06:57:00,2019-01-28 07:18:00,85,4,Huawei,Huawei Nova 6 5G
+2019-01-23 10:04:00,Mastercard,Kevin,Hollywood,CA,United States,2016-05-30 20:25:00,2019-02-28 09:59:00,85,4,Motorola,Motorola Moto G8 Play
+2019-01-10 14:03:00,Mastercard,Kevin,Cheltenham,England,United Kingdom,2016-03-13 04:56:00,2019-01-14 02:22:00,85,4,Apple,Apple iPhone XS
+2019-01-21 02:15:00,Visa,Kevin,London,England,United Kingdom,2019-01-08 02:50:00,2019-01-22 13:46:00,85,4,Apple,Apple iPhone XS
+2019-01-04 17:02:00,Mastercard,Clare,Lafayette,CA,United States,2015-12-31 00:55:00,2019-01-18 08:43:00,86,2,LG,LG X4
+2019-01-13 11:26:00,Visa,Clare,Keller,VA,United States,2019-01-13 11:15:00,2019-01-14 02:39:00,86,2,LG,LG Q70
+2019-01-02 12:18:00,Visa,Alice,Nakskov,Storstrom,Denmark,2017-12-05 11:37:00,2019-01-14 04:05:00,87,1,Alcatel,Alcatel 3X
+2019-01-14 04:54:00,Mastercard,ZENA,Honolulu,HI,United States,2019-01-14 04:34:00,2019-01-14 04:43:00,88,1,Samsung,Samsung Galaxy Note 10
+2019-01-01 18:32:00,Amex,Andrea,San Mateo,CA,United States,2018-12-31 17:09:00,2019-02-06 21:59:00,89,5,Apple,Apple iPhone 7 Plus
+2019-01-20 06:03:00,Mastercard,Andrea,Shreveport,LA,United States,2019-01-20 05:13:00,2019-01-20 07:15:00,89,5,Sony,Sony Xperia 5
+2019-01-08 12:03:00,Diners,Andrea,Calgary,Alberta,Canada,2018-08-13 15:58:00,2019-02-24 17:41:00,89,5,Apple,Apple iPhone 8 Plus
+2019-01-12 00:17:00,Mastercard,Andrea,Brondby Strand,Kobenhavn,Denmark,2019-01-07 23:40:00,2019-02-11 22:23:00,89,5,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-06 17:15:00,Visa,Andrea,Bubuieci,Chisinau,Moldova,2018-12-24 17:31:00,2019-01-14 10:27:00,89,5,Samsung,Samsung Galaxy S9
+2019-01-03 13:56:00,Visa,Rennae,Amelia Island,FL,United States,2019-01-03 12:30:00,2019-01-14 13:03:00,90,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-04 07:54:00,Visa,Gerhard,Alliston,Ontario,Canada,2015-10-21 21:49:00,2019-01-14 13:06:00,91,1,Apple,Apple iPhone 8
+2019-01-26 15:16:00,Visa,Megan,Huntersville,NC,United States,2018-12-22 20:09:00,2019-02-23 05:14:00,92,2,Samsung,Samsung Galaxy Note 10
+2019-01-12 07:28:00,Amex,Megan,La Alberca,Murcia,Spain,2018-12-10 16:41:00,2019-01-14 13:44:00,92,2,LG,LG X4
+2019-01-06 15:15:00,Mastercard,Danielle,Rathgar,Dublin,Ireland,2019-01-06 14:59:00,2019-01-14 14:33:00,93,1,Apple,Apple iPhone XR
+2019-01-13 23:56:00,Mastercard,Tod,Coral Gables,FL,United States,2019-01-13 23:13:00,2019-01-14 15:17:00,94,1,Motorola,Motorola Moto E6
+2019-01-14 19:32:00,Visa,Janaina,Miami,FL,United States,2018-12-16 22:19:00,2019-01-14 19:28:00,95,1,Apple,Apple iPhone 11 Pro
+2019-01-06 21:13:00,Visa,Kofi,Vancouver,British Columbia,Canada,2018-01-07 21:16:00,2019-01-14 20:50:00,96,1,Huawei,Huawei Mate 30 Pro 5G
+2019-01-08 15:27:00,Mastercard,Jennifer,Chicago,IL,United States,2019-01-04 22:22:00,2019-01-21 13:28:00,97,5,Apple,Apple iPhone XR
+2019-01-09 16:35:00,Diners,Jennifer,Nordstrand,Oslo,Norway,2015-12-29 09:26:00,2019-02-01 04:18:00,97,5,Apple,Apple iPhone 8 Plus
+2019-01-07 14:55:00,Visa,Jennifer,Drogheda,Louth,Ireland,2016-09-21 02:39:00,2019-02-03 13:36:00,97,5,Motorola,Motorola Moto E6s
+2019-01-25 16:08:00,Diners,Jennifer,Vancouver,British Columbia,Canada,2019-01-24 20:12:00,2019-02-20 12:47:00,97,5,Motorola,Motorola One Zoom
+2019-01-14 11:19:00,Visa,Jennifer,Jumeira,Dubayy,United Arab Emirates,2019-01-14 10:44:00,2019-01-14 21:26:00,97,5,Samsung,Samsung Galaxy S10
+2019-01-13 19:39:00,Visa,Jolene,Englewood,CO,United States,2019-01-06 22:00:00,2019-01-14 22:02:00,98,1,Windows,Microsoft Lumia 950 XL
+2019-01-08 07:26:00,Mastercard,anne,Bournemouth,England,United Kingdom,2018-01-25 15:46:00,2019-01-15 01:36:00,99,1,Apple,Apple iPhone X
+2019-01-15 02:40:00,Mastercard,Alexis,Genoa,IL,United States,2019-01-15 02:04:00,2019-01-15 02:04:00,100,2,Apple,Apple iPhone XS
+2019-01-16 06:04:00,Mastercard,Alexis,Ehingen an der Donau,Baden-Wurttemberg,Germany,2019-01-15 02:56:00,2019-02-14 05:05:00,100,2,Alcatel,Alcatel 3
+2019-01-12 06:40:00,Visa,Dez,Al 'Adliyah,Al Manamah,Bahrain,2019-01-10 12:50:00,2019-01-15 04:46:00,101,1,LG,LG W30
+2019-01-05 15:39:00,Visa,Melissa,Parkland,FL,United States,2018-12-10 09:14:00,2019-01-15 06:01:00,102,5,Apple,Apple iPhone 11 Pro Max
+2019-01-21 02:20:00,Visa,Melissa,Carouge,Geneve,Switzerland,2019-01-16 07:06:00,2019-02-20 08:38:00,102,5,Huawei,Huawei Nova 6 SE
+2019-01-27 13:08:00,Mastercard,Melissa,Geneve,Geneve,Switzerland,2018-05-09 08:50:00,2019-02-11 02:19:00,102,5,Sony,Sony Xperia 1 Professional
+2019-01-18 13:25:00,Visa,Melissa,Chester,CT,United States,2019-01-15 11:57:00,2019-02-20 10:08:00,102,5,Motorola,Motorola Razr
+2019-01-19 11:12:00,Visa,Melissa,Aberdeen,Scotland,United Kingdom,2018-08-27 08:22:00,2019-01-20 00:35:00,102,5,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-10 05:21:00,Amex,CLARE,San Francisco,CA,United States,2019-01-10 00:07:00,2019-01-15 06:25:00,103,1,Samsung,Samsung Galaxy S10e
+2019-01-15 04:12:00,Mastercard,catherine,Keller,VA,United States,2019-01-15 04:02:00,2019-01-15 06:59:00,104,1,Apple,Apple iPhone 8 Plus
+2019-01-12 11:48:00,Visa,Veronique,Tsawwassen,British Columbia,Canada,2018-07-24 15:48:00,2019-01-15 08:56:00,105,3,LG,LG W30
+2019-01-26 14:02:00,Mastercard,Veronique,Fresno,TX,United States,2019-01-24 09:24:00,2019-02-25 14:22:00,105,3,HTC,Microsoft Lumia 950
+2019-01-08 18:41:00,Diners,Veronique,Tenafly,NJ,United States,2017-12-09 17:59:00,2019-01-27 18:12:00,105,3,LG,LG G8s ThinQ
+2019-01-06 10:48:00,Mastercard,Bruce and Camille,Clinton,NJ,United States,2017-08-21 21:19:00,2019-01-15 09:32:00,106,1,LG,LG G8X ThinQ
+2019-01-14 09:10:00,Mastercard,Ellen,Owensboro,KY,United States,2019-01-14 08:25:00,2019-01-15 09:40:00,107,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-04 16:59:00,Visa,Amy,Parramatta,New South Wales,Australia,2019-01-03 22:35:00,2019-02-05 22:44:00,108,3,Motorola,Motorola Moto E6s
+2019-01-05 15:15:00,Amex,Amy,Ashford,England,United Kingdom,2015-08-18 02:04:00,2019-02-24 10:35:00,108,3,Samsung,Samsung Galaxy S9 Plus
+2019-01-14 22:44:00,Visa,Amy,Lakewood Village,TX,United States,2019-01-14 22:21:00,2019-01-15 09:50:00,108,3,Samsung,Samsung Galaxy S10e
+2019-01-18 05:27:00,Visa,Anna,Downey,CA,United States,2019-01-18 04:28:00,2019-01-18 04:42:00,109,5,Apple,Apple iPhone 11 Pro
+2019-01-22 12:55:00,Visa,Anna,Paris,Ile-de-France,France,2017-08-17 04:34:00,2019-02-04 13:12:00,109,5,Apple,Apple iPhone XS
+2019-01-06 09:52:00,Mastercard,Anna,Lafayette,CA,United States,2019-01-03 15:01:00,2019-01-25 10:19:00,109,5,Huawei,Huawei Nova 6 SE
+2019-01-06 07:23:00,Visa,Anna,Okotoks,Alberta,Canada,2018-07-21 12:03:00,2019-01-15 10:00:00,109,5,Apple,Apple iPhone XS
+2019-01-11 06:01:00,Mastercard,Anna,New York,NY,United States,2019-01-01 10:24:00,2019-02-03 04:25:00,109,5,Motorola,Motorola Moto E6
+2019-01-01 05:04:00,Mastercard,Regina,Glimmen,Groningen,Netherlands,2012-12-16 04:09:00,2019-01-15 10:50:00,110,1,Apple,Apple iphone XS Max
+2019-01-20 17:23:00,Visa,Jessica,Toronto,Ontario,Canada,2018-01-20 18:01:00,2019-02-23 19:35:00,111,6,Apple,Apple iPhone 8
+2019-01-29 12:16:00,Mastercard,Jessica,Chiefland,FL,United States,2019-01-27 15:56:00,2019-02-24 18:29:00,111,6,Apple,Apple iPhone 11
+2019-01-15 11:58:00,Visa,Jessica,Kanata,Ontario,Canada,2019-01-14 05:59:00,2019-01-15 11:49:00,111,6,Apple,Apple iPhone 8
+2019-01-20 05:50:00,Visa,Jessica,Abbey Town,England,United Kingdom,2019-01-20 04:23:00,2019-01-20 07:46:00,111,6,Apple,Apple iPhone 7 Plus
+2019-01-14 16:02:00,Mastercard,Jessica,Woodland Hills,CA,United States,2019-01-14 14:53:00,2019-02-13 16:45:00,111,6,Apple,Apple iPhone 8 Plus
+2019-01-10 04:04:00,Visa,Jessica,Oldenburg,Lower Saxony,Germany,2018-12-20 08:41:00,2019-01-23 05:28:00,111,6,Apple,Apple iPhone XS
+2019-01-25 21:49:00,Mastercard,Petra,San Francisco,CA,United States,2019-01-24 01:35:00,2019-02-21 09:26:00,112,2,Samsung,Samsung Galaxy Note 8
+2019-01-12 09:43:00,Diners,Petra,Bergen,Nordrhein-Westfalen,Germany,2019-01-07 08:39:00,2019-01-15 12:14:00,112,2,Apple,Apple iphone XS Max
+2019-01-25 20:15:00,Visa,Brian,Croton On Hudson,NY,United States,2019-01-23 22:33:00,2019-02-22 11:51:00,113,2,BLU,BLU Vivo XR
+2019-01-15 12:33:00,Visa,Brian,College Park,MD,United States,2019-01-15 12:19:00,2019-01-15 13:28:00,113,2,Apple,Apple iPhone 8
+2019-01-14 11:35:00,Visa,Kenny,Kailua Kona,HI,United States,2019-01-13 17:42:00,2019-01-15 15:31:00,114,1,LG,LG W30
+2019-01-14 15:40:00,Amex,ayse,Redondo Beach,CA,United States,2019-01-13 19:37:00,2019-01-15 15:45:00,115,1,LG,LG V50S ThinQ 5G
+2019-01-03 11:08:00,Amex,Maria and Timothy,Fountain Hls,AZ,United States,2016-06-05 22:42:00,2019-01-15 16:37:00,116,1,Apple,Apple iPhone 11 Pro Max
+2019-01-12 01:37:00,Visa,IMAN,Brisbane,Queensland,Australia,2019-01-12 01:26:00,2019-01-15 17:54:00,117,1,Samsung,Samsung Galaxy S9
+2019-01-16 07:21:00,Mastercard,Gerald,Mahopac,NY,United States,2018-11-03 14:28:00,2019-01-16 06:08:00,118,1,Apple,Apple iPhone 8 Plus
+2019-01-15 12:54:00,Mastercard,Annelies,Ile-Perrot,Quebec,Canada,2019-01-15 12:22:00,2019-01-16 07:53:00,119,1,Apple,Apple iPhone 11
+2019-01-07 07:19:00,Amex,Jocelyn,Bruxelles,Brussels (Bruxelles),Belgium,2018-06-30 09:33:00,2019-01-16 08:54:00,120,1,Samsung,Samsung Galaxy S10
+2019-01-03 09:56:00,Visa,Kara,Chicago,IL,United States,2018-12-31 16:26:00,2019-01-16 13:43:00,121,1,HTC,HTC WildFire X
+2019-01-16 17:41:00,Visa,Orsi,Rayford,TX,United States,2019-01-16 17:01:00,2019-01-16 17:56:00,122,1,Samsung,Samsung Galaxy S9
+2019-01-05 05:33:00,Visa,Ben,Escondido,CA,United States,2019-01-05 03:19:00,2019-01-17 00:35:00,123,1,Samsung,Samsung Galaxy S10
+2019-01-02 00:50:00,Visa,Sam,Tesvikiye,Istanbul,Turkey,2019-01-02 00:10:00,2019-01-17 01:57:00,124,1,Motorola,Motorola Moto G8 Play
+2019-01-13 01:51:00,Visa,Filip and Teresa,Centurion,Gauteng,South Africa,2019-01-12 01:40:00,2019-01-17 02:23:00,125,1,LG,LG W30 Pro
+2019-01-15 10:24:00,Visa,Grace,York,England,United Kingdom,2019-01-13 12:30:00,2019-01-17 04:42:00,126,1,Sony,Sony Xperia Ace
+2019-01-11 08:59:00,Visa,Chelsey,Ashburn,VA,United States,2018-11-09 05:53:00,2019-01-17 08:54:00,127,1,Apple,Apple iPhone 8
+2019-01-15 15:56:00,Amex,Charis,Los Angeles,CA,United States,2015-11-11 11:49:00,2019-01-17 10:54:00,128,1,Alcatel,Alcatel 1X
+2019-01-01 12:19:00,Visa,Marlene,Edgewood,WA,United States,2016-01-16 14:45:00,2019-01-17 11:38:00,129,1,Samsung,Samsung Galaxy S9e
+2019-01-06 14:03:00,Visa,Fie,New York,NY,United States,2018-05-01 08:26:00,2019-01-17 11:44:00,130,1,LG,LG X6
+2019-01-04 07:43:00,Mastercard,Jamie,Houston,TX,United States,2019-01-04 06:51:00,2019-01-17 17:31:00,131,1,LG,LG W10
+2019-01-17 16:22:00,Visa,Chad,West Orange,NJ,United States,2019-01-17 15:22:00,2019-01-17 18:42:00,132,1,Apple,Apple iPhone 11 Pro Max
+2019-01-01 03:51:00,Mastercard,sunny,Amsterdam,Noord-Holland,Netherlands,2015-09-14 22:53:00,2019-01-17 22:34:00,133,1,Alcatel,Alcatel 1V
+2019-01-18 05:15:00,Diners,Roger,Urlingford,Kilkenny,Ireland,2019-01-18 04:44:00,2019-01-18 04:44:00,134,1,Apple,Apple iPhone X
+2019-01-01 01:51:00,Mastercard,Si,Holte,Kobenhavn,Denmark,2015-12-14 15:46:00,2019-01-18 04:44:00,135,1,LG,LG K50S
+2019-01-18 06:30:00,Visa,Sherri,Freienbach,Schwyz,Switzerland,2018-06-22 14:10:00,2019-01-18 06:21:00,136,1,Motorola,Motorola Moto E6s
+2019-01-17 01:23:00,Amex,Campbell,Mushrif,,Kuwait,2019-01-16 14:26:00,2019-01-18 09:08:00,137,1,Apple,Apple iPhone XS
+2019-01-18 02:16:00,Visa,Ruth,Nashville,AR,United States,2019-01-16 19:32:00,2019-01-18 09:13:00,138,2,BLU,BLU Vivo 8L
+2019-01-14 08:16:00,Amex,Ruth,Saskatoon,Saskatchewan,Canada,2018-08-09 12:51:00,2019-02-05 11:24:00,138,2,Samsung,Samsung Galaxy Note 8
+2019-01-10 09:32:00,Mastercard,Cheryl,Hilton Head,SC,United States,2015-01-10 21:39:00,2019-02-27 07:33:00,139,2,ZTE,ZTE Axon 10 Pro 5G
+2019-01-18 11:34:00,Visa,Cheryl,New Malden,England,United Kingdom,2015-10-28 14:57:00,2019-01-18 10:27:00,139,2,Alcatel,Alcatel 1S
+2019-01-08 08:58:00,Mastercard,Doug,Huntington,NY,United States,2019-01-08 08:22:00,2019-01-25 17:39:00,140,2,Apple,Apple iPhone 7
+2019-01-18 04:38:00,Visa,Doug,Bishop Auckland,England,United Kingdom,2017-12-28 13:39:00,2019-01-18 11:58:00,140,2,Samsung,Samsung Galaxy Note 8
+2019-01-18 13:26:00,Mastercard,Julianne,Navan,Meath,Ireland,2019-01-18 12:20:00,2019-01-18 12:20:00,141,1,Apple,Apple iPhone 8
+2019-01-18 11:53:00,Visa,Shailesh,Joppa,MD,United States,2019-01-18 00:00:00,2019-01-18 12:23:00,142,1,Samsung,Samsung Galaxy Note 8
+2019-01-18 12:04:00,Visa,Conrad,Joppa,MD,United States,2019-01-18 00:00:00,2019-01-18 12:23:00,143,1,Apple,Apple iPhone 11
+2019-01-13 19:54:00,Diners,Alison,Hampton,NJ,United States,2016-01-03 06:09:00,2019-01-18 12:51:00,144,2,Samsung,Samsung Galaxy S9 Plus
+2019-01-29 12:10:00,Amex,Alison,Issaquah,WA,United States,2017-11-01 21:25:00,2019-02-23 21:58:00,144,2,Windows,Microsoft Lumia 950
+2019-01-05 21:06:00,Mastercard,Tracy,Louisville,KY,United States,2019-01-05 16:27:00,2019-01-18 13:58:00,145,2,Apple,Apple iPhone 7 Plus
+2019-01-05 06:12:00,Diners,Tracy,Lucca,Tuscany,Italy,2019-01-04 06:19:00,2019-02-24 13:56:00,145,2,Apple,Apple iPhone XR
+2019-01-14 06:32:00,Visa,Kate,Broadlands,VA,United States,2016-04-12 06:14:00,2019-01-18 14:04:00,146,3,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-22 06:51:00,Visa,Kate,Rochester Hills,MI,United States,2019-01-22 05:54:00,2019-02-12 13:01:00,146,3,BLU,BLU Vivo 8L
+2019-01-28 01:38:00,Mastercard,Kate,Stockholm,Stockholm,Sweden,2017-04-16 12:58:00,2019-01-30 09:18:00,146,3,Apple,Apple iPhone 11
+2019-01-04 23:48:00,Diners,Sarka,Yellowknife,Northwest Territories,Canada,2019-01-04 22:41:00,2019-01-18 16:17:00,147,1,Apple,Apple iPhone 8
+2019-01-07 06:33:00,Diners,Therese,Clontarf,Dublin,Ireland,2018-06-15 08:08:00,2019-02-03 07:51:00,148,3,Alcatel,Alcatel 1V
+2019-01-18 16:32:00,Visa,Therese,Los Angeles,CA,United States,2019-01-18 16:23:00,2019-01-18 16:54:00,148,3,Samsung,Samsung Galaxy S9
+2019-01-15 19:10:00,Diners,Therese,Pensacola,FL,United States,2015-12-29 21:33:00,2019-02-11 18:53:00,148,3,Windows,Microsoft Lumia 950
+2019-01-18 17:04:00,Visa,Abdul-L,New York,NY,United States,2019-01-18 16:58:00,2019-01-18 16:58:00,149,1,Motorola,Motorola One Zoom
+2019-01-18 17:20:00,Visa,heidi,Saint Paul,MN,United States,2019-01-18 17:16:00,2019-01-18 17:16:00,150,1,Samsung,Samsung Galaxy Note 9
+2019-01-18 17:39:00,Visa,jiyoung,New York,NY,United States,2019-01-18 17:34:00,2019-01-18 17:34:00,151,1,Samsung,Samsung Galaxy S9e
+2019-01-11 11:20:00,Visa,Klara,Spring Lake Park,MN,United States,2018-12-31 19:48:00,2019-01-18 17:43:00,152,1,Samsung,Samsung Galaxy S10e
+2019-01-02 11:06:00,Mastercard,Andrew,Sevilla,Andalucia,Spain,2016-03-12 15:02:00,2019-02-10 10:04:00,153,2,Apple,Apple iPhone X
+2019-01-13 20:59:00,Mastercard,Andrew,Winnipeg,Manitoba,Canada,2019-01-13 16:44:00,2019-01-18 19:17:00,153,2,Huawei,Huawei P Smart Pro
+2019-01-12 16:50:00,Visa,Vicki and Bill,Seattle,WA,United States,2019-01-04 21:33:00,2019-01-19 01:22:00,154,1,Apple,Apple iphone XS Max
+2019-01-12 15:12:00,Mastercard,David,Deptford,NJ,United States,2019-01-12 14:07:00,2019-01-19 03:47:00,155,4,Huawei,Huawei Mate 30 Pro 5G
+2019-01-25 17:55:00,Visa,David,Kapaa,HI,United States,2019-01-24 12:18:00,2019-02-26 20:21:00,155,4,Samsung,Samsung Galaxy S10 Plus
+2019-01-09 18:52:00,Visa,David,Alpharetta,GA,United States,2018-11-25 07:56:00,2019-01-19 06:12:00,155,4,LG,LG V50S ThinQ 5G
+2019-01-19 10:47:00,Mastercard,David,Stavenger,Rogaland,Norway,2019-01-13 13:53:00,2019-02-25 00:40:00,155,4,Sony,Sony Xperia 1 Professional
+2019-01-06 12:27:00,Mastercard,Antonella,Amsterdam,Noord-Holland,Netherlands,2019-01-06 12:04:00,2019-01-19 04:59:00,156,1,Apple,Apple iPhone 11 Pro Max
+2019-01-18 23:17:00,Visa,Greg,Washington,DC,United States,2019-01-18 15:18:00,2019-01-19 06:13:00,157,1,Apple,Apple iPhone XR
+2019-01-07 08:21:00,Visa,Jannik,Holmenkollen,Oslo,Norway,2019-01-03 11:06:00,2019-01-19 06:54:00,158,1,Samsung,Samsung Galaxy Note 10
+2019-01-05 19:37:00,Amex,Bernadette,Washington,DC,United States,2017-11-07 09:49:00,2019-01-19 07:42:00,159,1,Apple,Apple iPhone 7
+2019-01-04 12:49:00,Diners,Denise,Montreal,Quebec,Canada,2017-05-25 10:58:00,2019-01-19 07:58:00,160,1,Apple,Apple iPhone XR
+2019-01-08 11:55:00,Visa,Caren,Braunschweig,Lower Saxony,Germany,2019-01-03 12:39:00,2019-01-19 08:31:00,161,1,Alcatel,Alcatel 1V
+2019-01-14 18:21:00,Visa,luciana,Athens,GA,United States,2015-09-25 06:25:00,2019-01-19 11:21:00,162,1,Apple,Apple iPhone 11
+2019-01-11 19:01:00,Diners,Maja,Hoschton,GA,United States,2019-01-11 18:17:00,2019-01-19 12:47:00,163,1,Apple,Apple iPhone 8 Plus
+2019-01-16 19:47:00,Amex,Kristen,Los Gatos,CA,United States,2019-01-13 20:49:00,2019-02-20 23:09:00,164,2,Apple,Apple iphone XS Max
+2019-01-14 05:20:00,Visa,Kristen,Binningen,Basel-Country,Switzerland,2019-01-12 13:31:00,2019-01-19 13:07:00,164,2,Apple,Apple iPhone 7
+2019-01-15 08:07:00,Visa,Kirstie,Royal Oak,MI,United States,2018-12-13 19:35:00,2019-01-19 14:59:00,165,1,LG,LG W30
+2019-01-06 06:07:00,Visa,Scott,Rungsted,Frederiksborg,Denmark,2018-12-27 14:29:00,2019-02-09 04:20:00,166,5,Sony,Sony Xperia Ace
+2019-01-15 08:10:00,Visa,Scott,Royal Oak,MI,United States,2018-12-13 19:35:00,2019-01-19 14:59:00,166,5,Samsung,Samsung Galaxy S9
+2019-01-31 06:14:00,Diners,Scott,Sag Harbor,NY,United States,2018-06-27 04:15:00,2019-02-23 13:36:00,166,5,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-25 13:50:00,Visa,Scott,Lausanne,Vaud,Switzerland,2019-01-25 10:09:00,2019-02-22 03:33:00,166,5,Apple,Apple iPhone XR
+2019-01-04 03:41:00,Mastercard,Scott,Den Haag,Zuid-Holland,Netherlands,2015-01-04 12:43:00,2019-02-20 00:24:00,166,5,Apple,Apple iPhone XR
+2019-01-02 17:45:00,Mastercard,Jammie,Belmont,MA,United States,2015-12-09 17:19:00,2019-01-19 15:36:00,167,1,Apple,Apple iPhone 7
+2019-01-25 16:11:00,Visa,scott,Rogers,AR,United States,2019-01-25 15:55:00,2019-02-05 00:20:00,168,2,Huawei,Huawei Mate 30 Pro 5G
+2019-01-19 16:55:00,Mastercard,scott,Coconut Grove,FL,United States,2019-01-19 16:18:00,2019-01-19 16:18:00,168,2,Apple,Apple iPhone 8
+2019-01-10 17:41:00,Visa,Jiri,Vienna,VA,United States,2019-01-10 16:32:00,2019-01-19 17:52:00,169,1,LG,LG Q70
+2019-01-18 13:49:00,Visa,Bev,San Ramon,CA,United States,2019-01-11 12:00:00,2019-01-19 18:07:00,170,1,LG,LG X4
+2019-01-15 05:47:00,Visa,Dave and Amy,Norfolk,VA,United States,2019-01-15 00:21:00,2019-01-19 22:48:00,171,1,Apple,Apple iPhone 11 Pro
+2019-01-04 10:16:00,Mastercard,Rebecca,Berlin,Berlin,Germany,2018-12-28 10:50:00,2019-01-28 11:09:00,172,2,Apple,Apple iPhone 7
+2019-01-19 23:06:00,Mastercard,Rebecca,Norfolk,VA,United States,2019-01-19 22:53:00,2019-01-19 22:53:00,172,2,HTC,Microsoft Lumia 950 XL
+2019-01-04 01:38:00,Amex,jeremy,Charlestown,New South Wales,Australia,2018-07-15 21:04:00,2019-01-20 01:08:00,173,1,ZTE,ZTE Blade 10 Prime
+2019-01-20 03:11:00,Visa,Randy,Wigan,England,United Kingdom,2019-01-20 03:02:00,2019-01-20 03:06:00,174,1,HTC,HTC U 19e
+2019-01-03 10:52:00,Visa,Djeiny,Rockville,MD,United States,2015-04-18 09:27:00,2019-01-20 06:47:00,175,1,Apple,Apple iPhone X
+2019-01-05 13:07:00,Visa,Amanda,Shenfield,England,United Kingdom,2019-01-02 14:27:00,2019-02-01 22:27:00,176,3,Samsung,Samsung Galaxy S9
+2019-01-13 18:08:00,Amex,Amanda,Houston,TX,United States,2019-01-13 17:02:00,2019-01-29 07:34:00,176,3,Samsung,Samsung Galaxy Note 9
+2019-01-20 05:24:00,Mastercard,Amanda,Shreveport,LA,United States,2019-01-20 05:13:00,2019-01-20 07:15:00,176,3,Apple,Apple iPhone 11
+2019-01-10 11:37:00,Amex,Joanna,Little Silver,NJ,United States,2018-12-28 20:10:00,2019-01-20 07:42:00,177,1,Apple,Apple iphone XS Max
+2019-01-19 16:32:00,Amex,alison,Mid City West,PA,United States,2019-01-19 10:24:00,2019-01-20 10:09:00,178,1,Apple,Apple iPhone 11 Pro
+2019-01-18 10:42:00,Visa,malin,Atlanta,Georgia,United States,2019-01-18 00:00:00,2019-01-20 11:09:00,179,1,LG,LG K30
+2019-01-07 06:11:00,Visa,Tiffany,Paris,Ile-de-France,France,2019-01-07 05:30:00,2019-01-20 11:22:00,180,1,Samsung,Samsung Galaxy S9e
+2019-01-03 08:29:00,Visa,Genevieve,Milton Keynes,England,United Kingdom,2018-10-10 01:26:00,2019-01-20 11:31:00,181,1,Samsung,Samsung Galaxy Note 9
+2019-01-01 02:09:00,Mastercard,Saraya,Dresden,Saxony,Germany,2016-03-12 11:31:00,2019-01-20 11:56:00,182,1,Windows,Microsoft Lumia 950 XL
+2019-01-20 12:34:00,Mastercard,Anastasia,NYC,NY,United States,2019-01-20 12:17:00,2019-01-20 12:55:00,183,1,Alcatel,Alcatel 1C
+2019-01-24 08:45:00,Visa,Elizabeth,Cos Cob,CT,United States,2018-11-08 14:45:00,2019-02-17 03:40:00,184,10,Samsung,Samsung Galaxy S10 Plus
+2019-01-07 13:28:00,Visa,Elizabeth,Calne,England,United Kingdom,2019-01-04 13:07:00,2019-02-10 12:39:00,184,10,Samsung,Samsung Galaxy Note 10
+2019-01-23 07:13:00,Visa,Elizabeth,Hamilton,Hamilton,Bermuda,2019-01-19 06:03:00,2019-02-25 16:20:00,184,10,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-26 08:00:00,Amex,Elizabeth,Bluffton,SC,United States,2019-01-23 11:12:00,2019-02-26 07:49:00,184,10,Sony,Sony Xperia XZ2
+2019-01-28 13:03:00,Amex,Elizabeth,Okotoks,Alberta,Canada,2018-09-10 06:53:00,2019-02-03 09:13:00,184,10,Samsung,Samsung Galaxy Note 9
+2019-01-05 03:03:00,Diners,Elizabeth,Cork,Cork,Ireland,2018-05-21 07:50:00,2019-02-26 04:05:00,184,10,Samsung,Samsung Galaxy S10
+2019-01-16 18:36:00,Visa,Elizabeth,Wollongong,New South Wales,Australia,2018-11-01 16:32:00,2019-01-21 01:49:00,184,10,Samsung,Samsung Galaxy S10 Plus
+2019-01-13 09:40:00,Visa,Elizabeth,North Eastham,MA,United States,2015-01-26 19:09:00,2019-02-26 12:45:00,184,10,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-20 03:51:00,Visa,Elizabeth,The Grange,Queensland,Australia,2018-11-12 03:34:00,2019-01-20 13:11:00,184,10,Samsung,Samsung Galaxy S8 Plus
+2019-01-06 14:38:00,Mastercard,Elizabeth,Den Haag,Zuid-Holland,Netherlands,2017-05-14 12:48:00,2019-01-25 03:13:00,184,10,Samsung,Samsung Galaxy S10
+2019-01-05 16:55:00,Visa,Jeffrey,Montreal-Nord,Quebec,Canada,2013-09-29 17:08:00,2019-01-20 14:38:00,185,1,LG,LG K40S
+2019-01-12 19:47:00,Mastercard,Blanca Gabriela,Irving,TX,United States,2018-12-10 21:49:00,2019-01-20 18:02:00,186,1,Alcatel,Alcatel 1X
+2019-01-04 19:20:00,Amex,Elisa,Ottawa Hills,OH,United States,2019-01-04 18:38:00,2019-01-20 18:03:00,187,1,Samsung,Samsung Galaxy S9
+2019-01-10 08:33:00,Mastercard,Patricia,Portola Valley,CA,United States,2017-02-04 10:09:00,2019-01-20 22:06:00,188,2,Apple,Apple iphone XS Max
+2019-01-26 15:42:00,Visa,Patricia,Allen,TX,United States,2019-01-26 14:38:00,2019-02-12 22:41:00,188,2,Apple,Apple iPhone X
+2019-01-09 14:51:00,Visa,Bob,Sydney,New South Wales,Australia,2019-01-07 18:15:00,2019-01-21 00:29:00,189,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-16 02:41:00,Visa,Kristyn,Kearns,UT,United States,2019-01-15 18:01:00,2019-01-21 01:02:00,190,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-24 13:38:00,Mastercard,Cathy,Kidderminster,England,United Kingdom,2018-12-22 03:57:00,2019-02-22 00:00:00,191,2,Apple,Apple iPhone 11 Pro
+2019-01-20 08:10:00,Amex,Cathy,Brooklyn,NY,United States,2017-08-05 18:52:00,2019-01-21 05:16:00,191,2,Samsung,Samsung Galaxy S10 Plus
+2019-01-06 12:45:00,Amex,Kaylee,Penngrove,CA,United States,2019-01-05 14:06:00,2019-01-21 11:18:00,192,1,Apple,Apple iPhone XR
+2019-01-10 08:13:00,Visa,suzanne,Lemont,IL,United States,2019-01-09 19:15:00,2019-01-21 11:35:00,193,1,LG,LG V50S ThinQ 5G
+2019-01-18 12:32:00,Visa,Cassandra,Santry,Dublin,Ireland,2018-12-14 14:26:00,2019-01-28 07:41:00,194,2,Samsung,Samsung Galaxy Note 8
+2019-01-07 14:15:00,Mastercard,Cassandra,San Carlos,CA,United States,2019-01-05 15:42:00,2019-01-21 12:00:00,194,2,Apple,Apple iPhone X
+2019-01-21 11:36:00,Visa,nicole,Oslo,Oslo,Norway,2018-12-23 12:02:00,2019-01-21 13:47:00,195,1,Alcatel,Alcatel 1X
+2019-01-02 02:28:00,Mastercard,Morgan,Coomera,Queensland,Australia,2018-05-03 04:14:00,2019-01-21 16:37:00,196,1,LG,LG K40S
+2019-01-19 19:07:00,Diners,Harriet,Fort Oglethorpe,GA,United States,2019-01-19 16:52:00,2019-01-21 17:02:00,197,1,Apple,Apple iPhone XR
+2019-01-18 06:27:00,Mastercard,Janine,Corbin City,NJ,United States,2015-10-27 19:22:00,2019-01-21 17:10:00,198,1,Apple,Apple iPhone XS
+2019-01-09 08:57:00,Diners,Debora,Wall,NJ,United States,2018-01-21 10:27:00,2019-02-20 16:45:00,199,2,LG,LG K50S
+2019-01-20 11:58:00,Mastercard,Debora,Lakeside,CA,United States,2018-11-01 23:14:00,2019-01-21 17:25:00,199,2,LG,LG W30
+2019-01-20 16:32:00,Visa,Vishpala,Margate,FL,United States,2018-01-02 09:52:00,2019-01-21 19:05:00,200,1,Apple,Apple iPhone X
+2019-01-01 07:09:00,Amex,Emer,South Palm Beach,FL,United States,2015-02-28 05:40:00,2019-01-21 19:14:00,201,1,Apple,Apple iPhone 7
+2019-01-21 14:55:00,Diners,john,New York,NY,United States,2019-01-21 10:23:00,2019-01-21 20:34:00,202,2,LG,LG K40S
+2019-01-07 08:00:00,Mastercard,john,Glan-Munchweiler,Rhineland-Palatinate,Germany,2015-05-26 07:00:00,2019-01-27 06:30:00,202,2,LG,LG K50S
+2019-01-07 22:29:00,Mastercard,lailani,Anchorage,AK,United States,2019-01-07 13:23:00,2019-01-21 22:30:00,203,1,LG,LG W30
+2019-01-11 22:22:00,Visa,STEPHANIE,Mona Vale,New South Wales,Australia,2018-12-30 17:48:00,2019-01-21 22:33:00,204,1,Apple,Apple iphone XS Max
+2019-01-21 14:25:00,Visa,Tricia,Castricum,Noord-Holland,Netherlands,2017-12-28 15:28:00,2019-01-22 00:38:00,205,1,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-15 07:26:00,Mastercard,Celina,Den Haag,Zuid-Holland,Netherlands,2019-01-14 00:00:00,2019-02-01 13:17:00,206,2,Samsung,Samsung Galaxy Note 8
+2019-01-18 16:50:00,Visa,Celina,North Brunswick,NJ,United States,2019-01-18 16:25:00,2019-01-22 01:17:00,206,2,Apple,Apple iPhone X
+2019-01-27 02:57:00,Visa,Rosemary,Cobham,England,United Kingdom,2019-01-27 02:50:00,2019-02-28 09:22:00,207,2,Alcatel,Alcatel 1C
+2019-01-21 12:08:00,Visa,Rosemary,Jacksonville,FL,United States,2019-01-21 11:39:00,2019-01-22 06:13:00,207,2,Apple,Apple iPhone 8 Plus
+2019-01-30 13:13:00,Visa,Patrick,Lexington,MA,United States,2019-01-30 12:44:00,2019-02-03 17:14:00,208,3,ZTE,ZTE Blade 10 Prime
+2019-01-22 06:41:00,Visa,Patrick,Baytown,TX,United States,2019-01-22 04:32:00,2019-01-22 06:54:00,208,3,LG,LG Stylo 5
+2019-01-20 05:01:00,Visa,Patrick,Birmingham,MI,United States,2019-01-18 17:36:00,2019-02-04 16:45:00,208,3,Apple,Apple iPhone 7 Plus
+2019-01-08 23:40:00,Visa,Jacob,Lindfield,New South Wales,Australia,2019-01-08 17:52:00,2019-02-09 18:31:00,209,2,Sony,Sony Xperia 10 Plus
+2019-01-12 09:23:00,Mastercard,Jacob,Winter Haven,FL,United States,2019-01-10 14:55:00,2019-01-22 07:59:00,209,2,Samsung,Samsung Galaxy S9e
+2019-01-22 08:23:00,Visa,elisabeth,Gonzaga Univ,WA,United States,2019-01-22 07:55:00,2019-01-22 08:14:00,210,1,LG,LG Stylo 5
+2019-01-03 06:41:00,Visa,ayelet,Malmo,Skane,Sweden,2018-08-07 09:24:00,2019-01-22 11:24:00,211,1,Sony,Sony Xperia 5
+2019-01-01 12:20:00,Visa,seemab,San Pawl tat-Targa,,Malta,2015-09-17 03:32:00,2019-01-22 12:00:00,212,1,LG,LG W30
+2019-01-04 22:00:00,Amex,Lucien,Wiesbaden,Hessen,Germany,2019-01-04 11:32:00,2019-01-22 12:21:00,213,1,Sony,Sony Xperia 10 Plus
+2019-01-01 14:22:00,Mastercard,Liban,Stavanger,Rogaland,Norway,2018-06-19 10:48:00,2019-01-22 14:38:00,214,1,Apple,Apple iPhone 7
+2019-01-16 01:07:00,Diners,Lesley,Cork,Cork,Ireland,2019-01-14 04:10:00,2019-01-22 15:06:00,215,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-04 09:02:00,Visa,Charlene,Calgary,Alberta,Canada,2018-12-13 19:20:00,2019-01-22 19:27:00,216,3,Samsung,Samsung Galaxy S9 Plus
+2019-01-25 12:35:00,Visa,Charlene,Sebastopol,CA,United States,2019-01-25 10:42:00,2019-02-14 10:40:00,216,3,Alcatel,Alcatel 3X
+2019-01-06 09:55:00,Mastercard,Charlene,Vancouver,British Columbia,Canada,2018-10-07 14:55:00,2019-01-28 13:17:00,216,3,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-06 08:34:00,Visa,Orit,Dallas,TX,United States,2019-01-05 15:00:00,2019-01-22 21:41:00,217,1,Motorola,Motorola Moto G8 Play
+2019-01-08 04:16:00,Visa,Alan,Malahide,Dublin,Ireland,2016-04-18 13:26:00,2019-01-23 02:21:00,218,1,LG,LG X6
+2019-01-23 03:33:00,Mastercard,Anja Langer,Saint Paul,MN,United States,2019-01-23 03:00:00,2019-01-23 03:00:00,219,1,Apple,Apple iPhone 11
+2019-01-06 04:18:00,Visa,Lina,Edinburgh,Scotland,United Kingdom,2019-01-06 03:38:00,2019-01-23 03:22:00,220,1,Apple,Apple iPhone X
+2019-01-23 03:30:00,Amex,Larry,Naarden,Noord-Holland,Netherlands,2019-01-23 03:27:00,2019-01-23 03:40:00,221,1,Alcatel,Alcatel 3X
+2019-01-25 18:21:00,Visa,Marion,Umea,Vasterbotten,Sweden,2019-01-25 16:35:00,2019-01-28 10:19:00,222,2,Samsung,Samsung Galaxy S9 Plus
+2019-01-05 02:57:00,Visa,Marion,Rennes,Brittany,France,2018-12-29 03:16:00,2019-01-23 07:29:00,222,2,Apple,Apple iphone XS Max
+2019-01-21 06:39:00,Amex,Miriane,Norfolk,VA,United States,2017-07-30 21:10:00,2019-01-23 12:48:00,223,1,Apple,Apple iPhone XS
+2019-01-19 08:14:00,Visa,Jeff,Houston,TX,United States,2019-01-04 12:39:00,2019-01-23 12:52:00,224,1,ZTE,ZTE Axon 9 Pro
+2019-01-23 08:00:00,Diners,christina,Chepel,Budapest,Hungary,2019-01-22 09:55:00,2019-01-23 12:59:00,225,1,Samsung,Samsung Galaxy Note 10
+2019-01-22 23:35:00,Mastercard,Shannon,Buffalo Grove,IL,United States,2019-01-22 23:23:00,2019-01-23 22:05:00,226,1,LG,LG K12+
+2019-01-01 06:29:00,Mastercard,Elaine,Vicenza,Veneto,Italy,2017-08-03 02:48:00,2019-01-24 05:51:00,227,3,LG,LG G8X ThinQ
+2019-01-21 09:07:00,Visa,Elaine,Vienna,VA,United States,2018-04-02 09:59:00,2019-02-01 21:07:00,227,3,Alcatel,Alcatel 1X
+2019-01-02 04:21:00,Visa,Elaine,Tranby,Buskerud,Norway,2017-07-30 11:42:00,2019-02-26 03:18:00,227,3,Samsung,Samsung Galaxy S9
+2019-01-21 07:59:00,Visa,Helen,Mechanics Grove,PA,United States,2018-04-07 17:15:00,2019-01-24 06:01:00,228,2,Samsung,Samsung Galaxy S10 Plus
+2019-01-24 18:02:00,Visa,Helen,Aloma,FL,United States,2015-11-29 17:33:00,2019-02-07 06:03:00,228,2,Apple,Apple iphone XS Max
+2019-01-23 07:37:00,Amex,Fatisha,Miami,FL,United States,2019-01-23 06:32:00,2019-01-24 06:54:00,229,1,Apple,Apple iPhone X
+2019-01-18 14:39:00,Visa,Nina,Silver Spring,MD,United States,2019-01-05 15:43:00,2019-01-24 07:31:00,230,1,Alcatel,Alcatel 3X
+2019-01-24 09:01:00,Visa,Barbara,Kirriemuir,Scotland,United Kingdom,2019-01-24 08:02:00,2019-01-24 08:02:00,231,2,Apple,Apple iPhone 7 Plus
+2019-01-01 09:35:00,Mastercard,Barbara,La Crescenta,CA,United States,2018-12-31 17:51:00,2019-02-02 10:27:00,231,2,Samsung,Samsung Galaxy S9
+2019-01-13 11:56:00,Diners,Karen,Montreal,Quebec,Canada,2018-10-31 12:37:00,2019-02-13 08:18:00,232,5,Samsung,Samsung Galaxy S10 Plus
+2019-01-07 20:01:00,Visa,Karen,Austin,TX,United States,2019-01-06 19:16:00,2019-02-09 19:56:00,232,5,Samsung,Samsung Galaxy S8 Plus
+2019-01-12 11:16:00,Visa,Karen,Madrid,Madrid,Spain,2017-07-17 06:08:00,2019-02-06 10:42:00,232,5,Samsung,Samsung Galaxy Note 10
+2019-01-15 01:41:00,Diners,Karen,Roquefort,Provence-Alpes-Cote d'Azur,France,2019-01-14 04:13:00,2019-01-24 08:36:00,232,5,Motorola,Motorola Moto E6 Plus
+2019-01-16 05:12:00,Visa,Karen,Berikon,Aargau,Switzerland,2017-10-19 12:31:00,2019-02-25 05:12:00,232,5,Motorola,Motorola Moto G8 Plus
+2019-01-17 07:23:00,Visa,Georgina,Portland,OR,United States,2017-11-28 10:05:00,2019-01-24 08:54:00,233,1,Alcatel,Alcatel 1V
+2019-01-23 11:37:00,Diners,Kellie,Staten Island,NY,United States,2019-01-23 10:42:00,2019-01-24 08:59:00,234,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-19 15:02:00,Mastercard,Terry,San Antonio,TX,United States,2019-01-19 14:43:00,2019-01-24 10:26:00,235,1,Motorola,Motorola Moto G8 Plus
+2019-01-11 07:10:00,Visa,LAURIE,Guildford,England,United Kingdom,2016-03-07 05:47:00,2019-01-24 14:54:00,236,1,Apple,Apple iPhone X
+2019-01-10 03:28:00,Visa,frauke,Horten,Vestfold,Norway,2018-11-24 15:50:00,2019-01-24 15:10:00,237,1,Apple,Apple iPhone 7 Plus
+2019-01-15 11:45:00,Diners,Simone,Watford,England,United Kingdom,2018-09-04 03:01:00,2019-02-25 15:21:00,238,3,Apple,Apple iPhone 11 Pro Max
+2019-01-30 05:20:00,Visa,Simone,Kilcornan,Limerick,Ireland,2019-01-30 04:06:00,2019-02-18 07:23:00,238,3,Apple,Apple iPhone 7 Plus
+2019-01-17 14:02:00,Visa,Simone,San Antonio,TX,United States,2015-12-07 19:48:00,2019-01-24 21:29:00,238,3,Apple,Apple iPhone 11 Pro
+2019-01-25 04:34:00,Mastercard,Hilde,Groningen,Groningen,Netherlands,2019-01-08 05:16:00,2019-02-23 03:12:00,239,2,LG,LG V50S ThinQ 5G
+2019-01-25 00:09:00,Visa,Hilde,Princeville,HI,United States,2018-06-20 22:08:00,2019-01-25 00:12:00,239,2,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-09 14:27:00,Visa,Leah,Castleknock,Dublin,Ireland,2017-06-14 13:14:00,2019-01-25 00:57:00,240,1,Motorola,Motorola Moto E6 Plus
+2019-01-09 14:32:00,Visa,Laine,Castleknock,Dublin,Ireland,2017-06-14 13:14:00,2019-01-25 00:57:00,241,1,Apple,Apple iPhone 11
+2019-01-11 15:59:00,Visa,kirsten,Bishops Stortford,England,United Kingdom,2016-01-17 08:51:00,2019-01-25 03:03:00,242,1,Sony,Sony Xperia Ace
+2019-01-01 09:21:00,Diners,Babs,Blackpool,England,United Kingdom,2019-01-01 08:05:00,2019-01-25 10:52:00,243,1,LG,LG V50S ThinQ 5G
+2019-01-03 07:58:00,Mastercard,Gerlinde,Hellerup,Kobenhavn,Denmark,2019-01-02 12:27:00,2019-01-25 11:13:00,244,1,Apple,Apple iPhone 8
+2019-01-11 11:36:00,Mastercard,Hollyn,London,England,United Kingdom,2018-10-14 14:23:00,2019-01-25 11:16:00,245,1,Apple,Apple iPhone 7
+2019-01-13 14:53:00,Visa,leiser,N Java,NY,United States,2019-01-13 13:22:00,2019-01-25 11:33:00,246,1,Apple,Apple iphone XS Max
+2019-01-01 10:06:00,Mastercard,Irene,Munich,Bayern,Germany,2019-01-01 09:13:00,2019-01-25 11:37:00,247,1,Motorola,Motorola Razr
+2019-01-06 16:37:00,Visa,Ann,Austin,TX,United States,2018-12-28 12:31:00,2019-01-25 12:17:00,248,2,Alcatel,Alcatel 3
+2019-01-23 21:35:00,Visa,Ann,Brisbane,Queensland,Australia,2017-04-21 19:33:00,2019-02-18 23:12:00,248,2,Motorola,Motorola E6 Play
+2019-01-18 17:21:00,Mastercard,Nichol Jane,Midland Park,NJ,United States,2019-01-11 20:59:00,2019-01-25 14:00:00,249,1,Windows,Microsoft Lumia 950 XL
+2019-01-13 15:18:00,Amex,Beatriz,Centerport,NY,United States,2019-01-13 14:46:00,2019-01-25 14:01:00,250,1,LG,LG W30 Pro
+2019-01-24 08:21:00,Mastercard,corina,Neustift am Walde,Vienna,Austria,2015-07-19 12:42:00,2019-01-25 14:22:00,251,1,Motorola,Motorola Moto G8 Play
+2019-01-24 08:25:00,Mastercard,manon,Neustift am Walde,Vienna,Austria,2015-07-19 12:42:00,2019-01-25 14:22:00,252,1,Samsung,Samsung Galaxy S10 Plus
+2019-01-05 07:55:00,Mastercard,Isabelle,Ewa Beach,HI,United States,2018-12-31 07:40:00,2019-02-26 17:47:00,253,2,Apple,Apple iPhone 7
+2019-01-18 13:06:00,Diners,Isabelle,Shorewood,MN,United States,2019-01-18 08:44:00,2019-01-25 14:49:00,253,2,Samsung,Samsung Galaxy S10 Plus
+2019-01-04 09:54:00,Mastercard,AMY,The Woodlands,TX,United States,2018-12-30 20:41:00,2019-01-25 18:23:00,254,1,Apple,Apple iPhone 8
+2019-01-09 10:22:00,Mastercard,HELIDA,White House,TN,United States,2019-01-05 14:49:00,2019-01-25 19:35:00,255,1,LG,LG K12+
+2019-01-05 12:28:00,Visa,Cameron,Rungsted,Frederiksborg,Denmark,2019-01-05 12:02:00,2019-01-25 23:22:00,256,1,Apple,Apple iPhone 11
+2019-01-26 03:43:00,Mastercard,Wendy,Lake Mahopac,NY,United States,2019-01-26 03:10:00,2019-01-26 03:10:00,257,1,Samsung,Samsung Galaxy Note 8
+2019-01-26 03:49:00,Mastercard,Jane,Biot,Provence-Alpes-Cote d'Azur,France,2018-03-01 00:00:00,2019-01-26 03:18:00,258,1,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-11 13:16:00,Visa,shelby,Plantation,FL,United States,2019-01-11 12:20:00,2019-01-26 03:42:00,259,1,Sony,Sony Xperia 10 
+2019-01-22 15:32:00,Mastercard,Tara,Killiney,Dublin,Ireland,2017-02-27 11:35:00,2019-01-26 04:32:00,260,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-21 11:28:00,Amex,Heloise,Arlington,VA,United States,2015-09-25 20:26:00,2019-01-26 06:23:00,261,1,Samsung,Samsung Galaxy S10
+2019-01-01 14:19:00,Mastercard,Gabriel,Three Hills,Alberta,Canada,2018-05-21 11:39:00,2019-01-26 07:17:00,262,1,Apple,Apple iPhone 7 Plus
+2019-01-26 04:30:00,Visa,Jodie,Great Falls,Virginia,United States,2019-01-26 00:00:00,2019-01-26 07:48:00,263,1,Apple,Apple iPhone X
+2019-01-11 12:12:00,Visa,Helga,Clontarf,Dublin,Ireland,2015-11-30 12:50:00,2019-01-26 10:00:00,264,1,LG,LG K50S
+2019-01-18 04:01:00,Visa,Eleanor,Fairbanks,AK,United States,2019-01-06 00:18:00,2019-01-28 23:56:00,265,3,Samsung,Samsung Galaxy S8 Plus
+2019-01-10 08:13:00,Mastercard,Eleanor,Edinburgh,Scotland,United Kingdom,2018-07-31 22:34:00,2019-02-04 13:08:00,265,3,Samsung,Samsung Galaxy Note 8
+2019-01-26 10:24:00,Visa,Eleanor,Vancouver,British Columbia,Canada,2018-12-01 18:30:00,2019-01-26 10:12:00,265,3,Alcatel,Alcatel 1V
+2019-01-26 08:58:00,Diners,Miss,London,England,United Kingdom,2019-01-26 08:46:00,2019-01-26 11:14:00,266,1,Apple,Apple iPhone 7 Plus
+2019-01-13 09:51:00,Mastercard,Priska,Calgary,Alberta,Canada,2019-01-04 23:43:00,2019-01-26 17:24:00,267,1,Apple,Apple iPhone 8 Plus
+2019-01-24 18:43:00,Visa,Katrine,North Tustin,CA,United States,2019-01-11 13:33:00,2019-01-26 21:29:00,268,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-09 01:12:00,Visa,Sabrina,Rambouillet,Ile-de-France,France,2018-06-18 06:35:00,2019-01-27 02:56:00,269,1,Apple,Apple iPhone XR
+2019-01-26 06:25:00,Visa,prof,Gladwyne,PA,United States,2019-01-19 06:38:00,2019-01-27 03:58:00,270,1,Apple,Apple iPhone 8 Plus
+2019-01-21 16:57:00,Mastercard,KeithMichelle,Houston,TX,United States,2019-01-21 16:37:00,2019-01-27 04:43:00,271,1,Apple,Apple iPhone 11 Pro Max
+2019-01-27 05:10:00,Visa,anissa,Slough,England,United Kingdom,2019-01-15 10:07:00,2019-01-27 04:51:00,272,1,Apple,Apple iPhone 7 Plus
+2019-01-20 07:08:00,Visa,Miye,Downingtown,PA,United States,2019-01-19 08:06:00,2019-01-27 06:38:00,273,1,Samsung,Samsung Galaxy Note 10
+2019-01-05 06:14:00,Mastercard,T,Veigy-Foncenex,Rhone-Alpes,France,2019-01-05 04:52:00,2019-01-27 07:01:00,274,3,Apple,Apple iPhone XS
+2019-01-23 15:33:00,Mastercard,T,Brooklyn,NY,United States,2019-01-23 14:18:00,2019-01-29 11:02:00,274,3,Apple,Apple iPhone X
+2019-01-24 12:00:00,Visa,T,El Escorial,Madrid,Spain,2018-12-30 15:19:00,2019-02-28 15:17:00,274,3,Apple,Apple iPhone 11
+2019-01-13 08:11:00,Visa,Daniele,Katy,TX,United States,2018-05-27 11:01:00,2019-01-27 07:49:00,275,1,Samsung,Samsung Galaxy Note 8
+2019-01-10 09:18:00,Diners,luisa,Gorey,,Jersey,2016-05-09 10:43:00,2019-01-27 07:51:00,276,1,Apple,Apple iPhone 11
+2019-01-08 18:52:00,Visa,Nadine,Belgrade,MT,United States,2019-01-07 15:30:00,2019-01-27 09:40:00,277,1,Apple,Apple iPhone 7
+2019-01-01 21:40:00,Mastercard,Tina,Anglesea,Victoria,Australia,2018-10-20 18:27:00,2019-02-12 14:58:00,278,2,Samsung,Samsung Galaxy S10e
+2019-01-12 10:06:00,Mastercard,Tina,Calgary,Alberta,Canada,2019-01-10 14:15:00,2019-01-27 14:26:00,278,2,LG,LG G8X ThinQ
+2019-01-01 19:25:00,Diners,Damali,Toronto,Ontario,Canada,2018-01-08 20:41:00,2019-01-27 14:59:00,279,1,Apple,Apple iphone XS Max
+2019-01-17 20:51:00,Visa,Kathryn,Waiau Pa,Auckland,New Zealand,2019-01-06 21:52:00,2019-02-26 16:19:00,280,4,Huawei,Huawei Nova 6 SE
+2019-01-02 18:43:00,Visa,Kathryn,Cork,Cork,Ireland,2018-12-22 15:39:00,2019-01-27 15:43:00,280,4,Samsung,Samsung Galaxy Note 8
+2019-01-05 12:41:00,Mastercard,Kathryn,Pacific Beach,CA,United States,2019-01-05 11:50:00,2019-02-01 14:28:00,280,4,Samsung,Samsung Galaxy S9e
+2019-01-24 07:18:00,Visa,Kathryn,Kirriemuir,Scotland,United Kingdom,2019-01-23 10:31:00,2019-02-08 02:52:00,280,4,Samsung,Samsung Galaxy S10
+2019-01-07 12:06:00,Visa,Erica,Nadur,,Malta,2016-03-30 02:02:00,2019-02-28 07:59:00,281,2,ZTE,ZTE Axon 10 Pro 5G
+2019-01-04 18:34:00,Visa,Erica,Leesburg,VA,United States,2019-01-04 16:53:00,2019-01-27 18:37:00,281,2,LG,LG W30 Pro
+2019-01-25 08:32:00,Visa,L,Alcona,Ontario,Canada,2017-09-17 17:41:00,2019-01-27 19:53:00,282,1,LG,LG G8s ThinQ
+2019-01-14 10:32:00,Mastercard,Diana,Campinas,Sao Paulo,Brazil,2018-11-05 07:03:00,2019-02-02 05:54:00,283,2,Huawei,Huawei Mate 30 Pro 5G
+2019-01-23 22:19:00,Mastercard,Diana,Kuala Lumpur,Kuala Lumpur,Malaysia,2019-01-23 22:10:00,2019-01-27 19:54:00,283,2,Motorola,Motorola Moto E6
+2019-01-07 10:03:00,Mastercard,Emma,Sydney,New South Wales,Australia,2018-12-01 06:09:00,2019-01-27 20:18:00,284,1,Huawei,Huawei Nova 6 SE
+2019-01-18 03:46:00,Visa,Marina,Nerang,Queensland,Australia,2019-01-18 00:54:00,2019-01-27 23:52:00,285,2,Apple,Apple iPhone XR
+2019-01-11 12:22:00,Visa,Marina,Minneapolis,MN,United States,2019-01-11 07:18:00,2019-01-30 02:10:00,285,2,Apple,Apple iPhone 8
+2019-01-28 00:40:00,Mastercard,Natalie,Bryceville,FL,United States,2019-01-27 22:04:00,2019-01-28 00:01:00,286,1,Apple,Apple iPhone 7 Plus
+2019-01-02 15:18:00,Diners,Brenda,Saffron Walden,England,United Kingdom,2014-09-01 02:08:00,2019-01-28 01:26:00,287,2,Apple,Apple iPhone X
+2019-01-29 16:52:00,Visa,Brenda,Rock Hill,SC,United States,2019-01-25 12:00:00,2019-02-14 19:34:00,287,2,LG,LG Q70
+2019-01-18 13:59:00,Diners,Nita,Sutton,Dublin,Ireland,2015-12-01 19:57:00,2019-01-28 04:07:00,288,1,LG,LG Q70
+2019-01-16 09:54:00,Mastercard,Marian,Durban,KwaZulu-Natal,South Africa,2018-08-03 18:20:00,2019-01-28 06:26:00,289,1,Apple,Apple iPhone 11 Pro
+2019-01-28 07:31:00,Visa,cari,Dryden,VA,United States,2019-01-28 07:22:00,2019-01-28 07:34:00,290,1,Apple,Apple iPhone XS
+2019-01-13 14:05:00,Amex,Christof and Heidi,Barcelona,Catalonia,Spain,2019-01-09 07:54:00,2019-01-28 07:45:00,291,1,Apple,Apple iPhone X
+2019-01-28 07:49:00,Visa,Ina,Fayetteville,NC,United States,2019-01-28 07:45:00,2019-01-28 07:47:00,292,1,Apple,Apple iPhone XS
+2019-01-12 15:16:00,Visa,Camille and Carmen,Thorlakshofn,,Iceland,2019-01-12 11:41:00,2019-01-28 08:44:00,293,1,LG,LG X6
+2019-01-06 11:17:00,Visa,Trina,Overland,KS,United States,2018-02-21 08:53:00,2019-01-28 09:23:00,294,1,Samsung,Samsung Galaxy S10e
+2019-01-23 09:49:00,Visa,Ginger,King City,Ontario,Canada,2019-01-23 08:18:00,2019-01-28 09:43:00,295,1,Google,Google Pixel 4
+2019-01-24 04:01:00,Visa,breon,Leighton Buzzard,England,United Kingdom,2016-01-07 10:56:00,2019-01-28 10:12:00,296,1,LG,LG K40S
+2019-01-15 10:51:00,Mastercard,Pia,Sola,Rogaland,Norway,2019-01-11 08:54:00,2019-01-28 10:39:00,297,1,Apple,Apple iPhone XS
+2019-01-02 05:14:00,Visa,Dr. Donald,Stockton-on-Tees,England,United Kingdom,2015-01-01 06:03:00,2019-01-28 11:07:00,298,1,Apple,Apple iPhone 8 Plus
+2019-01-09 10:35:00,Visa,Jenna and Paul,Senatobia,MS,United States,2019-01-08 14:02:00,2019-01-28 11:08:00,299,1,Apple,Apple iphone XS Max
+2019-01-02 12:16:00,Mastercard,Monique,Waldorf,MD,United States,2018-12-11 06:16:00,2019-01-28 12:07:00,300,1,LG,LG V50S ThinQ 5G
+2019-01-28 12:31:00,Diners,lilia,Brooklyn,NY,United States,2019-01-28 12:21:00,2019-01-28 12:30:00,301,1,Apple,Apple iPhone 11
+2019-01-14 12:07:00,Mastercard,Lainey,Lakeville,MN,United States,2019-01-13 22:28:00,2019-01-28 12:37:00,302,1,Motorola,Motorola Moto G8 Play
+2019-01-16 07:20:00,Mastercard,Jag,Saint-Cergues,Rhone-Alpes,France,2019-01-15 04:53:00,2019-01-28 12:43:00,303,1,Apple,Apple iPhone XS
+2019-01-02 07:30:00,Mastercard,Fiona,Lake Ronkonkoma,NY,United States,2018-10-27 00:00:00,2019-02-26 06:14:00,304,2,Sony,Sony Xperia 10 
+2019-01-07 12:55:00,Amex,Fiona,Stamford,CT,United States,2019-01-05 06:26:00,2019-01-28 13:24:00,304,2,Apple,Apple iPhone 7
+2019-01-19 12:14:00,Mastercard,burt,Rathfarnham,Dublin,Ireland,2018-05-10 07:07:00,2019-01-28 13:28:00,305,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-15 11:43:00,Visa,Maggie,Libertyville,IL,United States,2018-10-24 19:02:00,2019-02-14 17:43:00,306,2,ZTE,ZTE Blade A7 Prime
+2019-01-13 15:19:00,Visa,Maggie,Paris,Ile-de-France,France,2017-06-27 04:41:00,2019-01-28 14:11:00,306,2,Samsung,Samsung Galaxy Note 10
+2019-01-18 08:56:00,Mastercard,Stanford,Howell,MI,United States,2018-01-30 13:16:00,2019-01-28 14:37:00,307,1,LG,LG K50S
+2019-01-04 17:54:00,Amex,ruth,Encinitas,CA,United States,2019-01-01 10:12:00,2019-01-28 15:13:00,308,1,Apple,Apple iPhone XR
+2019-01-05 10:49:00,Amex,Courtney,Mililani,HI,United States,2017-08-23 00:00:00,2019-01-28 18:13:00,309,3,HTC,HTC Exodus 1
+2019-01-05 13:46:00,Visa,Courtney,Atchison,KS,United States,2018-11-11 14:19:00,2019-01-28 17:10:00,309,3,Alcatel,Alcatel 1C
+2019-01-21 04:11:00,Visa,Courtney,Suchdol,Prague,Czech Republic,2018-09-30 10:39:00,2019-02-19 00:55:00,309,3,Apple,Apple iPhone XS
+2019-01-13 13:19:00,Mastercard,Anthony,Toronto,Ontario,Canada,2016-03-16 19:11:00,2019-02-26 11:19:00,310,2,Apple,Apple iPhone 11 Pro
+2019-01-12 18:24:00,Diners,Anthony,Victor,NY,United States,2018-12-18 07:14:00,2019-01-28 18:19:00,310,2,Apple,Apple iphone XS Max
+2019-01-16 10:58:00,Visa,GAIA,Soro,Vestsjalland,Denmark,2017-07-27 07:22:00,2019-01-29 03:16:00,311,1,Apple,Apple iPhone 7 Plus
+2019-01-13 08:20:00,Mastercard,Zane,Warlingham,England,United Kingdom,2015-03-04 05:51:00,2019-01-29 03:25:00,312,1,Apple,Apple iPhone 8 Plus
+2019-01-12 01:42:00,Mastercard,Beate,Hamburg,Hamburg,Germany,2019-01-07 07:56:00,2019-01-29 04:33:00,313,1,Samsung,Samsung Galaxy Note 9
+2019-01-28 13:07:00,Amex,BALA,Accokeek,MD,United States,2017-11-29 05:56:00,2019-01-29 04:40:00,314,1,Samsung,Samsung Galaxy S9e
+2019-01-29 05:43:00,Visa,Mrs,Sunnyvale,CA,United States,2019-01-29 05:18:00,2019-01-29 05:18:00,315,1,Motorola,Motorola Moto G8 Play
+2019-01-09 15:24:00,Mastercard,alex,Farmingtn Hls,MI,United States,2019-01-09 13:59:00,2019-01-29 08:05:00,316,1,Apple,Apple iphone XS Max
+2019-01-29 12:28:00,Mastercard,Alva and Martin,Great Falls,VA,United States,2017-05-21 14:57:00,2019-01-29 12:31:00,317,1,Motorola,Motorola One Macro
+2019-01-13 11:31:00,Visa,Anett,Gosport,England,United Kingdom,2019-01-09 11:30:00,2019-01-29 12:48:00,318,1,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-29 10:09:00,Mastercard,Jacqui,Scottsdale,AZ,United States,2019-01-29 09:59:00,2019-01-29 12:58:00,319,1,Samsung,Samsung Galaxy Note 8
+2019-01-29 15:08:00,Visa,KERRY,Sunnyvale,CA,United States,2019-01-29 14:04:00,2019-01-29 14:04:00,320,1,Motorola,Motorola Moto G8 Plus
+2019-01-04 05:12:00,Visa,DeeDee,Songnae-dong,Soul-t'ukpyolsi,South Korea,2018-12-30 08:40:00,2019-01-29 16:41:00,321,1,Samsung,Samsung Galaxy S9e
+2019-01-22 22:16:00,Mastercard,leanne,Clyde Hill,WA,United States,2019-01-17 23:28:00,2019-01-29 16:51:00,322,1,Sony,Sony Xperia 10 
+2019-01-05 19:26:00,Visa,katie,Ruschlikon,Zurich,Switzerland,2019-01-05 19:14:00,2019-01-30 01:06:00,323,1,Alcatel,Alcatel 3
+2019-01-02 09:31:00,Visa,camilla,Chicago,IL,United States,2019-01-02 09:09:00,2019-01-30 05:35:00,324,1,Apple,Apple iPhone 7
+2019-01-05 11:21:00,Visa,pirunkit,Petworth,England,United Kingdom,2019-01-05 05:46:00,2019-01-30 05:54:00,325,1,Samsung,Samsung Galaxy S9e
+2019-01-17 09:49:00,Diners,Kathrin,Abu Dhabi,Abu Zaby,United Arab Emirates,2018-02-27 20:02:00,2019-01-30 08:45:00,326,1,Samsung,Samsung Galaxy Note 8
+2019-01-19 10:32:00,Mastercard,Maie,Queen Creek,AZ,United States,2019-01-06 17:57:00,2019-01-30 10:41:00,327,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-26 12:05:00,Mastercard,verena,Queen Creek,AZ,United States,2019-01-06 17:57:00,2019-01-30 10:41:00,328,1,Apple,Apple iPhone 11
+2019-01-07 18:53:00,Visa,Marie-Christine,Durham,NC,United States,2018-12-29 09:59:00,2019-01-30 10:46:00,329,1,Apple,Apple iPhone 11
+2019-01-26 11:38:00,Mastercard,Gabriella,Austin,TX,United States,2019-01-26 07:16:00,2019-01-30 13:15:00,330,1,Samsung,Samsung Galaxy Note 8
+2019-01-08 13:19:00,Mastercard,valerie et nicolas,Glenn Dale,MD,United States,2019-01-08 05:31:00,2019-01-30 17:40:00,331,1,Alcatel,Alcatel 1C
+2019-01-30 20:36:00,Visa,Renee,Edinburg,TX,United States,2019-01-30 20:05:00,2019-01-31 04:47:00,332,2,LG,LG X4
+2019-01-24 13:35:00,Visa,Renee,Chaska,MN,United States,2016-05-11 13:27:00,2019-02-16 09:00:00,332,2,Sony,Sony Xperia XZ2
+2019-01-17 11:09:00,Mastercard,Joachim,Fortaleza,Ceara,Brazil,2019-01-17 10:46:00,2019-01-31 06:42:00,333,1,Apple,Apple iPhone XR
+2019-01-15 18:08:00,Amex,Monica,Villanova,PA,United States,2019-01-12 17:16:00,2019-02-19 03:19:00,334,2,Apple,Apple iPhone 7
+2019-01-31 07:22:00,Visa,Monica,Weston,CT,United States,2018-02-28 17:34:00,2019-01-31 06:43:00,334,2,LG,LG G8s ThinQ
+2019-01-31 09:12:00,Visa,Nanci,Reading,England,United Kingdom,2018-08-28 10:22:00,2019-01-31 09:08:00,335,1,Samsung,Samsung Galaxy S10e
+2019-01-10 07:55:00,Visa,Laura,Jumeira,Dubayy,United Arab Emirates,2019-01-07 09:47:00,2019-02-01 10:18:00,336,4,Samsung,Samsung Galaxy S9 Plus
+2019-01-31 08:56:00,Mastercard,Laura,Coconut Grove,FL,United States,2019-01-31 08:03:00,2019-01-31 09:22:00,336,4,Huawei,Huawei Mate 30 Pro 5G
+2019-01-19 14:53:00,Mastercard,Laura,Fairfield,IA,United States,2018-12-12 05:18:00,2019-02-03 05:40:00,336,4,LG,LG W30 Pro
+2019-01-22 12:37:00,Amex,Laura,San Anselmo,CA,United States,2019-01-22 10:17:00,2019-02-06 06:38:00,336,4,Apple,Apple iPhone 8
+2019-01-31 09:00:00,Visa,ciara and mike,London,England,United Kingdom,2019-01-31 08:32:00,2019-01-31 10:07:00,337,1,Apple,Apple iPhone 7 Plus
+2019-01-25 18:33:00,Mastercard,Sarah,Manteno,IL,United States,2019-01-25 15:56:00,2019-02-25 19:27:00,338,11,Apple,Apple iPhone XR
+2019-01-15 15:26:00,Visa,Sarah,Bolton,England,United Kingdom,2019-01-15 08:16:00,2019-02-02 00:53:00,338,11,Apple,Apple iPhone 11
+2019-01-23 04:47:00,Mastercard,Sarah,Sandymount,Dublin,Ireland,2016-01-16 08:48:00,2019-02-02 02:12:00,338,11,Apple,Apple iPhone 7 Plus
+2019-01-27 02:35:00,Visa,Sarah,Ornex,Rhone-Alpes,France,2018-08-28 06:28:00,2019-02-06 05:09:00,338,11,Apple,Apple iPhone 11 Pro Max
+2019-01-21 23:52:00,Visa,Sarah,Plan-les-Ouattes,Geneve,Switzerland,2018-11-23 04:51:00,2019-02-15 11:16:00,338,11,Apple,Apple iPhone XS
+2019-01-16 17:56:00,Mastercard,Sarah,Coppell,TX,United States,2019-01-16 12:57:00,2019-02-15 20:13:00,338,11,Apple,Apple iPhone XR
+2019-01-11 14:07:00,Visa,Sarah,San Francisco,CA,United States,2019-01-11 13:08:00,2019-01-31 10:20:00,338,11,Motorola,Motorola Moto E6s
+2019-01-20 08:23:00,Mastercard,Sarah,Floyds Knobs,IN,United States,2015-10-12 17:17:00,2019-02-04 08:16:00,338,11,Motorola,Motorola Razr
+2019-01-07 13:26:00,Visa,Sarah,Warwick,Quebec,Canada,2013-07-27 13:18:00,2019-02-25 15:16:00,338,11,Apple,Apple iphone XS Max
+2019-01-20 02:17:00,Diners,Sarah,Santo Domingo City,Distrito Nacional,Dominican Republic,2018-11-09 01:26:00,2019-02-22 11:21:00,338,11,Apple,Apple iPhone XR
+2019-01-29 08:13:00,Mastercard,Sarah,Ridgefield,CT,United States,2018-01-28 13:55:00,2019-02-17 07:55:00,338,11,Apple,Apple iPhone 7 Plus
+2019-01-01 12:25:00,Mastercard,Anne-line,Zug,Zug,Switzerland,2015-03-29 23:14:00,2019-01-31 10:58:00,339,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-31 11:14:00,Mastercard,Ulrika,Scottsdale,AZ,United States,2019-01-31 11:10:00,2019-01-31 11:10:00,340,1,Samsung,Samsung Galaxy Note 10
+2019-01-02 09:57:00,Amex,leigh,Potomac Falls,VA,United States,2015-02-20 17:20:00,2019-01-31 11:24:00,341,1,LG,LG W30 Pro
+2019-01-04 13:20:00,Mastercard,Nuria,Superior,CO,United States,2019-01-04 12:08:00,2019-01-31 13:17:00,342,1,Sony,Sony Xperia 5
+2019-01-22 12:32:00,Mastercard,Tejal,London,England,United Kingdom,2018-01-02 09:51:00,2019-01-31 14:43:00,343,1,Apple,Apple iPhone 8
+2019-01-18 06:09:00,Mastercard,Ignacio,Engleside,VA,United States,2017-05-21 18:56:00,2019-01-31 15:33:00,344,1,Apple,Apple iPhone 7
+2019-01-08 00:04:00,Visa,ZOE,New Plymouth City,Taranaki,New Zealand,2019-01-07 23:34:00,2019-01-31 17:47:00,345,1,Samsung,Samsung Galaxy Note 8
+2019-01-24 07:14:00,Mastercard,nihan,Roanoke,VA,United States,2018-03-02 07:35:00,2019-01-31 19:18:00,346,1,Apple,Apple iPhone 8
+2019-01-24 11:05:00,Visa,alan,Norcross,GA,United States,2017-07-30 15:16:00,2019-01-31 19:31:00,347,1,Samsung,Samsung Galaxy S9e
+2019-01-06 15:12:00,Amex,lydia,Sandy Plains,GA,United States,2016-09-23 08:42:00,2019-01-31 20:48:00,348,1,Apple,Apple iPhone 8 Plus
+2019-01-19 14:26:00,Mastercard,Tracey,Harold's Cross,Dublin,Ireland,2019-01-06 13:24:00,2019-02-23 12:02:00,349,2,Apple,Apple iPhone 7
+2019-01-24 17:06:00,Visa,Tracey,Saint Catharines,Ontario,Canada,2019-01-24 15:51:00,2019-01-31 21:10:00,349,2,Apple,Apple iPhone XS
+2019-01-22 07:35:00,Visa,Anja,Ferney-Voltaire,Rhone-Alpes,France,2019-01-22 06:51:00,2019-02-10 09:18:00,350,3,LG,LG X6
+2019-01-03 09:58:00,Visa,Anja,Gainesville,VA,United States,2018-10-19 08:27:00,2019-01-31 22:19:00,350,3,Samsung,Samsung Galaxy S8 Plus
+2019-01-06 10:34:00,Mastercard,Anja,New York,NY,United States,2019-01-06 10:03:00,2019-02-13 14:41:00,350,3,Samsung,Samsung Galaxy S9
+2019-01-12 14:50:00,Visa,Holly,Arlington,MA,United States,2019-01-12 09:54:00,2019-02-01 07:36:00,351,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-07 13:49:00,Diners,megan,West Hills,CA,United States,2019-01-07 12:36:00,2019-02-01 08:20:00,352,1,Samsung,Samsung Galaxy S10
+2019-01-09 19:41:00,Mastercard,Tarah,San Jose,CA,United States,2019-01-05 18:02:00,2019-02-01 09:18:00,353,1,Samsung,Samsung Galaxy S10 Plus
+2019-01-26 04:53:00,Visa,Gerardo,London,England,United Kingdom,2019-01-26 04:12:00,2019-02-01 09:48:00,354,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-13 13:49:00,Visa,Joanne,Castlebar,Mayo,Ireland,2018-01-06 14:03:00,2019-02-06 12:35:00,355,2,Alcatel,Alcatel 1X
+2019-01-23 21:41:00,Visa,Joanne,Oak Park,MI,United States,2018-12-26 11:00:00,2019-02-01 09:51:00,355,2,LG,LG K50S
+2019-01-06 16:07:00,Visa,Margaret,Terrell Hills,TX,United States,2018-12-21 12:21:00,2019-02-01 10:06:00,356,1,Samsung,Samsung Galaxy S9e
+2019-01-28 20:44:00,Visa,Whitney,Falmouth,VA,United States,2019-01-28 19:36:00,2019-02-01 11:33:00,357,2,HTC,Microsoft Lumia 950
+2019-01-30 11:56:00,Mastercard,Whitney,Dumbleton,England,United Kingdom,2018-07-31 13:46:00,2019-02-06 00:04:00,357,2,Apple,Apple iPhone 8 Plus
+2019-01-09 03:38:00,Visa,Ravinder,Lurgan,Northern Ireland,United Kingdom,2018-06-03 04:22:00,2019-02-01 11:53:00,358,1,Apple,Apple iPhone XR
+2019-01-19 08:52:00,Visa,Pam,Richmond,TX,United States,2019-01-06 15:24:00,2019-02-01 11:53:00,359,2,Apple,Apple iPhone X
+2019-01-15 05:11:00,Visa,Pam,London,England,United Kingdom,2016-07-11 12:43:00,2019-02-09 04:42:00,359,2,Apple,Apple iPhone X
+2019-01-24 08:51:00,Mastercard,Heather,Baluan,General Santos,Philippines,2019-01-19 11:08:00,2019-02-21 10:08:00,360,2,Motorola,Motorola Moto E6
+2019-01-30 19:12:00,Diners,Heather,Ooltewah,TN,United States,2019-01-30 18:54:00,2019-02-01 13:51:00,360,2,Motorola,Motorola Moto E6
+2019-01-28 20:59:00,Visa,Michele,Austin,TX,United States,2019-01-28 09:40:00,2019-02-01 15:00:00,361,2,Samsung,Samsung Galaxy S8 Plus
+2019-01-27 06:26:00,Mastercard,Michele,Buffalo,NY,United States,2019-01-25 11:56:00,2019-02-06 18:24:00,361,2,Samsung,Samsung Galaxy S8 Plus
+2019-01-10 21:36:00,Visa,Craig,Seattle,WA,United States,2018-08-10 16:47:00,2019-02-01 15:27:00,362,1,Samsung,Samsung Galaxy S9
+2019-01-07 08:03:00,Amex,maria,Ottawa,Ontario,Canada,2015-04-17 22:28:00,2019-02-01 18:52:00,363,1,Apple,Apple iPhone 11 Pro Max
+2019-01-23 14:43:00,Visa,Madison,Torbay,Auckland,New Zealand,2019-01-18 11:34:00,2019-02-01 21:31:00,364,1,Samsung,Samsung Galaxy S9
+2019-01-06 03:39:00,Visa,Krista,Bergen,Hordaland,Norway,2015-09-20 01:58:00,2019-02-02 00:08:00,365,1,Apple,Apple iPhone 7 Plus
+2019-01-12 10:05:00,Amex,Pamela,Bellinzona,Ticino,Switzerland,2017-09-03 13:23:00,2019-02-02 05:16:00,366,2,ZTE,ZTE Axon 10 Pro 5G
+2019-01-01 04:24:00,Amex,Pamela,Skaneateles,NY,United States,2018-12-28 17:28:00,2019-03-01 07:21:00,366,2,Apple,Apple iPhone 11
+2019-01-30 05:13:00,Visa,Christine,Antwerpen,Antwerpen,Belgium,2016-01-03 13:57:00,2019-02-02 05:45:00,367,1,Apple,Apple iphone XS Max
+2019-01-12 08:13:00,Amex,mary,Nacka,Stockholm,Sweden,2016-03-08 04:32:00,2019-02-02 06:01:00,368,1,Apple,Apple iPhone XR
+2019-01-27 08:11:00,Visa,Helena,Fremont,CA,United States,2019-01-27 08:05:00,2019-02-02 06:08:00,369,1,Apple,Apple iPhone 11 Pro Max
+2019-01-30 17:33:00,Visa,nina,Warwick,Queensland,Australia,2019-01-25 22:36:00,2019-02-02 06:13:00,370,1,Apple,Apple iphone XS Max
+2019-01-15 09:52:00,Amex,Mark,Holmdel,NJ,United States,2019-01-15 08:36:00,2019-02-02 07:00:00,371,1,Apple,Apple iPhone 8 Plus
+2019-01-13 11:54:00,Visa,alice and rudolf,Baltimore,MD,United States,2019-01-08 11:11:00,2019-02-02 08:01:00,372,1,Samsung,Samsung Galaxy S10e
+2019-01-22 02:16:00,Visa,Costanza,Beykoz,Istanbul,Turkey,2018-09-07 11:43:00,2019-02-18 00:27:00,373,2,Sony,Sony Xperia 10 Plus
+2019-01-21 11:00:00,Visa,Costanza,Saggart,Dublin,Ireland,2019-01-19 10:11:00,2019-02-02 08:29:00,373,2,Motorola,Motorola Moto E6 Plus
+2019-01-16 11:49:00,Mastercard,Yoko,Andover,MA,United States,2018-02-18 18:56:00,2019-02-02 08:53:00,374,1,LG,LG K50S
+2019-01-13 05:58:00,Mastercard,Kit,Suwanee,GA,United States,2019-01-05 21:12:00,2019-02-02 13:13:00,375,1,Apple,Apple iPhone 8
+2019-01-06 16:08:00,Visa,cristina,Seattle,WA,United States,2015-03-14 16:39:00,2019-02-02 14:17:00,376,1,Apple,Apple iPhone 7
+2019-01-05 10:25:00,Amex,linda,Arlington,VA,United States,2018-10-11 03:50:00,2019-02-02 16:13:00,377,1,Samsung,Samsung Galaxy S9
+2019-01-04 21:08:00,Mastercard,Christyna,Calgary,Alberta,Canada,2018-01-21 20:11:00,2019-02-02 18:50:00,378,1,LG,LG K50S
+2019-01-12 20:43:00,Visa,Alicja,Kenmore,WA,United States,2019-01-12 20:31:00,2019-02-02 20:26:00,379,1,Samsung,Samsung Galaxy S10
+2019-01-21 21:37:00,Visa,Rachel,Taicheng,Guangdong,China,2019-01-21 06:24:00,2019-02-23 01:36:00,380,4,Apple,Apple iPhone 8 Plus
+2019-01-10 13:42:00,Visa,Rachel,Hamilton,Ontario,Canada,2019-01-10 12:22:00,2019-02-09 09:54:00,380,4,Motorola,Motorola Razr
+2019-01-17 03:22:00,Visa,Rachel,Fresno,CA,United States,2018-02-01 12:45:00,2019-02-02 20:35:00,380,4,Samsung,Samsung Galaxy S9 Plus
+2019-01-18 11:17:00,Amex,Rachel,Atascadero,CA,United States,2018-03-11 13:35:00,2019-02-02 22:49:00,380,4,Huawei,Huawei P Smart Pro
+2019-01-27 09:01:00,Visa,Jan,Barcelona,Catalonia,Spain,2018-05-29 12:23:00,2019-02-03 00:59:00,381,1,Apple,Apple iPhone 11 Pro Max
+2019-01-15 10:16:00,Visa,Karin,Olive Branch,MS,United States,2019-01-12 17:41:00,2019-02-06 18:48:00,382,2,LG,LG G8s ThinQ
+2019-01-08 08:11:00,Diners,Karin,High Wycombe,England,United Kingdom,2019-01-08 07:00:00,2019-02-03 01:54:00,382,2,Apple,Apple iPhone 7
+2019-01-26 23:28:00,Amex,ron,Tsaritsyno,Moscow City,Russia,2016-12-07 08:26:00,2019-02-03 02:10:00,383,1,Apple,Apple iPhone XR
+2019-01-10 21:35:00,Mastercard,Sharon,Ajax,Ontario,Canada,2018-08-07 06:17:00,2019-02-03 03:42:00,384,1,Samsung,Samsung Galaxy S9e
+2019-01-22 07:14:00,Visa,Yana,North Bay,Ontario,Canada,2016-10-11 19:22:00,2019-02-03 06:36:00,385,1,Apple,Apple iPhone 8 Plus
+2019-01-12 08:05:00,Amex,Francoise,Danville,PA,United States,2019-01-12 06:44:00,2019-02-03 08:01:00,386,1,Apple,Apple iPhone X
+2019-01-25 08:54:00,Amex,Corinne,Anthem,AZ,United States,2016-03-26 17:32:00,2019-02-03 09:50:00,387,1,Apple,Apple iPhone 11 Pro
+2019-01-05 10:08:00,Visa,Ec,Clonmel,Tipperary,Ireland,2019-01-05 07:47:00,2019-02-03 10:21:00,388,1,Apple,Apple iPhone 11
+2019-01-05 19:29:00,Visa,Carmen,Arlington,VA,United States,2018-04-29 16:09:00,2019-02-03 10:23:00,389,1,LG,LG K50S
+2019-01-07 19:06:00,Amex,Brittany,Orlando,FL,United States,2014-08-10 03:30:00,2019-02-03 11:32:00,390,1,Samsung,Samsung Galaxy S10e
+2019-01-23 11:33:00,Mastercard,Sandrine,Walnut Creek,CA,United States,2019-01-22 23:31:00,2019-02-03 11:49:00,391,1,LG,LG Q70
+2019-01-03 21:11:00,Mastercard,asuncion,Centennial,CO,United States,2018-12-03 13:00:00,2019-02-03 11:50:00,392,1,Apple,Apple iPhone XS
+2019-01-05 09:09:00,Visa,Sophie,Bloomfield,MI,United States,2016-10-23 06:52:00,2019-02-10 10:58:00,393,2,LG,LG Q70
+2019-01-11 17:28:00,Visa,Sophie,Newtown,CT,United States,2019-01-11 11:50:00,2019-02-03 12:21:00,393,2,Windows,Microsoft Lumia 950
+2019-01-21 20:18:00,Amex,Henrietta,Vancouver,British Columbia,Canada,2017-07-06 23:53:00,2019-02-03 12:22:00,394,1,Apple,Apple iPhone 11
+2019-01-24 10:23:00,Visa,DD,York,England,United Kingdom,2018-08-19 12:58:00,2019-02-03 12:57:00,395,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-29 10:38:00,Visa,samuel,Saddle Brook,NJ,United States,2019-01-29 09:08:00,2019-02-03 14:39:00,396,1,LG,LG Stylo 5
+2019-01-08 14:04:00,Amex,Angelina  Patrick,San Diego,CA,United States,2019-01-07 17:01:00,2019-02-03 14:57:00,397,1,ZTE,ZTE Axon 10 Pro 5G
+2019-01-31 21:50:00,Visa,Sven,Issaquah,WA,United States,2019-01-31 21:01:00,2019-02-03 16:30:00,398,1,Apple,Apple iphone XS Max
+2019-01-01 16:00:00,Visa,Toni,Bolton,England,United Kingdom,2018-10-07 15:19:00,2019-02-03 16:45:00,399,1,Samsung,Samsung Galaxy S10 Plus
+2019-01-27 16:50:00,Visa,jason,Altadena,CA,United States,2018-12-28 14:42:00,2019-02-03 18:09:00,400,1,Samsung,Samsung Galaxy S9
+2019-01-30 07:42:00,Visa,Tabatha,Altadena,CA,United States,2018-12-28 14:42:00,2019-02-03 18:09:00,401,1,Apple,Apple iPhone 8
+2019-01-17 15:48:00,Visa,Aline,Davis,CA,United States,2015-01-08 14:03:00,2019-02-03 19:14:00,402,1,Apple,Apple iPhone 8 Plus
+2019-01-12 11:40:00,Visa,Debra,Toronto,Ontario,Canada,2018-12-30 06:59:00,2019-02-03 19:42:00,403,1,LG,LG K50S
+2019-01-30 20:27:00,Mastercard,Natasha,Pasadena,CA,United States,2019-01-30 20:02:00,2019-02-03 23:39:00,404,2,Apple,Apple iPhone XR
+2019-01-07 12:39:00,Visa,Natasha,Milano,Lombardy,Italy,2016-06-02 13:01:00,2019-02-10 13:19:00,404,2,Apple,Apple iPhone XS
+2019-01-27 18:35:00,Mastercard,Melinda,Buffalo Grove,IL,United States,2019-01-27 18:28:00,2019-02-03 23:42:00,405,1,Apple,Apple iPhone 7
+2019-01-16 12:47:00,Visa,Luc1nda,London,England,United Kingdom,2014-12-12 15:18:00,2019-02-04 02:13:00,406,1,LG,LG W30 Pro
+2019-01-21 05:39:00,Amex,Britlyn,Norwalk,CT,United States,2018-11-04 09:51:00,2019-02-04 04:31:00,407,1,Apple,Apple iPhone 11 Pro Max
+2019-01-28 01:28:00,Diners,Adam,Besancon,Franche-Comte,France,2019-01-26 02:28:00,2019-02-04 05:39:00,408,1,LG,LG G8s ThinQ
+2019-01-08 13:33:00,Visa,Mimi,Monte-Carlo,,Monaco,2016-09-23 13:19:00,2019-02-04 06:16:00,409,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-22 12:09:00,Visa,Liann,Monaco,,Monaco,2019-01-22 11:32:00,2019-02-04 06:28:00,410,1,Apple,Apple iPhone X
+2019-01-02 07:47:00,Diners,Naseer,London,England,United Kingdom,2018-12-08 06:45:00,2019-02-04 08:50:00,411,1,Apple,Apple iPhone 8
+2019-01-11 04:55:00,Amex,Caroline,Marietta,GA,United States,2016-04-12 18:20:00,2019-02-04 09:22:00,412,3,Apple,Apple iPhone XR
+2019-01-08 02:49:00,Mastercard,Caroline,Begnins,Vaud,Switzerland,2019-01-07 04:14:00,2019-02-25 01:37:00,412,3,LG,LG X6
+2019-01-15 21:53:00,Visa,Caroline,Toronto,Ontario,Canada,2019-01-01 18:01:00,2019-02-11 21:01:00,412,3,LG,LG W30 Pro
+2019-01-23 07:47:00,Amex,Karena,Marietta,GA,United States,2016-04-12 18:20:00,2019-02-04 09:22:00,413,1,LG,LG W30
+2019-01-21 23:19:00,Amex,janet,Hon,HI,United States,2018-09-04 16:51:00,2019-02-04 11:11:00,414,2,Sony,Sony Xperia XZ2 Premium
+2019-01-30 06:17:00,Visa,janet,Blarney,Cork,Ireland,2019-01-30 03:02:00,2019-02-19 12:48:00,414,2,LG,LG Q70
+2019-01-11 04:29:00,Visa,Hans,Knoxville,TN,United States,2018-08-28 06:20:00,2019-02-04 12:17:00,415,1,LG,LG W30
+2019-01-11 04:39:00,Visa,Sandra  Thierry  Zoe,Knoxville,TN,United States,2018-08-28 06:20:00,2019-02-04 12:17:00,416,1,Samsung,Samsung Galaxy S10 Plus
+2019-01-17 15:00:00,Visa,Cara,Humble,TX,United States,2017-03-12 14:55:00,2019-02-04 13:29:00,417,1,Samsung,Samsung Galaxy S9e
+2019-01-04 14:06:00,Visa,carolien,Mashpee,MA,United States,2019-01-04 12:21:00,2019-02-04 13:45:00,418,1,Sony,Sony Xperia 10 Plus
+2019-01-30 17:09:00,Mastercard,Ana,Hong Kong,,Hong Kong,2016-07-28 02:31:00,2019-02-04 16:26:00,419,1,Samsung,Samsung Galaxy S10e
+2019-01-29 13:27:00,Visa,Tom,Salt Lake City,UT,United States,2019-01-28 14:47:00,2019-02-04 20:07:00,420,2,Huawei,Huawei P Smart Pro
+2019-01-26 12:26:00,Mastercard,Tom,Killeen,TX,United States,2019-01-26 05:23:00,2019-02-08 17:33:00,420,2,Apple,Apple iPhone 11
+2019-01-12 10:33:00,Amex,Justine,Seattle,WA,United States,2019-01-07 16:45:00,2019-02-04 20:57:00,421,1,Samsung,Samsung Galaxy S9e
+2019-01-05 08:28:00,Visa,isabel,Ruti,Zurich,Switzerland,2019-01-05 05:08:00,2019-02-04 22:59:00,422,1,LG,LG K12+
+2019-01-25 20:44:00,Visa,Fatima,Rogers,AR,United States,2019-01-25 15:55:00,2019-02-05 00:20:00,423,1,Samsung,Samsung Galaxy S10e
+2019-01-12 10:08:00,Mastercard,Judy,Washington,DC,United States,2018-05-31 12:03:00,2019-02-22 18:58:00,424,2,Samsung,Samsung Galaxy S9
+2019-01-26 11:36:00,Visa,Judy,Dun Laoghaire,Dublin,Ireland,2019-01-26 07:28:00,2019-02-05 02:38:00,424,2,Huawei,Huawei Mate 30 Pro 5G
+2019-01-27 02:32:00,Visa,Glenn,Perth,Scotland,United Kingdom,2016-06-27 09:12:00,2019-02-05 03:15:00,425,1,Apple,Apple iPhone XR
+2019-01-18 13:36:00,Amex,Family in,London,England,United Kingdom,2015-04-23 09:46:00,2019-02-05 03:17:00,426,1,Apple,Apple iPhone X
+2019-01-07 05:53:00,Visa,Lauren,Gries,Rhineland-Palatinate,Germany,2019-01-07 02:49:00,2019-02-05 03:41:00,427,4,Apple,Apple iPhone 8
+2019-01-23 11:23:00,Mastercard,Lauren,Poughkeepsie,NY,United States,2018-08-26 09:37:00,2019-02-26 12:17:00,427,4,Sony,Sony Xperia 10 Plus
+2019-01-04 05:13:00,Visa,Lauren,Hradec Kralove,East Bohemia,Czech Republic,2016-03-05 00:51:00,2019-02-27 23:30:00,427,4,Samsung,Samsung Galaxy S10 Plus
+2019-01-05 11:44:00,Visa,Lauren,Laasby,Arhus,Denmark,2018-11-19 03:55:00,2019-02-22 06:15:00,427,4,Motorola,Motorola Moto E6
+2019-01-20 14:48:00,Visa,Michael,Norrkoping,Ostergotland,Sweden,2018-12-21 11:49:00,2019-02-19 05:22:00,428,5,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-16 13:35:00,Visa,Michael,Milano,Lombardy,Italy,2019-01-16 12:43:00,2019-02-25 13:59:00,428,5,Apple,Apple iPhone 7 Plus
+2019-01-27 11:18:00,Amex,Michael,Los Angeles,CA,United States,2019-01-23 11:47:00,2019-02-10 13:09:00,428,5,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-25 01:53:00,Visa,Michael,Pietermaritzburg,KwaZulu-Natal,South Africa,2019-01-24 12:52:00,2019-02-05 04:37:00,428,5,Samsung,Samsung Galaxy S10 Plus
+2019-01-14 00:15:00,Visa,Michael,Paris,Ile-de-France,France,2018-11-28 00:07:00,2019-02-09 01:30:00,428,5,Motorola,Motorola Moto E6s
+2019-01-18 11:42:00,Visa,Jodi,Sutton Valence,England,United Kingdom,2018-11-17 10:30:00,2019-02-05 06:21:00,429,1,Motorola,Motorola One Zoom
+2019-01-02 15:57:00,Diners,Sonja,Alpine,NJ,United States,2019-01-02 15:25:00,2019-02-05 10:18:00,430,1,Apple,Apple iPhone 11 Pro Max
+2019-01-25 08:50:00,Mastercard,Shane,Zurich,Zurich,Switzerland,2019-01-24 12:23:00,2019-02-05 11:07:00,431,1,Motorola,Motorola One Action
+2019-01-27 11:21:00,Mastercard,Cleo,Pacific Palisades,CA,United States,2019-01-27 10:38:00,2019-02-05 12:38:00,432,1,Apple,Apple iPhone 11 Pro
+2019-01-08 10:13:00,Diners,Benoit,Fort Saint James,British Columbia,Canada,2019-01-07 16:01:00,2019-02-05 14:03:00,433,1,Apple,Apple iPhone 11 Pro Max
+2019-01-05 07:47:00,Amex,Claire,Versoix,Geneve,Switzerland,2017-04-18 12:55:00,2019-02-05 15:15:00,434,2,Samsung,Samsung Galaxy Note 8
+2019-01-22 09:00:00,Visa,Claire,Trumansburg,NY,United States,2018-07-06 14:33:00,2019-02-05 16:33:00,434,2,Apple,Apple iPhone 11
+2019-01-25 12:59:00,Visa,Lindsey,Kennett Square,PA,United States,2019-01-13 20:08:00,2019-02-05 18:40:00,435,1,Samsung,Samsung Galaxy S9
+2019-01-08 19:29:00,Mastercard,PATRICK,Ban Khlong Sip,Krung Thep,Thailand,2019-01-08 00:01:00,2019-02-05 21:22:00,436,1,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-27 03:19:00,Mastercard,Astrid,Canterbury,England,United Kingdom,2019-01-27 01:01:00,2019-02-14 13:35:00,437,3,Samsung,Samsung Galaxy S8 Plus
+2019-01-06 05:10:00,Visa,Astrid,Altlengbach,Lower Austria,Austria,2018-06-24 00:49:00,2019-02-06 00:37:00,437,3,Samsung,Samsung Galaxy S10e
+2019-01-25 08:16:00,Visa,Astrid,Oslo,Oslo,Norway,2017-04-22 02:19:00,2019-02-20 23:22:00,437,3,LG,LG K50S
+2019-01-14 03:39:00,Visa,jo,Ballincollig,Cork,Ireland,2018-12-10 07:41:00,2019-02-06 02:36:00,438,1,LG,LG G8s ThinQ
+2019-01-17 20:46:00,Visa,Michelle,Dubai,Dubayy,United Arab Emirates,2018-04-13 02:36:00,2019-02-08 02:12:00,439,3,Apple,Apple iPhone 11
+2019-01-14 03:47:00,Visa,Michelle,Ballincollig,Cork,Ireland,2018-12-10 07:41:00,2019-02-06 02:36:00,439,3,Apple,Apple iPhone XR
+2019-01-24 03:25:00,Visa,Michelle,Lyndoch,South Australia,Australia,2018-09-26 19:23:00,2019-02-11 15:05:00,439,3,LG,LG K12+
+2019-01-19 03:19:00,Mastercard,TG,Zagore,Stara Zagora,Bulgaria,2018-11-20 03:00:00,2019-02-06 04:19:00,440,1,LG,LG W30
+2019-01-27 18:06:00,Visa,Emily,Killarney,New Providence,The Bahamas,2019-01-13 18:22:00,2019-02-12 19:28:00,441,2,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-07 01:42:00,Mastercard,Emily,Vecmilgravis,Riga,Latvia,2019-01-04 10:33:00,2019-02-06 04:20:00,441,2,Apple,Apple iPhone 8 Plus
+2019-01-07 13:01:00,Visa,Niki,Trelex,Vaud,Switzerland,2017-08-05 00:43:00,2019-02-06 05:02:00,442,2,Apple,Apple iphone XS Max
+2019-01-21 07:19:00,Visa,Niki,Chadds Ford,PA,United States,2018-03-05 11:25:00,2019-02-15 16:06:00,442,2,Samsung,Samsung Galaxy S9 Plus
+2019-01-03 14:14:00,Visa,sherry,Las Vegas,NV,United States,2019-01-03 13:49:00,2019-02-06 05:29:00,443,1,Samsung,Samsung Galaxy S9
+2019-01-29 06:49:00,Mastercard,Carmela,Hannover,Lower Saxony,Germany,2018-04-02 02:39:00,2019-02-06 06:52:00,444,1,Samsung,Samsung Galaxy Note 8
+2019-01-29 23:48:00,Visa,Matt,Leicester,England,United Kingdom,2018-11-15 06:49:00,2019-02-17 05:47:00,445,2,Apple,Apple iPhone 8
+2019-01-06 09:45:00,Diners,Matt,N Woodmere,NY,United States,2018-12-30 13:01:00,2019-02-06 07:33:00,445,2,Samsung,Samsung Galaxy S8 Plus
+2019-01-30 04:48:00,Visa,Hurst,Chandler,AZ,United States,2018-06-18 14:29:00,2019-02-06 17:21:00,446,1,Samsung,Samsung Galaxy S10 Plus
+2019-01-22 16:29:00,Visa,Liza,Dammeron Valley,UT,United States,2019-01-17 15:18:00,2019-02-06 18:14:00,447,1,Apple,Apple iphone XS Max
+2019-01-19 18:54:00,Amex,cath,Warwick,NY,United States,2019-01-19 11:34:00,2019-02-06 19:27:00,448,1,BLU,BLU Vivo 8
+2019-01-02 22:44:00,Visa,eva,Gisborne,Victoria,Australia,2016-12-03 15:36:00,2019-02-06 20:03:00,449,1,Samsung,Samsung Galaxy Note 10
+2019-01-20 08:08:00,Mastercard,Aideen and Jonathan,Kecskemet,Bacs-Kiskun,Hungary,2019-01-19 05:49:00,2019-02-07 01:12:00,450,1,Apple,Apple iPhone 8
+2019-01-29 02:48:00,Visa,George,Nakskov,Storstrom,Denmark,2019-01-29 02:19:00,2019-02-07 02:09:00,451,1,Samsung,Samsung Galaxy S10
+2019-01-07 08:26:00,Diners,C,Chandler,AZ,United States,2019-01-06 16:23:00,2019-02-07 06:05:00,452,1,LG,LG Stylo 5
+2019-01-05 15:23:00,Visa,maggie,Stockton,England,United Kingdom,2018-06-12 10:59:00,2019-02-07 11:08:00,453,1,Apple,Apple iPhone X
+2019-01-25 16:17:00,Amex,Mareike,Cumming,GA,United States,2019-01-24 18:06:00,2019-02-07 11:28:00,454,1,Samsung,Samsung Galaxy Note 10
+2019-01-15 10:37:00,Visa,lamia,Little Compton,RI,United States,2018-06-28 11:04:00,2019-02-07 12:00:00,455,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-20 15:28:00,Visa,Madhu,Centennial,CO,United States,2016-12-02 23:24:00,2019-02-07 15:18:00,456,1,Apple,Apple iPhone 11 Pro
+2019-01-28 18:00:00,Visa,sandhya,Centennial,CO,United States,2016-12-02 23:24:00,2019-02-07 15:18:00,457,1,Apple,Apple iPhone X
+2019-01-29 05:06:00,Amex,Kimberly,Herndon,VA,United States,2018-01-23 10:05:00,2019-02-07 15:23:00,458,1,Apple,Apple iPhone 11 Pro
+2019-01-06 18:53:00,Visa,Tania,Vista,CA,United States,2019-01-05 22:37:00,2019-02-07 15:48:00,459,1,Apple,Apple iphone XS Max
+2019-01-21 06:55:00,Visa,andrea,Oostburg,WI,United States,2019-01-20 13:33:00,2019-02-07 16:48:00,460,1,Apple,Apple iPhone 11
+2019-01-29 13:41:00,Visa,John,San Jose,CA,United States,2014-01-14 21:59:00,2019-02-10 23:58:00,461,4,Apple,Apple iPhone XR
+2019-01-26 20:18:00,Mastercard,John,Griffith,New South Wales,Australia,2017-01-15 20:37:00,2019-02-07 18:04:00,461,4,Motorola,Motorola Moto E6 Plus
+2019-01-13 07:09:00,Amex,John,Chicago,IL,United States,2019-01-08 13:49:00,2019-02-26 15:14:00,461,4,Samsung,Samsung Galaxy S10
+2019-01-09 14:55:00,Visa,John,Banbury,England,United Kingdom,2019-01-08 16:23:00,2019-02-14 07:27:00,461,4,Huawei,Huawei P Smart Pro
+2019-01-25 17:58:00,Visa,carol,Ann Arbor,MI,United States,2018-07-05 09:20:00,2019-02-07 18:51:00,462,1,Samsung,Samsung Galaxy S9e
+2019-01-09 14:37:00,Visa,Nona,South Jordan,UT,United States,2019-01-08 15:14:00,2019-02-07 19:11:00,463,1,Sony,Sony Xperia 8
+2019-01-11 07:09:00,Visa,Oswald,Tramore,Waterford,Ireland,2018-10-13 16:43:00,2019-02-08 03:02:00,464,1,Apple,Apple iPhone 7
+2019-01-08 04:15:00,Visa,Elyssa,Gdansk,Pomorskie,Poland,2019-01-07 15:00:00,2019-02-08 03:50:00,465,1,Apple,Apple iPhone 11
+2019-01-22 10:47:00,Visa,michelle,Arklow,Wicklow,Ireland,2018-11-18 01:32:00,2019-02-08 05:07:00,466,1,LG,LG G8s ThinQ
+2019-01-26 20:47:00,Mastercard,Alicia,Lincoln,NE,United States,2018-06-24 08:05:00,2019-02-08 07:29:00,467,1,Apple,Apple iPhone 11 Pro
+2019-01-12 12:22:00,Mastercard,JP,Tierp,Uppsala,Sweden,2019-01-06 11:34:00,2019-02-08 11:15:00,468,1,Apple,Apple iPhone 7
+2019-01-26 01:44:00,Visa,Geraldine,Brussels,Brussels (Bruxelles),Belgium,2018-01-31 13:28:00,2019-02-08 14:39:00,469,1,LG,LG W10
+2019-01-18 12:57:00,Mastercard,sandra,Burr Oak,IA,United States,2018-01-24 16:11:00,2019-02-08 15:30:00,470,1,LG,LG K30
+2019-01-24 21:26:00,Visa,Olivia,Wheaton,IL,United States,2018-05-08 16:02:00,2019-02-08 16:00:00,471,1,LG,LG W30 Pro
+2019-01-05 07:37:00,Visa,Annette,Manhattan,NY,United States,2018-09-26 04:29:00,2019-02-08 18:42:00,472,1,Apple,Apple iPhone 11
+2019-01-14 12:33:00,Visa,SUSAN,Oxford,England,United Kingdom,2018-09-11 23:23:00,2019-02-08 23:00:00,473,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-01 12:42:00,Visa,ashton,Exeter,England,United Kingdom,2018-12-15 01:16:00,2019-02-09 02:52:00,474,1,Samsung,Samsung Galaxy S10e
+2019-01-19 10:13:00,Mastercard,Pavel,London,England,United Kingdom,2016-02-28 05:35:00,2019-02-09 06:57:00,475,1,Samsung,Samsung Galaxy Note 8
+2019-01-09 11:14:00,Visa,Jasinta Jeanne,Owings Mills,MD,United States,2019-01-09 10:43:00,2019-02-09 09:17:00,476,1,Samsung,Samsung Galaxy S9e
+2019-01-07 07:28:00,Amex,Cherish,Anchorage,AK,United States,2018-07-28 07:31:00,2019-02-09 10:50:00,477,1,LG,LG Stylo 5
+2019-01-18 06:46:00,Visa,Shona,Mornington,Meath,Ireland,2019-01-15 09:13:00,2019-02-09 11:55:00,478,1,Samsung,Samsung Galaxy S9e
+2019-01-06 05:42:00,Amex,Abikay,Atlanta,GA,United States,2018-10-27 14:16:00,2019-02-09 13:50:00,479,2,Samsung,Samsung Galaxy S9 Plus
+2019-01-30 12:18:00,Mastercard,Abikay,Fullerton,CA,United States,2019-01-26 13:34:00,2019-02-09 12:53:00,479,2,Apple,Apple iPhone XR
+2019-01-02 10:58:00,Visa,Kendra,Toronto,Ontario,Canada,2019-01-02 10:38:00,2019-02-09 13:56:00,480,1,Apple,Apple iPhone XS
+2019-01-08 03:29:00,Visa,amanda,Liverpool,England,United Kingdom,2018-12-22 01:41:00,2019-02-09 14:06:00,481,2,Apple,Apple iPhone 8 Plus
+2019-01-19 09:34:00,Amex,amanda,Las Vegas,NV,United States,2018-05-10 08:56:00,2019-02-09 16:44:00,481,2,Samsung,Samsung Galaxy S10e
+2019-01-12 13:23:00,Amex,Leila,Ponte San Nicolo,Veneto,Italy,2015-09-13 08:42:00,2019-02-09 14:09:00,482,1,Huawei,Huawei Nova 6 SE
+2019-01-15 05:27:00,Visa,Derrick,North Bay,Ontario,Canada,2019-01-06 17:42:00,2019-02-09 18:22:00,483,1,Samsung,Samsung Galaxy S10
+2019-01-27 11:02:00,Mastercard,DOREEN,Madrid,Madrid,Spain,2019-01-24 08:21:00,2019-02-09 18:42:00,484,1,Alcatel,Alcatel 1C
+2019-01-14 13:23:00,Diners,eugenia,Wisconsin Rapids,WI,United States,2018-11-15 13:57:00,2019-02-09 18:44:00,485,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-20 12:32:00,Visa,Bea,Chicago,IL,United States,2019-01-16 19:08:00,2019-02-09 20:42:00,486,1,HTC,HTC Exodus 1
+2019-01-06 14:35:00,Diners,Hilde Karin,Las Vegas,NV,United States,2018-12-17 11:59:00,2019-02-09 22:59:00,487,1,Apple,Apple iPhone X
+2019-01-04 06:51:00,Visa,Rima,Mullingar,Westmeath,Ireland,2019-01-03 12:34:00,2019-02-10 00:59:00,488,1,Apple,Apple iPhone 8 Plus
+2019-01-24 18:30:00,Visa,Ruangrote,Melbourne,Victoria,Australia,2018-07-17 05:19:00,2019-02-10 02:12:00,489,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-25 05:57:00,Amex,pamela,Ayacucho,Buenos Aires,Argentina,2019-01-24 09:29:00,2019-02-10 06:38:00,490,1,Apple,Apple iPhone 8 Plus
+2019-01-05 10:02:00,Visa,Emillie,Eagan,MN,United States,2019-01-05 09:03:00,2019-02-10 07:29:00,491,1,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-13 09:14:00,Visa,sangeeta,Vossevangen,Hordaland,Norway,2019-01-09 09:31:00,2019-02-10 09:04:00,492,1,Apple,Apple iPhone XR
+2019-01-11 09:50:00,Visa,Bato,Munchengosserstadt,Thuringia,Germany,2019-01-07 11:45:00,2019-02-10 10:28:00,493,1,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-21 20:44:00,Mastercard,Ailsa,Lindenhurst,NY,United States,2019-01-21 07:47:00,2019-02-10 10:51:00,494,1,Apple,Apple iPhone XR
+2019-01-21 11:56:00,Visa,Katrin,Zumikon,Zurich,Switzerland,2016-03-21 13:30:00,2019-02-19 07:05:00,495,2,Apple,Apple iPhone 11
+2019-01-05 12:41:00,Visa,Katrin,Calgary,Alberta,Canada,2018-12-03 14:49:00,2019-02-10 11:45:00,495,2,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-21 04:46:00,Visa,Tomasz,Klampenborg,Kobenhavn,Denmark,2018-06-10 11:25:00,2019-02-10 12:22:00,496,1,HTC,Microsoft Lumia 950
+2019-01-24 13:54:00,Mastercard,Meredith,Kloten,Zurich,Switzerland,2019-01-24 12:30:00,2019-02-10 13:47:00,497,1,Apple,Apple iPhone 8
+2019-01-22 18:07:00,Visa,Ryan,Simpsonville,SC,United States,2019-01-06 16:59:00,2019-02-10 15:30:00,498,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-16 19:13:00,Diners,Mary,Alpharetta,GA,United States,2018-12-26 09:28:00,2019-02-20 13:54:00,499,4,Samsung,Samsung Galaxy S10
+2019-01-07 13:38:00,Mastercard,Mary,Stuttgart,Baden-Wurttemberg,Germany,2019-01-06 13:40:00,2019-02-17 09:32:00,499,4,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-29 15:03:00,Visa,Mary,Auckland,Auckland,New Zealand,2016-02-09 11:14:00,2019-02-10 16:31:00,499,4,Motorola,Motorola Moto E6 Plus
+2019-01-07 13:28:00,Mastercard,Mary,Baile Atha Bui,Meath,Ireland,2015-09-21 15:42:00,2019-02-16 03:51:00,499,4,Samsung,Samsung Galaxy Note 8
+2019-01-02 14:14:00,Diners,Aaron,Reading,England,United Kingdom,2018-11-16 15:49:00,2019-02-10 16:38:00,500,1,Samsung,Samsung Galaxy S9e
+2019-01-19 11:05:00,Visa,Bertrand,North Caldwell,NJ,United States,2018-10-03 05:55:00,2019-02-10 18:16:00,501,1,LG,LG W30 Pro
+2019-01-28 16:17:00,Mastercard,Zoe,Coventry,England,United Kingdom,2019-01-28 15:59:00,2019-02-10 19:55:00,502,1,ZTE,ZTE Blade 10 Prime
+2019-01-08 12:46:00,Mastercard,Trine Marie,Orillia,Ontario,Canada,2018-12-16 22:57:00,2019-02-10 22:11:00,503,1,Samsung,Samsung Galaxy S10e
+2019-01-08 06:29:00,Visa,Rich,Ingelheim-Mitte,Rhineland-Palatinate,Germany,2016-03-24 06:21:00,2019-02-10 23:59:00,504,1,Samsung,Samsung Galaxy S9e
+2019-01-04 12:53:00,Diners,Kayla,Leamington Spa,England,United Kingdom,2018-12-11 07:35:00,2019-02-11 00:04:00,505,1,Motorola,Motorola One Zoom
+2019-01-14 12:55:00,Visa,Richard and Comfort,Regensdorf,Zurich,Switzerland,2019-01-11 10:36:00,2019-02-11 01:58:00,506,1,Samsung,Samsung Galaxy Note 10
+2019-01-31 23:09:00,Diners,Dawn,Vaucluse,New South Wales,Australia,2014-09-13 22:55:00,2019-02-11 03:09:00,507,1,Samsung,Samsung Galaxy S10
+2019-01-21 14:34:00,Mastercard,Tamara,Klosterneuburg,Lower Austria,Austria,2019-01-21 14:12:00,2019-02-11 03:19:00,508,1,Apple,Apple iPhone 11 Pro
+2019-01-16 08:28:00,Visa,Ashley,Rancho Cordova,CA,United States,2019-01-09 12:13:00,2019-02-11 08:34:00,509,1,Apple,Apple iPhone X
+2019-01-11 09:55:00,Visa,familly,Creemore,Ontario,Canada,2019-01-10 07:14:00,2019-02-11 08:45:00,510,1,Sony,Sony Xperia XZ3
+2019-01-08 02:46:00,Mastercard,Ken,Sidcup,England,United Kingdom,2017-11-26 16:44:00,2019-02-11 11:00:00,511,1,Apple,Apple iPhone XR
+2019-01-26 07:11:00,Visa,Tori,Minneapolis,MN,United States,2018-11-22 21:06:00,2019-02-11 11:35:00,512,1,Samsung,Samsung Galaxy S9e
+2019-01-31 05:39:00,Mastercard,Hanne,Phoenix,MD,United States,2014-10-05 04:37:00,2019-02-11 11:45:00,513,1,Samsung,Samsung Galaxy S10e
+2019-01-09 08:35:00,Amex,Precious,Edmonton,Alberta,Canada,2019-01-08 14:14:00,2019-02-11 14:26:00,514,1,Samsung,Samsung Galaxy S10e
+2019-01-26 08:45:00,Visa,Paula,Larchmont,NY,United States,2016-02-15 17:21:00,2019-02-11 17:12:00,515,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-28 08:50:00,Visa,kemp,Brentwood,TN,United States,2019-01-28 08:42:00,2019-02-11 18:41:00,516,1,Apple,Apple iPhone 8
+2019-01-09 20:25:00,Diners,Mona,Kelowna,British Columbia,Canada,2019-01-09 14:20:00,2019-02-11 20:19:00,517,1,Apple,Apple iPhone 7 Plus
+2019-01-25 10:32:00,Mastercard,Pilar,Florence,Tuscany,Italy,2019-01-23 04:46:00,2019-02-12 02:22:00,518,1,Apple,Apple iPhone 8 Plus
+2019-01-11 06:09:00,Amex,A,Saint Petersburg,FL,United States,2018-11-08 04:07:00,2019-02-12 04:41:00,519,1,LG,LG X4
+2019-01-03 13:35:00,Mastercard,Yvette,Aubonne,Vaud,Switzerland,2018-08-15 04:02:00,2019-02-12 05:17:00,520,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-18 11:03:00,Amex,Katie,Gava,Catalonia,Spain,2019-01-18 06:16:00,2019-02-12 07:35:00,521,1,Apple,Apple iPhone 7
+2019-01-13 14:44:00,Visa,george,Zurich,Zurich,Switzerland,2018-12-14 10:19:00,2019-02-12 12:08:00,522,1,Samsung,Samsung Galaxy S10 Plus
+2019-01-04 04:05:00,Mastercard,Samantha,Watford,England,United Kingdom,2018-12-31 08:33:00,2019-02-12 12:29:00,523,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-27 12:47:00,Visa,Caterina,Amsterdam,Noord-Holland,Netherlands,2019-01-27 12:03:00,2019-02-12 12:59:00,524,1,LG,LG K12+
+2019-01-10 14:59:00,Amex,Maricel,Malibu,CA,United States,2019-01-10 14:47:00,2019-02-12 19:39:00,525,1,Apple,Apple iPhone X
+2019-01-12 14:37:00,Mastercard,steve,Evires,Rhone-Alpes,France,2019-01-12 07:47:00,2019-02-12 23:49:00,526,1,Huawei,Huawei Nova 6 5G
+2019-01-16 07:58:00,Amex,Darrah,Den Haag,Zuid-Holland,Netherlands,2017-09-30 04:03:00,2019-02-13 03:05:00,527,1,Samsung,Samsung Galaxy S10
+2019-01-15 15:22:00,Visa,Sara,Fort Lauderdale,FL,United States,2019-01-06 18:19:00,2019-02-26 05:52:00,528,2,LG,LG W10
+2019-01-22 14:32:00,Visa,Sara,Perth City,Western Australia,Australia,2018-09-05 07:18:00,2019-02-13 03:50:00,528,2,Apple,Apple iPhone 11 Pro Max
+2019-01-19 06:50:00,Visa,Erika,Redruth,England,United Kingdom,2019-01-06 13:29:00,2019-02-13 04:27:00,529,1,Apple,Apple iphone XS Max
+2019-01-24 11:54:00,Visa,Audrey,Bruxelles,Brussels (Bruxelles),Belgium,2019-01-24 10:47:00,2019-02-13 06:39:00,530,1,Samsung,Samsung Galaxy S10 Plus
+2019-01-13 13:36:00,Visa,Louise,London,England,United Kingdom,2016-05-16 09:10:00,2019-02-13 06:41:00,531,2,LG,LG Stylo 5
+2019-01-30 06:18:00,Mastercard,Louise,Balgach,St Gallen,Switzerland,2016-01-14 02:40:00,2019-02-19 07:10:00,531,2,Alcatel,Alcatel 1X
+2019-01-16 10:27:00,Mastercard,Maki,Montgomery,TX,United States,2019-01-15 08:52:00,2019-02-25 17:24:00,532,2,Samsung,Samsung Galaxy S10 Plus
+2019-01-19 07:49:00,Amex,Maki,Miami Beach,FL,United States,2019-01-18 15:26:00,2019-02-13 12:26:00,532,2,Apple,Apple iPhone XR
+2019-01-10 07:37:00,Visa,Peter,Shankill,Dublin,Ireland,2018-10-11 03:19:00,2019-02-13 13:32:00,533,1,Apple,Apple iPhone X
+2019-01-20 05:53:00,Diners,Ashlee,Oxford,England,United Kingdom,2019-01-14 04:35:00,2019-02-13 14:15:00,534,1,Apple,Apple iPhone X
+2019-01-23 05:14:00,Visa,Ellen Walton,Melbourne,Victoria,Australia,2017-12-16 17:05:00,2019-02-13 15:28:00,535,1,LG,LG V50S ThinQ 5G
+2019-01-14 18:05:00,Visa,Wouter and Andrea,Anchorage,AK,United States,2019-01-10 03:19:00,2019-02-13 17:22:00,536,1,Samsung,Samsung Galaxy S10
+2019-01-08 20:52:00,Visa,Pam and Rob,Yorba Linda,CA,United States,2018-11-18 20:03:00,2019-02-13 19:32:00,537,1,Samsung,Samsung Galaxy S9
+2019-01-07 13:57:00,Visa,Elsa,Waiwera,Auckland,New Zealand,2019-01-07 13:32:00,2019-02-13 19:54:00,538,1,Sony,Sony Xperia L2
+2019-01-25 10:34:00,Amex,kathleen kane,Jamaica Plain,MA,United States,2019-01-19 19:01:00,2019-02-13 20:20:00,539,1,Samsung,Samsung Galaxy S9
+2019-01-28 04:35:00,Diners,Selene,Oslo,Oslo,Norway,2015-04-05 05:30:00,2019-02-13 23:15:00,540,1,Apple,Apple iPhone 8
+2019-01-19 03:25:00,Visa,Christy,Setagaya,Tokyo,Japan,2016-01-10 04:49:00,2019-02-14 01:03:00,541,1,Samsung,Samsung Galaxy S10
+2019-01-18 00:41:00,Visa,Hanna Agla,Donauworth,Bayern,Germany,2016-09-21 23:27:00,2019-02-14 01:11:00,542,1,Apple,Apple iPhone XS
+2019-01-27 02:38:00,Visa,Elyse,Bandon,Cork,Ireland,2017-11-30 09:25:00,2019-02-14 03:36:00,543,1,Samsung,Samsung Galaxy S10e
+2019-01-05 05:30:00,Visa,M George,Paris,Ile-de-France,France,2019-01-05 04:11:00,2019-02-14 05:34:00,544,1,LG,LG Stylo 5
+2019-01-29 10:07:00,Visa,cheryl,Beverly Hills,CA,United States,2019-01-27 08:42:00,2019-02-14 10:01:00,545,1,Samsung,Samsung Galaxy S10e
+2019-01-27 03:55:00,Amex,R,Danderyd,Stockholm,Sweden,2016-09-13 10:09:00,2019-02-14 10:37:00,546,1,LG,LG Stylo 5
+2019-01-12 12:04:00,Visa,Ed,Nacka,Stockholm,Sweden,2017-12-05 12:48:00,2019-02-14 12:32:00,547,1,Apple,Apple iPhone 11
+2019-01-25 18:33:00,Visa,Maria Macarena,Billings,MT,United States,2019-01-23 09:35:00,2019-02-14 16:27:00,548,1,Apple,Apple iPhone 11 Pro
+2019-01-23 16:30:00,Amex,Christophe,Temecula,CA,United States,2019-01-09 15:59:00,2019-02-14 19:11:00,549,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-05 12:57:00,Diners,Manoj,Boise,ID,United States,2019-01-05 09:32:00,2019-02-14 19:19:00,550,1,Apple,Apple iPhone 11 Pro
+2019-01-10 00:04:00,Mastercard,Lizelle,Mililani,HI,United States,2019-01-09 23:37:00,2019-02-14 19:34:00,551,1,LG,LG Stylo 5
+2019-01-03 14:17:00,Visa,Kees en Valesca,Scamander,Tasmania,Australia,2019-01-03 13:53:00,2019-02-14 20:11:00,552,1,Apple,Apple iPhone X
+2019-01-15 09:00:00,Visa,Cormac,Freeport City,Freeport,The Bahamas,2019-01-15 08:10:00,2019-02-14 20:36:00,553,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-24 20:58:00,Visa,jacqueline,North Vancouver,British Columbia,Canada,2018-12-28 15:54:00,2019-02-14 22:12:00,554,1,Apple,Apple iPhone X
+2019-01-10 11:53:00,Visa,Martin,Ludwigsburg,Baden-Wurttemberg,Germany,2018-01-17 08:20:00,2019-02-15 01:42:00,555,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-04 17:34:00,Mastercard,Dean,Rockingham,Western Australia,Australia,2017-10-20 19:09:00,2019-02-15 02:14:00,556,1,Apple,Apple iPhone XS
+2019-01-28 00:22:00,Visa,VERBENA,Basel,Basel-Town,Switzerland,2018-09-27 00:24:00,2019-02-15 03:20:00,557,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-17 01:49:00,Mastercard,Angel Marie,Den Haag,Zuid-Holland,Netherlands,2019-01-13 05:09:00,2019-02-15 05:19:00,558,1,Apple,Apple iPhone 7 Plus
+2019-01-25 17:48:00,Visa,olla,Westminster,CO,United States,2019-01-24 23:48:00,2019-02-15 08:08:00,559,1,Apple,Apple iPhone 7 Plus
+2019-01-22 05:39:00,Visa,Eman,Penclawdd,Wales,United Kingdom,2019-01-14 13:33:00,2019-02-15 08:34:00,560,1,Samsung,Samsung Galaxy Note 10
+2019-01-12 21:30:00,Visa,Julia,Madison,WI,United States,2018-11-17 22:24:00,2019-03-01 10:14:00,561,2,Apple,Apple iPhone 11 Pro
+2019-01-19 15:40:00,Visa,Julia,Ede,Gelderland,Netherlands,2019-01-19 14:32:00,2019-02-15 10:33:00,561,2,Samsung,Samsung Galaxy S9
+2019-01-19 13:15:00,Visa,Esther,Stocksund,Stockholm,Sweden,2017-05-29 01:32:00,2019-02-15 11:39:00,562,2,Sony,Sony Xperia L3
+2019-01-07 20:55:00,Mastercard,Esther,Cincinnati,OH,United States,2019-01-07 20:25:00,2019-02-26 12:24:00,562,2,Apple,Apple iPhone X
+2019-01-16 07:35:00,Diners,amy,Stuttgart,Baden-Wurttemberg,Germany,2016-10-06 02:02:00,2019-02-15 12:00:00,563,1,Samsung,Samsung Galaxy S9
+2019-01-22 09:48:00,Mastercard,Jyoti,Tunbridge Wells,England,United Kingdom,2018-01-08 14:37:00,2019-02-15 13:36:00,564,1,LG,LG Q70
+2019-01-18 12:05:00,Visa,Keri,Issaquah,WA,United States,2019-01-05 19:24:00,2019-02-15 13:40:00,565,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-04 10:44:00,Diners,Paul,Burnaby,British Columbia,Canada,2018-11-26 20:16:00,2019-02-15 13:46:00,566,1,Apple,Apple iPhone 11
+2019-01-20 14:55:00,Mastercard,Attie,Cypress,CA,United States,2018-09-27 07:22:00,2019-02-15 15:23:00,567,1,Samsung,Samsung Galaxy Note 10
+2019-01-02 18:41:00,Visa,odile,Lititz,PA,United States,2016-02-01 08:47:00,2019-02-15 15:47:00,568,1,Apple,Apple iPhone 7
+2019-01-02 07:03:00,Visa,gail,London,England,United Kingdom,2018-05-24 11:10:00,2019-02-15 16:04:00,569,1,LG,LG K30
+2019-01-11 17:52:00,Visa,Danny,St Thomas,VI,United States,2013-09-17 11:57:00,2019-02-15 18:08:00,570,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-09 20:00:00,Visa,Beckie,Ladera Ranch,CA,United States,2019-01-06 13:50:00,2019-02-15 23:10:00,571,1,Apple,Apple iPhone 11
+2019-01-13 02:47:00,Visa,Maryse,Rathfarnham,Dublin,Ireland,2019-01-13 02:35:00,2019-02-16 00:09:00,572,1,Samsung,Samsung Galaxy S10
+2019-01-19 04:23:00,Mastercard,don,Cagliari,Sardinia,Italy,2018-01-13 11:41:00,2019-02-16 00:22:00,573,1,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-13 12:51:00,Visa,Majken,Charlottenlund,Kobenhavn,Denmark,2018-05-27 18:51:00,2019-02-16 01:05:00,574,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-29 07:40:00,Amex,Karen and Andrew,Munchen,Bayern,Germany,2013-07-29 09:23:00,2019-02-16 02:39:00,575,1,LG,LG W30
+2019-01-21 04:34:00,Visa,Katerina,Firenze,Tuscany,Italy,2018-04-24 00:57:00,2019-02-16 03:45:00,576,1,Apple,Apple iphone XS Max
+2019-01-26 16:47:00,Visa,Oscar,Chamonix-Mont-Blanc,Rhone-Alpes,France,2019-01-26 04:53:00,2019-02-16 05:01:00,577,1,Google,Google Pixel 3XL
+2019-01-29 01:01:00,Diners,Suejean,Gingins,Vaud,Switzerland,2019-01-20 06:14:00,2019-02-16 05:09:00,578,1,Apple,Apple iPhone 7 Plus
+2019-01-25 12:55:00,Amex,ann,Boca Raton,FL,United States,2018-12-06 15:26:00,2019-02-16 06:54:00,579,1,LG,LG Q70
+2019-01-28 13:30:00,Visa,Catherine,Hghlnds Ranch,CO,United States,2019-01-28 13:03:00,2019-02-16 09:13:00,580,2,Apple,Apple iPhone 11 Pro
+2019-01-08 10:44:00,Visa,Catherine,Mount Forest,Ontario,Canada,2019-01-06 13:03:00,2019-02-17 06:39:00,580,2,Sony,Sony Xperia Ace
+2019-01-20 19:08:00,Amex,Rhonda,Atlanta,GA,United States,2018-11-21 05:52:00,2019-02-16 10:08:00,581,1,Apple,Apple iPhone 11 Pro
+2019-01-29 17:13:00,Amex,alix,Tenafly,NJ,United States,2017-12-12 12:26:00,2019-02-16 10:19:00,582,1,Sony,Sony Xperia L3
+2019-01-02 05:33:00,Visa,Mike,Aberdeen,Scotland,United Kingdom,2014-10-18 04:53:00,2019-02-16 11:12:00,583,1,Windows,Microsoft Lumia 950 XL
+2019-01-31 11:03:00,Visa,Diane,Djurgarden,Stockholm,Sweden,2019-01-25 03:48:00,2019-02-16 12:08:00,584,1,Alcatel,Alcatel 1S
+2019-01-13 09:16:00,Visa,Sigrun,Nashville,TN,United States,2019-01-12 20:48:00,2019-02-16 12:33:00,585,1,Windows,Microsoft Lumia 950
+2019-01-19 12:38:00,Visa,Dania,Munich,Bayern,Germany,2019-01-19 11:47:00,2019-02-16 12:46:00,586,1,Samsung,Samsung Galaxy Note 8
+2019-01-18 12:14:00,Mastercard,Kelsi,Utrecht,Utrecht,Netherlands,2018-12-12 03:30:00,2019-02-16 12:49:00,587,1,Motorola,Motorola Moto G8 Plus
+2019-01-22 10:59:00,Visa,Maria,Boyceville,WI,United States,2019-01-02 14:09:00,2019-02-16 14:50:00,588,1,Apple,Apple iPhone X
+2019-01-14 07:30:00,Visa,Bent Erik,Basauri,Pais Vasco,Spain,2018-02-03 02:56:00,2019-02-16 15:04:00,589,1,LG,LG G8s ThinQ
+2019-01-19 01:52:00,Amex,Kirsten,Melbourne,Victoria,Australia,2017-04-24 04:36:00,2019-02-17 01:20:00,590,1,Apple,Apple iPhone 11 Pro
+2019-01-08 23:00:00,Visa,Dickson,Kemerburgaz,Istanbul,Turkey,2018-09-16 02:07:00,2019-02-17 01:29:00,591,1,Apple,Apple iPhone 8
+2019-01-25 07:29:00,Diners,Howard,Worcester,England,United Kingdom,2019-01-22 14:02:00,2019-02-17 03:00:00,592,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-17 15:19:00,Visa,Dana,Thurles,Tipperary,Ireland,2019-01-15 09:13:00,2019-02-17 03:26:00,593,1,Apple,Apple iPhone X
+2019-01-23 12:23:00,Mastercard,Nola,Den Haag,Zuid-Holland,Netherlands,2019-01-23 11:11:00,2019-02-17 03:35:00,594,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-27 03:45:00,Visa,minjeong,Bern,Bern,Switzerland,2019-01-27 02:39:00,2019-02-17 03:44:00,595,1,Apple,Apple iphone XS Max
+2019-01-24 17:18:00,Visa,Charlotte,Sterling,VA,United States,2018-02-15 15:34:00,2019-02-17 06:26:00,596,1,Apple,Apple iPhone 11
+2019-01-02 15:13:00,Visa,Rowena,Cork,Cork,Ireland,2016-01-10 07:05:00,2019-02-17 06:38:00,597,1,Samsung,Samsung Galaxy Note 8
+2019-01-24 10:26:00,Visa,sorcha,Porto Alegre,Rio Grande do Sul,Brazil,2019-01-24 04:47:00,2019-02-17 08:05:00,598,2,Sony,Sony Xperia 10 Plus
+2019-01-24 12:56:00,Visa,sorcha,Cartierville,Quebec,Canada,2019-01-12 21:34:00,2019-02-17 09:19:00,598,2,Apple,Apple iPhone 8 Plus
+2019-01-23 15:38:00,Visa,Ronja,Manhattan,NY,United States,2019-01-17 15:05:00,2019-02-17 10:58:00,599,1,LG,LG K30
+2019-01-17 20:33:00,Amex,BURCAK,Alpharetta,GA,United States,2019-01-09 11:26:00,2019-02-17 12:31:00,600,1,Samsung,Samsung Galaxy S9e
+2019-01-05 09:15:00,Visa,isabelle,Sainte-Therese-de-Blainville,Quebec,Canada,2018-08-21 09:43:00,2019-02-17 12:34:00,601,1,Apple,Apple iPhone 8 Plus
+2019-01-20 08:16:00,Mastercard,christy,Germantown,TN,United States,2019-01-06 08:33:00,2019-02-17 13:01:00,602,1,Samsung,Samsung Galaxy Note 8
+2019-01-29 12:46:00,Visa,Lilly,Castleknock,Dublin,Ireland,2019-01-19 16:00:00,2019-02-17 14:06:00,603,1,Apple,Apple iPhone 8 Plus
+2019-01-15 18:12:00,Diners,Mandy,Hono,HI,United States,2017-01-29 13:21:00,2019-02-17 14:17:00,604,1,Apple,Apple iPhone 7
+2019-01-23 13:55:00,Mastercard,Elena,New Rochelle,NY,United States,2015-08-07 15:07:00,2019-02-17 15:16:00,605,1,Apple,Apple iPhone 11 Pro
+2019-01-26 10:26:00,Visa,Lolarae,Calgary,Alberta,Canada,2019-01-26 10:16:00,2019-02-17 15:17:00,606,1,Apple,Apple iPhone XR
+2019-01-29 15:20:00,Mastercard,Nita and Trebor,Washington Township,OH,United States,2019-01-18 20:47:00,2019-02-17 16:29:00,607,1,Motorola,Motorola Moto E6 Plus
+2019-01-28 07:26:00,Visa,Jenevieve,Guelph,Ontario,Canada,2019-01-23 19:04:00,2019-02-17 18:08:00,608,1,Google,Google Pixel 4
+2019-01-14 00:03:00,Mastercard,Piret,Bunbury,Western Australia,Australia,2018-06-16 18:22:00,2019-02-17 19:31:00,609,1,Samsung,Samsung Galaxy Note 9
+2019-01-13 01:55:00,Mastercard,Damian,Mettlach,Saarland,Germany,2016-04-01 22:29:00,2019-02-17 20:45:00,610,1,Samsung,Samsung Galaxy Note 10
+2019-01-12 23:21:00,Mastercard,Lusell,Oberwil,Basel-Country,Switzerland,2019-01-06 02:47:00,2019-02-17 22:57:00,611,1,Apple,Apple iPhone 7
+2019-01-28 11:36:00,Diners,Evelyn,Grossbodungen,Thuringia,Germany,2019-01-28 11:08:00,2019-02-18 02:04:00,612,1,Apple,Apple iPhone XR
+2019-01-20 13:54:00,Mastercard,Elisabeth,Birkdale,Queensland,Australia,2015-12-20 23:05:00,2019-02-18 23:07:00,613,2,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-19 14:06:00,Mastercard,Elisabeth,Wilmington,NC,United States,2019-01-19 12:41:00,2019-02-18 08:18:00,613,2,Samsung,Samsung Galaxy Note 8
+2019-01-08 09:43:00,Visa,Kasey,Aix-en-Provence,Provence-Alpes-Cote d'Azur,France,2019-01-05 09:05:00,2019-02-18 08:38:00,614,1,Apple,Apple iPhone 11 Pro
+2019-01-23 09:09:00,Amex,Olympe,Lidingo,Stockholm,Sweden,2016-01-18 11:49:00,2019-02-18 08:45:00,615,1,Samsung,Samsung Galaxy Note 10
+2019-01-02 13:35:00,Visa,Alyssa,Antibes,Provence-Alpes-Cote d'Azur,France,2018-07-29 12:32:00,2019-02-18 10:28:00,616,2,Google,Google Pixel 3a
+2019-01-19 04:55:00,Visa,Alyssa,Brighton,England,United Kingdom,2018-02-19 09:27:00,2019-02-28 10:06:00,616,2,Alcatel,Alcatel 1C
+2019-01-09 15:03:00,Visa,Reto,Seattle,WA,United States,2019-01-08 18:59:00,2019-02-18 15:51:00,617,1,HTC,Microsoft Lumia 950
+2019-01-23 07:04:00,Amex,Joelle,Rowayton,CT,United States,2019-01-20 10:46:00,2019-02-18 16:55:00,618,1,Motorola,Motorola One Zoom
+2019-01-19 16:16:00,Mastercard,Alexandria,Lebanon,PA,United States,2018-09-03 19:26:00,2019-02-18 19:38:00,619,1,Samsung,Samsung Galaxy S10 Plus
+2019-01-21 23:41:00,Visa,Olga,Strasbourg,Alsace,France,2018-02-04 04:45:00,2019-02-19 00:09:00,620,1,Windows,Microsoft Lumia 950
+2019-01-10 03:43:00,Visa,stacy,Stuttgart,Baden-Wurttemberg,Germany,2016-03-05 15:01:00,2019-02-19 03:11:00,621,1,Apple,Apple iphone XS Max
+2019-01-12 17:28:00,Amex,Alfredo A,Las Vegas,NV,United States,2018-12-03 14:12:00,2019-02-19 08:09:00,622,1,LG,LG W10
+2019-01-13 09:26:00,Visa,Kerry,Anieres,Geneve,Switzerland,2016-01-24 13:15:00,2019-02-25 14:05:00,623,2,Samsung,Samsung Galaxy Note 10
+2019-01-29 08:27:00,Visa,Kerry,Prague,Central Bohemia,Czech Republic,2019-01-27 08:53:00,2019-02-19 08:41:00,623,2,BLU,BLU Vivo XR
+2019-01-24 12:43:00,Visa,Saeko,Warwick,NY,United States,2018-02-02 16:37:00,2019-02-19 10:28:00,624,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-07 10:49:00,Visa,VIOLETA,Silver Spring,MD,United States,2018-09-01 13:09:00,2019-02-19 10:43:00,625,1,Apple,Apple iPhone 8 Plus
+2019-01-11 17:06:00,Visa,Antje,Sacramento,CA,United States,2018-09-17 15:12:00,2019-02-19 12:05:00,626,1,Apple,Apple iPhone 11 Pro
+2019-01-07 10:52:00,Visa,claire,Ballyneety,Limerick,Ireland,2019-01-07 09:42:00,2019-02-19 14:32:00,627,1,Huawei,Huawei Mate 30 Pro 5G
+2019-01-27 06:20:00,Mastercard,Nathalie,Haymarket,VA,United States,2016-06-01 12:04:00,2019-02-19 16:52:00,628,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-21 20:02:00,Mastercard,Daria,George Town,,Cayman Isls,2019-01-10 16:09:00,2019-02-19 19:19:00,629,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-04 16:23:00,Visa,Judith L.,Scottsdale,AZ,United States,2019-01-04 16:04:00,2019-02-19 19:35:00,630,1,Sony,Sony Xperia XZ2 Premium
+2019-01-06 12:26:00,Visa,Audinet,Cambridge,MA,United States,2019-01-06 08:40:00,2019-02-19 19:44:00,631,1,Samsung,Samsung Galaxy S9e
+2019-01-11 04:34:00,Visa,William,Chalfont Saint Peter,England,United Kingdom,2016-04-26 10:12:00,2019-02-19 21:38:00,632,1,Apple,Apple iPhone 11 Pro Max
+2019-01-17 06:39:00,Diners,Tatjana and Martin,Birmingham,England,United Kingdom,2018-01-12 07:00:00,2019-02-19 23:30:00,633,1,Apple,Apple iPhone 8
+2019-01-12 05:50:00,Mastercard,Brona,Den Haag,Zuid-Holland,Netherlands,2015-01-04 12:43:00,2019-02-20 00:24:00,634,1,Motorola,Motorola One Macro
+2019-01-03 13:43:00,Mastercard,Andree,Newmarket,Cork,Ireland,2016-10-22 14:59:00,2019-02-20 03:18:00,635,1,Apple,Apple iPhone 11 Pro
+2019-01-11 06:51:00,Visa,Aziz,Irpin',Kiev,Ukraine,2019-01-11 00:00:00,2019-02-20 03:46:00,636,1,Apple,Apple iPhone XR
+2019-01-17 06:23:00,Visa,Fernando,Grosseto,Tuscany,Italy,2018-09-22 10:48:00,2019-02-20 06:39:00,637,1,Sony,Sony Xperia 5
+2019-01-10 15:18:00,Mastercard,Jo,Huntington Beach,CA,United States,2017-10-17 14:56:00,2019-02-20 22:24:00,638,2,Apple,Apple iPhone XS
+2019-01-26 18:38:00,Visa,Jo,Pembroke Pines,FL,United States,2018-10-26 04:24:00,2019-02-20 08:09:00,638,2,Apple,Apple iPhone 7
+2019-01-31 13:26:00,Visa,Joern,Waterford,Ontario,Canada,2018-12-13 18:12:00,2019-02-20 08:27:00,639,1,Samsung,Samsung Galaxy S10
+2019-01-18 18:57:00,Mastercard,isabela,Reston,VA,United States,2018-12-31 08:16:00,2019-02-20 11:34:00,640,1,Motorola,Motorola One Macro
+2019-01-31 01:59:00,Visa,Nacole,Milan,Lombardy,Italy,2015-04-11 02:40:00,2019-02-20 11:41:00,641,1,LG,LG W30 Pro
+2019-01-04 22:18:00,Mastercard,Karoline,Powell River,British Columbia,Canada,2018-11-27 16:06:00,2019-02-20 21:45:00,642,1,Samsung,Samsung Galaxy Note 10
+2019-01-25 08:48:00,Mastercard,Malinda,Oxford,England,United Kingdom,2018-04-05 13:20:00,2019-02-21 01:36:00,643,1,Apple,Apple iPhone 7 Plus
+2019-01-24 01:22:00,Visa,Jupiterlina Elika,Rome,Lazio,Italy,2014-10-19 02:38:00,2019-02-21 06:04:00,644,1,Google,Google Pixel 3
+2019-01-27 15:09:00,Visa,Aniko,Random Lake,WI,United States,2019-01-15 12:50:00,2019-02-21 07:37:00,645,1,Samsung,Samsung Galaxy Note 10
+2019-01-17 14:06:00,Amex,Ruby,Bedford Corners,NY,United States,2014-11-28 18:58:00,2019-02-21 13:03:00,646,1,Motorola,Motorola One Action
+2019-01-21 12:38:00,Visa,Novy,Istanbul,Istanbul,Turkey,2017-02-05 12:43:00,2019-02-21 13:55:00,647,1,Huawei,Huawei Mate 30 Pro 5G
+2019-01-29 21:40:00,Visa,Alessandra,Vancouver,British Columbia,Canada,2018-06-17 19:23:00,2019-02-21 20:32:00,648,1,Samsung,Samsung Galaxy Note 8
+2019-01-12 13:41:00,Amex,dia,Claygate,England,United Kingdom,2017-08-19 15:23:00,2019-02-22 03:51:00,649,1,LG,LG X6
+2019-01-02 08:31:00,Visa,Line,Budaors,Pest,Hungary,2018-10-23 08:15:00,2019-02-22 07:06:00,650,1,Apple,Apple iPhone 7
+2019-01-25 19:44:00,Mastercard,Lesa,Vespasiano,Minas Gerais,Brazil,2015-01-06 21:17:00,2019-02-22 14:24:00,651,1,HTC,Microsoft Lumia 950
+2019-01-30 09:00:00,Mastercard,james,Nashville,TN,United States,2017-07-04 21:35:00,2019-02-22 15:58:00,652,1,Apple,Apple iPhone 11
+2019-01-07 19:18:00,Mastercard,loudon,Ottawa,Ontario,Canada,2017-11-02 20:26:00,2019-02-22 16:06:00,653,1,Apple,Apple iPhone 8 Plus
+2019-01-19 05:56:00,Visa,Allison,Edinburgh,Scotland,United Kingdom,2018-07-27 11:58:00,2019-02-27 14:35:00,654,2,Apple,Apple iPhone XS
+2019-01-04 10:18:00,Mastercard,Allison,Naples,FL,United States,2018-11-08 09:42:00,2019-02-22 18:36:00,654,2,Apple,Apple iPhone 11 Pro Max
+2019-01-23 14:57:00,Mastercard,Surat,Bridgewater,NJ,United States,2018-07-29 12:00:00,2019-02-22 18:48:00,655,1,ZTE,ZTE Blade A5
+2019-01-19 04:22:00,Diners,brian,Hagen,Lorraine,France,2017-05-21 07:22:00,2019-02-22 22:33:00,656,1,Apple,Apple iPhone 11 Pro Max
+2019-01-30 01:09:00,Mastercard,Tarja,Villars,Vaud,Switzerland,2018-11-30 04:39:00,2019-02-23 03:56:00,657,1,Sony,Sony Xperia XZ2 Premium
+2019-01-15 15:56:00,Visa,Charmain,Cartersburg,IN,United States,2018-01-02 10:51:00,2019-02-23 06:24:00,658,1,Sony,Sony Xperia 1 Professional
+2019-01-02 20:47:00,Visa,Katharina,Flower Mound,TX,United States,2018-09-23 20:57:00,2019-02-23 06:56:00,659,1,Apple,Apple iPhone 11 Pro Max
+2019-01-25 09:36:00,Visa,Zaneta,Rochester,MI,United States,2019-01-24 10:36:00,2019-02-23 06:58:00,660,1,Google,Google Pixel 3a XL
+2019-01-20 20:09:00,Visa,Jeannette,Dubai,Dubayy,United Arab Emirates,2019-01-18 09:58:00,2019-02-23 07:01:00,661,1,Samsung,Samsung Galaxy Note 8
+2019-01-08 11:14:00,Visa,Liz,Langnau,Zurich,Switzerland,2019-01-07 10:25:00,2019-02-23 07:17:00,662,1,Samsung,Samsung Galaxy S9e
+2019-01-06 18:10:00,Visa,Cherie,Columbus,OH,United States,2018-12-22 14:12:00,2019-02-23 11:35:00,663,1,Apple,Apple iPhone XR
+2019-01-11 06:46:00,Visa,Shiree,Clondalkin,Dublin,Ireland,2017-08-25 05:48:00,2019-02-23 11:56:00,664,1,Apple,Apple iPhone 8
+2019-01-06 09:31:00,Visa,Frances,San Diego,CA,United States,2019-01-04 03:18:00,2019-02-23 15:39:00,665,1,Apple,Apple iPhone 11 Pro
+2019-01-21 07:31:00,Mastercard,Beatrice,Wilmington,DE,United States,2018-03-25 13:23:00,2019-02-23 16:29:00,666,1,Apple,Apple iPhone 11
+2019-01-24 23:21:00,Visa,elaine,Phuket,Phuket,Thailand,2019-01-24 22:47:00,2019-02-24 01:12:00,667,1,Apple,Apple iPhone 11 Pro Max
+2019-01-28 10:37:00,Visa,Chevonne,Athina,Attiki,Greece,2018-05-08 04:26:00,2019-02-24 02:58:00,668,1,HTC,HTC U 12
+2019-01-30 14:36:00,Visa,danielle,Geneve,Geneve,Switzerland,2019-01-30 13:50:00,2019-02-24 03:15:00,669,1,Alcatel,Alcatel 3X
+2019-01-21 02:07:00,Mastercard,Caroline and Jonathan,Chichester,England,United Kingdom,2016-02-14 14:43:00,2019-02-24 03:29:00,670,1,LG,LG Stylo 5
+2019-01-26 06:37:00,Visa,manuela,Massagno,Ticino,Switzerland,2018-06-04 11:55:00,2019-02-24 05:30:00,671,1,LG,LG W30
+2019-01-04 14:27:00,Visa,Carole,Cardiff,Wales,United Kingdom,2015-12-14 10:47:00,2019-02-24 07:30:00,672,1,Samsung,Samsung Galaxy S10e
+2019-01-09 03:03:00,Amex,Ghislaine,Ferney-Voltaire,Rhone-Alpes,France,2018-03-28 05:53:00,2019-02-24 08:10:00,673,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-26 06:38:00,Visa,Christian,Alexandria,VA,United States,2019-01-25 10:13:00,2019-02-26 07:16:00,674,2,Samsung,Samsung Galaxy S9
+2019-01-08 19:26:00,Visa,Christian,Mableton,GA,United States,2017-11-30 10:44:00,2019-02-24 08:22:00,674,2,Apple,Apple iPhone 11 Pro
+2019-01-10 16:02:00,Visa,Hollie,San Diego,CA,United States,2017-10-12 13:03:00,2019-02-24 08:32:00,675,1,Apple,Apple iPhone X
+2019-01-06 06:31:00,Visa,mike,La Louviere,Hainaut,Belgium,2019-01-03 05:24:00,2019-02-24 08:32:00,676,1,Apple,Apple iPhone 11 Pro Max
+2019-01-23 13:13:00,Mastercard,Malahat,Minneapolis,MN,United States,2017-04-03 12:56:00,2019-02-24 08:46:00,677,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-18 17:55:00,Amex,Michaela,Mafra,Santa Catarina,Brazil,2018-03-09 09:39:00,2019-02-24 10:09:00,678,1,Apple,Apple iPhone 8
+2019-01-02 10:32:00,Mastercard,Brandi,Edmonton,Alberta,Canada,2018-12-24 15:23:00,2019-02-24 12:08:00,679,1,Samsung,Samsung Galaxy S9
+2019-01-25 09:27:00,Visa,erin,London,England,United Kingdom,2016-09-04 14:35:00,2019-02-24 13:37:00,680,1,Google,Google Pixel 4
+2019-01-06 02:41:00,Visa,Polyxene,Perth,Western Australia,Australia,2015-11-20 23:46:00,2019-02-24 16:04:00,681,1,LG,LG K12+
+2019-01-27 14:42:00,Mastercard,Jean,Arlington,VA,United States,2019-01-08 11:01:00,2019-02-24 16:38:00,682,1,Apple,Apple iPhone XR
+2019-01-19 17:40:00,Visa,Riche Lou,Newton,MA,United States,2017-03-12 07:21:00,2019-02-25 02:28:00,683,1,Apple,Apple iPhone 7 Plus
+2019-01-11 00:15:00,Mastercard,Chris,Den Haag,Zuid-Holland,Netherlands,2017-05-07 04:07:00,2019-02-25 04:04:00,684,1,LG,LG K40S
+2019-01-19 06:52:00,Diners,melanie,Santa Barbaraa,Heredia,Costa Rica,2019-01-19 06:45:00,2019-02-25 05:44:00,685,1,Apple,Apple iPhone X
+2019-01-26 01:14:00,Visa,beatrice,Churra,Murcia,Spain,2019-01-23 01:57:00,2019-02-25 05:47:00,686,1,Samsung,Samsung Galaxy S9
+2019-01-30 10:31:00,Mastercard,lorna,Castle Rock,CO,United States,2018-10-06 16:31:00,2019-02-25 07:42:00,687,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-23 05:52:00,Amex,Tary,Zug,Zug,Switzerland,2019-01-23 01:22:00,2019-02-25 09:40:00,688,1,LG,LG K12+
+2019-01-21 10:32:00,Mastercard,Julie,Chelmsford,MA,United States,2017-05-23 11:55:00,2019-02-26 08:38:00,689,3,Samsung,Samsung Galaxy Note 10
+2019-01-07 09:54:00,Visa,Julie,Ashford,England,United Kingdom,2019-01-07 09:17:00,2019-02-25 10:18:00,689,3,Apple,Apple iPhone 7 Plus
+2019-01-01 16:44:00,Amex,Julie,Rockville,MD,United States,2018-09-12 10:36:00,2019-02-25 10:48:00,689,3,Apple,Apple iPhone 8 Plus
+2019-01-23 09:27:00,Mastercard,Jerome,Madrid,Madrid,Spain,2018-02-19 02:01:00,2019-02-25 11:38:00,690,1,LG,LG G8s ThinQ
+2019-01-22 12:56:00,Visa,Laleh,Aasgaardstrand,Vestfold,Norway,2019-01-20 13:13:00,2019-02-25 12:03:00,691,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-25 11:35:00,Mastercard,Anita,Fresno,TX,United States,2019-01-24 09:24:00,2019-02-25 14:22:00,692,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-27 12:02:00,Visa,Jackie,Waterford,Waterford,Ireland,2018-03-10 13:51:00,2019-02-25 15:41:00,693,1,Samsung,Samsung Galaxy S10e
+2019-01-28 14:09:00,Visa,giovanna,Pruszkow,Mazowieckie,Poland,2019-01-28 13:40:00,2019-02-25 16:19:00,694,1,LG,LG K50S
+2019-01-26 22:45:00,Amex,Anjan,Tokyo,Tokyo,Japan,2018-05-15 19:33:00,2019-02-25 17:34:00,695,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-16 06:13:00,Mastercard,Niamh,Benoni,Gauteng,South Africa,2019-01-16 05:22:00,2019-02-25 23:19:00,696,1,LG,LG Stylo 5
+2019-01-12 17:19:00,Diners,elizabeth r,Winter Haven,FL,United States,2019-01-12 16:18:00,2019-02-26 00:42:00,697,1,Alcatel,Alcatel 1V
+2019-01-26 05:38:00,Amex,Tulin,Cranberry Twp,PA,United States,2018-09-28 19:40:00,2019-02-26 06:04:00,698,1,LG,LG V50S ThinQ 5G
+2019-01-24 10:38:00,Visa,Kenneth,Arlington,VA,United States,2019-01-24 09:27:00,2019-02-26 06:08:00,699,1,Apple,Apple iPhone X
+2019-01-17 07:56:00,Diners,Michel,Lipari,Sicilia,Italy,2019-01-17 07:25:00,2019-02-26 07:32:00,700,1,Alcatel,Alcatel 1V
+2019-01-17 07:58:00,Diners,natalie,Lipari,Sicilia,Italy,2019-01-17 07:25:00,2019-02-26 07:32:00,701,1,Samsung,Samsung Galaxy S9
+2019-01-18 04:32:00,Diners,jure,Lipari,Sicilia,Italy,2019-01-17 07:25:00,2019-02-26 07:32:00,702,1,LG,LG W30 Pro
+2019-01-11 08:41:00,Amex,Juliann,Winter Spgs,FL,United States,2018-01-08 07:24:00,2019-02-26 08:17:00,703,1,Apple,Apple iPhone 8
+2019-01-29 12:27:00,Mastercard,philippa katherine,Cabinteely,Dublin,Ireland,2016-11-08 04:50:00,2019-02-26 10:09:00,704,1,Apple,Apple iPhone 11 Pro Max
+2019-01-31 18:12:00,Visa,matthew,Cincinnati,OH,United States,2016-04-02 11:49:00,2019-02-26 12:03:00,705,1,Apple,Apple iPhone 7 Plus
+2019-01-22 15:35:00,Visa,Steven,Houston,TX,United States,2018-02-24 16:57:00,2019-02-26 12:06:00,706,1,Apple,Apple iPhone 11 Pro Max
+2019-01-05 11:24:00,Amex,Angie,Rodeo,CA,United States,2018-01-25 16:50:00,2019-02-26 12:15:00,707,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-25 15:18:00,Visa,marie-louise,Sitka,AK,United States,2018-03-02 15:27:00,2019-02-26 12:58:00,708,1,Samsung,Samsung Galaxy S10 Plus 1TB
+2019-01-30 20:58:00,Mastercard,Tanya,Carcross,Yukon Territory,Canada,2019-01-30 14:05:00,2019-02-26 13:06:00,709,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-31 04:50:00,Mastercard,Detlev,Taby,Stockholm,Sweden,2019-01-12 01:03:00,2019-02-26 13:12:00,710,1,Samsung,Samsung Galaxy S10e
+2019-01-20 10:05:00,Visa,Stephen,Calgary,Alberta,Canada,2019-01-09 10:36:00,2019-02-26 13:28:00,711,1,Apple,Apple iphone XS Max
+2019-01-09 05:15:00,Visa,Roza,Alcobendas,Madrid,Spain,2018-09-09 09:08:00,2019-02-26 14:24:00,712,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-03 11:03:00,Mastercard,paula,Sammamish,WA,United States,2019-01-01 22:43:00,2019-02-26 15:30:00,713,1,Motorola,Motorola One Zoom
+2019-01-25 14:40:00,Visa,Maureen,Statesville,NC,United States,2019-01-25 13:52:00,2019-02-26 18:38:00,714,1,Sony,Sony Xperia XZ3
+2019-01-03 12:54:00,Diners,caterina,Burbank,CA,United States,2018-12-30 08:39:00,2019-02-26 20:22:00,715,1,Samsung,Samsung Galaxy S10e
+2019-01-22 03:57:00,Mastercard,Parth,Oegstgeest,Zuid-Holland,Netherlands,2019-01-20 14:36:00,2019-02-27 01:59:00,716,1,Motorola,Motorola One Macro
+2019-01-23 05:11:00,Visa,Alexia,Blackrock,Dublin,Ireland,2018-07-15 07:20:00,2019-02-27 04:00:00,717,1,Samsung,Samsung Galaxy S9 Plus
+2019-01-25 11:52:00,Mastercard,Gloria Gail,WalcProduct3ee,Tyrol,Austria,2019-01-25 05:03:00,2019-02-27 05:37:00,718,2,Samsung,Samsung Galaxy S8 Plus
+2019-01-10 04:12:00,Visa,Gloria Gail,Foxrock,Dublin,Ireland,2019-01-07 07:39:00,2019-02-27 06:33:00,718,2,Samsung,Samsung Galaxy Note 10
+2019-01-22 12:45:00,Visa,Frank and Christelle,Valley Center,CA,United States,2019-01-22 10:25:00,2019-02-27 10:49:00,719,1,Apple,Apple iPhone 11 Pro
+2019-01-06 18:11:00,Mastercard,Triona,Swampscott,MA,United States,2016-06-09 08:57:00,2019-02-27 13:00:00,720,1,Apple,Apple iphone XS Max
+2019-01-25 10:50:00,Diners,Phillip,San Antonio,TX,United States,2018-05-29 19:51:00,2019-02-27 14:44:00,721,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-14 08:38:00,Visa,jingyan,Bristol,RI,United States,2017-03-12 15:14:00,2019-02-27 17:13:00,722,1,Google,Google Pixel 4
+2019-01-02 17:24:00,Diners,clara,Perth,Western Australia,Australia,2019-01-01 21:20:00,2019-02-27 18:43:00,723,1,Samsung,Samsung Galaxy S10 Plus
+2019-01-07 18:15:00,Mastercard,Selma,Greenville,TX,United States,2019-01-05 18:16:00,2019-02-27 19:07:00,724,1,Samsung,Samsung Galaxy S10
+2019-01-03 21:19:00,Visa,Doug and Tina,Pls Vrds Est,CA,United States,2017-12-24 22:59:00,2019-02-27 21:40:00,725,1,Apple,Apple iPhone 7 Plus
+2019-01-04 09:28:00,Visa,Jen,Maidstone,England,United Kingdom,2015-07-18 14:17:00,2019-02-28 02:28:00,726,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-02 04:34:00,Visa,gladys,Saint Albans,England,United Kingdom,2016-01-10 04:20:00,2019-02-28 03:43:00,727,1,LG,LG Q70
+2019-01-22 11:10:00,Mastercard,Gustavo,Voluntari,Bucuresti,Romania,2018-07-28 11:12:00,2019-02-28 07:52:00,728,1,Google,Google Pixel 3a XL
+2019-01-29 13:25:00,Diners,Hale,Morrison,CO,United States,2015-11-03 18:14:00,2019-02-28 08:27:00,729,2,Apple,Apple iPhone 7
+2019-01-28 22:02:00,Visa,Hale,Hawera,Taranaki,New Zealand,2019-01-23 22:31:00,2019-02-28 12:43:00,729,2,Apple,Apple iPhone 11 Pro Max
+2019-01-07 13:19:00,Visa,Darian,Izmir,Izmir,Turkey,2018-08-26 07:33:00,2019-02-28 09:54:00,730,1,Samsung,Samsung Galaxy S8 Plus
+2019-01-04 18:57:00,Mastercard,KELI,Worongary,Queensland,Australia,2018-12-23 15:17:00,2019-02-28 14:00:00,731,1,Samsung,Samsung Galaxy Note 10 Plus
+2019-01-12 20:31:00,Visa,Glen,Atlantida,Guatemala,Guatemala,2019-01-06 16:53:00,2019-02-28 14:39:00,732,1,Apple,Apple iPhone 7 Plus
+2019-01-28 11:19:00,Visa,christal,Morrison,CO,United States,2014-06-20 17:16:00,2019-02-28 17:18:00,733,1,Huawei,Huawei Mate 30 Pro 5G
+2019-01-07 17:48:00,Mastercard,Alex,Augusta,GA,United States,2015-06-10 20:25:00,2019-02-28 19:57:00,734,1,ZTE,ZTE Blade 10 Prime
+2019-01-23 12:42:00,Mastercard,Anke,Avalon,New South Wales,Australia,2018-03-03 17:38:00,2019-02-28 22:26:00,735,1,Motorola,Motorola Moto E6 Plus
+2019-01-07 19:48:00,Mastercard,TRICIA,Sydney,New South Wales,Australia,2018-09-21 20:49:00,2019-03-01 00:14:00,736,1,LG,LG W30
+2019-01-26 11:19:00,Mastercard,smith,Lahti,Etela-Suomen Laani,Finland,2019-01-04 05:25:00,2019-03-01 00:39:00,737,1,Samsung,Samsung Galaxy Note 10
+2019-01-05 13:23:00,Visa,Macy,Inner City,Vienna,Austria,2019-01-05 11:28:00,2019-03-01 02:28:00,738,1,Samsung,Samsung Galaxy S10e
+2019-01-26 13:41:00,Mastercard,Lesleigh,Baden,Aargau,Switzerland,2015-10-23 09:23:00,2019-03-01 03:11:00,739,1,Alcatel,Alcatel 1V
+2019-01-20 10:42:00,Diners,esther,Huddersfield,England,United Kingdom,2019-01-20 09:15:00,2019-03-01 03:29:00,740,1,Samsung,Samsung Galaxy S9e
+2019-01-22 14:25:00,Visa,Hans-Joerg,Belfast,Northern Ireland,United Kingdom,2018-11-10 12:15:00,2019-03-01 03:37:00,741,1,Samsung,Samsung Galaxy S10
+2019-01-08 11:55:00,Diners,julie,Haverhill,England,United Kingdom,2016-11-29 13:31:00,2019-03-01 07:28:00,742,1,LG,LG G8X ThinQ

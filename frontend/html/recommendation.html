@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Predictive Board</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="../css/style.css" />
+        <link rel="stylesheet" href="../css/recommendation.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://use.fontawesome.com/32333d026f.js"></script>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script type="text/javascript" src="../js/recommendation.js"></script>
+    </head>
+    <body>
+        <aside>
+            <h1 class="logo">DBS Sales & Marketing</h1>
+            <div class="sidebar">
+                
+                <a href="#" class="selected" onclick="select(this)">Predict Categories</a>
+                <a  href="#" onclick="select(this)">Recommendation (Users)</a>
+            </div>
+        </aside>
+        <main>
+            <nav>
+                <ul>
+                    <li ><a href="dbshome.html">Home</a></li>
+
+                    <li><a href="dashboard.html">Dashboard</a></li>
+                    <li>
+                        <a href="prediction.html">Predictive Board</a>
+                    </li>
+                    <li class="selected">
+                        <a href="recommendation.html">Customer 360</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="container">
+
+                <div>
+                    <form id="form">
+                        <input type="text" class="textbox" placeholder="Search" id="searchbar">
+                        <button class="button"><i class="fa fa-search" aria-hidden="true"></i></button>
+                    <br>
+
+                    </form>
+                    
+                    <div id="details" class="details">
+                        <u><h2>User Details</h2><br></u>
+
+                        <h4 id="id" >ID</h4><br>
+                        <h4 id="name">Name</h4><br>
+                        <h4 id="Total_Purchases">Total Purchases</h4>
+
+                    </div>
+                    <div class="results">
+                        <ul class="list-group">
+
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="selector">
+                    <div class="select-container">
+                  <label for="select-1">Brand</label>
+                    <select name="select-1" id="select-1">
+                        <option value="">option1</option>
+                    </select>
+                </div>
+                <div class="select-container">
+                  <label for="select-2">Processor</label>
+                    <select name="select-2" id="select-2">
+                        <option value="">option1</option>
+                    </select></div>
+                    <div class="select-container">
+                  <label for="select-3">RAM</label>
+                    <select name="select-3" id="select-3">
+                        <option value="">option1</option>
+                    </select>
+                </div>
+                <div class="select-container">
+                  <label for="select-4">Storage</label>
+                    <select name="select-4" id="select-4">
+                        <option value="">option1</option>
+                    </select>
+                </div>
+                </div>
+
+                <div class="selector" id="selector-2">
+                    <div class="select-container">
+                  <label for="select-5">Battery</label>
+                    <select name="select-5" id="select-5">
+                        <option value="">option1</option>
+                    </select>
+                </div>
+                <div class="select-container">
+                  <label for="select-6">Front Camera</label>
+                    <select name="select-6" id="select-6">
+                        <option value="">option1</option>
+                    </select>
+                </div>
+                <div class="select-container">
+                  <label for="select-7">Rear Camera</label>
+                    <select name="select-7" id="select-7">
+                        <option value="">option1</option>
+                    </select>
+                </div>
+                </div>
+                <div class="buttons">
+                    <button class="predict">Predict</button>
+                </div>
+                <div class="answer-container" id="answer-container">
+                    <div class="card">
+                        <div id="text1" class="card-header">
+                            BASED ON INTEREST IN CAMERA (USER CATEGORY)
+                        </div>
+                        <div class="line"></div>
+                        <div id="answer1" class="card-body"></div>
+                    </div>
+                    <div class="card">
+                        <div id="text2" class="card-header">
+                            BASED ON PERFORMANCE SCORE (USER CATEGORY)
+                        </div>
+                        <div class="line"></div>
+                        <div id="answer2" class="card-body">
+                            <ul id = "a">
+                                <!-- <li></li>
+                                <li></li>
+                                <li></li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div id="text3" class="card-header">
+                            BASED ON INTEREST IN BRANDS (USER CATEGORY)
+                        </div>
+                        <div class="line"></div>
+                        <div id="answer3" class="card-body">
+                            <ul id="b">
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="loader hidden">
+                        <div class="ball"></div>
+                        <div class="ball"></div>
+                        <div class="ball"></div>
+                        <div class="ball"></div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+    </body>
+    <script type="text/javascript" src="../js/recommendation.js"></script>
+</html>

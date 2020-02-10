@@ -1,0 +1,996 @@
+Transaction_date,Payment_Type,City,State,Country,Account_Created,Last_Login,ID,Count,Brand,Model,Freq,Processor,Front Camera,Rear Camera,RAM,Storage,Battery,Score,Name
+2019-01-02 06:17:00,Mastercard,Basildon,England,United Kingdom,2019-01-02 06:00:00,2019-01-02 06:08:00,1,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,jessica hubbard
+2019-01-06 07:45:00,Visa,London,England,United Kingdom,2019-01-06 07:00:00,2019-01-06 09:17:00,19,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,peggy taylor
+2019-01-14 01:28:00,Mastercard,Milton Keynes,England,United Kingdom,2016-06-24 15:10:00,2019-02-07 00:26:00,19,2,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,peggy taylor
+2019-01-20 08:58:00,Visa,Edmonton,Alberta,Canada,2018-12-24 17:51:00,2019-02-18 09:42:00,37,3,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,anita hunt
+2019-01-09 14:25:00,Amex,Guer,Brittany,France,2018-04-07 00:00:00,2019-01-26 05:32:00,37,3,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,anita hunt
+2019-01-05 20:00:00,Visa,Burpengary,Queensland,Australia,2018-12-10 19:53:00,2019-01-08 17:58:00,37,3,LG,LG X6,9,MediaTek MT6750        ,8,13,2,32,4500,100.0,anita hunt
+2019-01-09 15:32:00,Diners,Basingstoke,England,United Kingdom,2019-01-07 12:31:00,2019-01-17 12:03:00,45,9,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,peter rodriguez
+2019-01-17 10:14:00,Mastercard,Simcoe,Ontario,Canada,2019-01-17 07:46:00,2019-02-18 18:49:00,45,9,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,peter rodriguez
+2019-01-15 11:26:00,Visa,Brookline,MA,United States,2017-07-11 11:18:00,2019-01-20 14:01:00,45,9,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,peter rodriguez
+2019-01-24 09:30:00,Visa,Neuchatel,Neuchatel,Switzerland,2019-01-24 05:24:00,2019-02-14 13:45:00,45,9,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,peter rodriguez
+2019-01-01 08:09:00,Mastercard,South Melbourne,Victoria,Australia,2018-12-30 00:55:00,2019-01-31 05:40:00,45,9,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,peter rodriguez
+2019-01-11 14:56:00,Visa,Aardal,Sogn og Fjordane,Norway,2019-01-05 05:51:00,2019-01-31 04:21:00,45,9,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,peter rodriguez
+2019-01-07 20:15:00,Amex,Houston,TX,United States,2019-01-07 17:17:00,2019-01-09 20:02:00,45,9,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,peter rodriguez
+2019-01-30 06:48:00,Mastercard,Fayetteville,NC,United States,2019-01-30 04:51:00,2019-02-10 14:41:00,45,9,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,peter rodriguez
+2019-01-05 18:55:00,Visa,Mc Lean,VA,United States,2018-04-03 16:57:00,2019-02-12 10:25:00,45,9,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,peter rodriguez
+2019-01-05 13:52:00,Mastercard,Morges,Vaud,Switzerland,2019-01-05 05:55:00,2019-01-12 14:04:00,69,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,sherry petty
+2019-01-12 12:00:00,Mastercard,Milford,ME,United States,2018-07-06 08:49:00,2019-02-21 18:45:00,69,2,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,sherry petty
+2019-01-01 20:28:00,Visa,Calgary,Alberta,Canada,2019-01-01 20:11:00,2019-01-13 21:11:00,81,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,tiffany perkins
+2019-01-08 08:58:00,Mastercard,Huntington,NY,United States,2019-01-08 08:22:00,2019-01-25 17:39:00,140,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,danny peterson
+2019-01-18 04:38:00,Visa,Bishop Auckland,England,United Kingdom,2017-12-28 13:39:00,2019-01-18 11:58:00,140,2,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,danny peterson
+2019-01-05 19:37:00,Amex,Washington,DC,United States,2017-11-07 09:49:00,2019-01-19 07:42:00,159,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,walter ross
+2019-01-14 05:20:00,Visa,Binningen,Basel-Country,Switzerland,2019-01-12 13:31:00,2019-01-19 13:07:00,164,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,amanda banks
+2019-01-16 19:47:00,Amex,Los Gatos,CA,United States,2019-01-13 20:49:00,2019-02-20 23:09:00,164,2,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,amanda banks
+2019-01-02 17:45:00,Mastercard,Belmont,MA,United States,2015-12-09 17:19:00,2019-01-19 15:36:00,167,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,jeremy chapman
+2019-01-04 10:16:00,Mastercard,Berlin,Berlin,Germany,2018-12-28 10:50:00,2019-01-28 11:09:00,172,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,brandon novak
+2019-01-19 23:06:00,Mastercard,Norfolk,VA,United States,2019-01-19 22:53:00,2019-01-19 22:53:00,172,2,HTC,Microsoft Lumia 950 XL,2,Qualcomm MSM8994 Snapdragon 810 ,5,20,3,32,3340,100.0,brandon novak
+2019-01-01 07:09:00,Amex,South Palm Beach,FL,United States,2015-02-28 05:40:00,2019-01-21 19:14:00,201,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,jennifer erickson
+2019-01-01 14:22:00,Mastercard,Stavanger,Rogaland,Norway,2018-06-19 10:48:00,2019-01-22 14:38:00,214,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,mr. edward solomon
+2019-01-11 11:36:00,Mastercard,London,England,United Kingdom,2018-10-14 14:23:00,2019-01-25 11:16:00,245,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,michelle coleman
+2019-01-05 07:55:00,Mastercard,Ewa Beach,HI,United States,2018-12-31 07:40:00,2019-02-26 17:47:00,253,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,heather contreras
+2019-01-18 13:06:00,Diners,Shorewood,MN,United States,2019-01-18 08:44:00,2019-01-25 14:49:00,253,2,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,heather contreras
+2019-01-08 18:52:00,Visa,Belgrade,MT,United States,2019-01-07 15:30:00,2019-01-27 09:40:00,277,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,molly bowen
+2019-01-07 12:55:00,Amex,Stamford,CT,United States,2019-01-05 06:26:00,2019-01-28 13:24:00,304,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,jessica ford
+2019-01-02 09:31:00,Visa,Chicago,IL,United States,2019-01-02 09:09:00,2019-01-30 05:35:00,324,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,lisa patel
+2019-01-15 18:08:00,Amex,Villanova,PA,United States,2019-01-12 17:16:00,2019-02-19 03:19:00,334,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,megan sims
+2019-01-31 07:22:00,Visa,Weston,CT,United States,2018-02-28 17:34:00,2019-01-31 06:43:00,334,2,LG,LG G8s ThinQ,10,Qualcomm Snapdragon 855        ,8,12,6,128,3550,421.0,megan sims
+2019-01-18 06:09:00,Mastercard,Engleside,VA,United States,2017-05-21 18:56:00,2019-01-31 15:33:00,344,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,terry gill
+2019-01-19 14:26:00,Mastercard,Harold's Cross,Dublin,Ireland,2019-01-06 13:24:00,2019-02-23 12:02:00,349,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,katie tate
+2019-01-24 17:06:00,Visa,Saint Catharines,Ontario,Canada,2019-01-24 15:51:00,2019-01-31 21:10:00,349,2,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,katie tate
+2019-01-06 16:08:00,Visa,Seattle,WA,United States,2015-03-14 16:39:00,2019-02-02 14:17:00,376,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,nicole moore
+2019-01-08 08:11:00,Diners,High Wycombe,England,United Kingdom,2019-01-08 07:00:00,2019-02-03 01:54:00,382,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,jennifer wright
+2019-01-15 10:16:00,Visa,Olive Branch,MS,United States,2019-01-12 17:41:00,2019-02-06 18:48:00,382,2,LG,LG G8s ThinQ,10,Qualcomm Snapdragon 855        ,8,12,6,128,3550,421.0,jennifer wright
+2019-01-27 18:35:00,Mastercard,Buffalo Grove,IL,United States,2019-01-27 18:28:00,2019-02-03 23:42:00,405,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,stacy young
+2019-01-11 07:09:00,Visa,Tramore,Waterford,Ireland,2018-10-13 16:43:00,2019-02-08 03:02:00,464,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,gregory green
+2019-01-12 12:22:00,Mastercard,Tierp,Uppsala,Sweden,2019-01-06 11:34:00,2019-02-08 11:15:00,468,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,stacy brown
+2019-01-18 11:03:00,Amex,Gava,Catalonia,Spain,2019-01-18 06:16:00,2019-02-12 07:35:00,521,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,amy gilbert
+2019-01-02 18:41:00,Visa,Lititz,PA,United States,2016-02-01 08:47:00,2019-02-15 15:47:00,568,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,amanda morgan
+2019-01-15 18:12:00,Diners,Hono,HI,United States,2017-01-29 13:21:00,2019-02-17 14:17:00,604,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,ryan stewart
+2019-01-12 23:21:00,Mastercard,Oberwil,Basel-Country,Switzerland,2019-01-06 02:47:00,2019-02-17 22:57:00,611,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,john jackson
+2019-01-26 18:38:00,Visa,Pembroke Pines,FL,United States,2018-10-26 04:24:00,2019-02-20 08:09:00,638,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,krystal long
+2019-01-10 15:18:00,Mastercard,Huntington Beach,CA,United States,2017-10-17 14:56:00,2019-02-20 22:24:00,638,2,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,krystal long
+2019-01-02 08:31:00,Visa,Budaors,Pest,Hungary,2018-10-23 08:15:00,2019-02-22 07:06:00,650,1,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,jeffrey hunter
+2019-01-29 13:25:00,Diners,Morrison,CO,United States,2015-11-03 18:14:00,2019-02-28 08:27:00,729,2,Apple,Apple iPhone 7,34,Apple A10 Fusion,7,12,2,32,1960,237.0,jesus sandoval
+2019-01-28 22:02:00,Visa,Hawera,Taranaki,New Zealand,2019-01-23 22:31:00,2019-02-28 12:43:00,729,2,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,jesus sandoval
+2019-01-02 04:53:00,Visa,Parkville,MO,United States,2019-01-02 04:42:00,2019-01-02 07:49:00,2,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,john solis
+2019-01-14 09:10:00,Mastercard,Owensboro,KY,United States,2019-01-14 08:25:00,2019-01-15 09:40:00,107,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,maureen baker
+2019-01-20 03:51:00,Visa,The Grange,Queensland,Australia,2018-11-12 03:34:00,2019-01-20 13:11:00,184,10,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,andrew wilson
+2019-01-13 09:40:00,Visa,North Eastham,MA,United States,2015-01-26 19:09:00,2019-02-26 12:45:00,184,10,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,andrew wilson
+2019-01-26 08:00:00,Amex,Bluffton,SC,United States,2019-01-23 11:12:00,2019-02-26 07:49:00,184,10,Sony,Sony Xperia XZ2,4,Qualcomm Snapdragon 845,5,19,6,64,3180,265.0,andrew wilson
+2019-01-07 13:28:00,Visa,Calne,England,United Kingdom,2019-01-04 13:07:00,2019-02-10 12:39:00,184,10,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,andrew wilson
+2019-01-23 07:13:00,Visa,Hamilton,Hamilton,Bermuda,2019-01-19 06:03:00,2019-02-25 16:20:00,184,10,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,andrew wilson
+2019-01-05 03:03:00,Diners,Cork,Cork,Ireland,2018-05-21 07:50:00,2019-02-26 04:05:00,184,10,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,andrew wilson
+2019-01-06 14:38:00,Mastercard,Den Haag,Zuid-Holland,Netherlands,2017-05-14 12:48:00,2019-01-25 03:13:00,184,10,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,andrew wilson
+2019-01-28 13:03:00,Amex,Okotoks,Alberta,Canada,2018-09-10 06:53:00,2019-02-03 09:13:00,184,10,Samsung,Samsung Galaxy Note 9,9,Samsung Exynos 9 Octa,8,12,6,128,4000,320.0,andrew wilson
+2019-01-24 08:45:00,Visa,Cos Cob,CT,United States,2018-11-08 14:45:00,2019-02-17 03:40:00,184,10,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,andrew wilson
+2019-01-16 18:36:00,Visa,Wollongong,New South Wales,Australia,2018-11-01 16:32:00,2019-01-21 01:49:00,184,10,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,andrew wilson
+2019-01-09 14:51:00,Visa,Sydney,New South Wales,Australia,2019-01-07 18:15:00,2019-01-21 00:29:00,189,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,andrew goodwin
+2019-01-07 20:01:00,Visa,Austin,TX,United States,2019-01-06 19:16:00,2019-02-09 19:56:00,232,5,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,sara carlson
+2019-01-12 11:16:00,Visa,Madrid,Madrid,Spain,2017-07-17 06:08:00,2019-02-06 10:42:00,232,5,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,sara carlson
+2019-01-15 01:41:00,Diners,Roquefort,Provence-Alpes-Cote d'Azur,France,2019-01-14 04:13:00,2019-01-24 08:36:00,232,5,Motorola,Motorola Moto E6 Plus,8,MediaTek Helio P22,13,13,4,64,3000,70.0,sara carlson
+2019-01-16 05:12:00,Visa,Berikon,Aargau,Switzerland,2017-10-19 12:31:00,2019-02-25 05:12:00,232,5,Motorola,Motorola Moto G8 Plus,5,Qualcomm Snapdragon 665  ,25,48,4,64,4000,145.0,sara carlson
+2019-01-13 11:56:00,Diners,Montreal,Quebec,Canada,2018-10-31 12:37:00,2019-02-13 08:18:00,232,5,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,sara carlson
+2019-01-22 15:32:00,Mastercard,Killiney,Dublin,Ireland,2017-02-27 11:35:00,2019-01-26 04:32:00,260,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,amanda riley
+2019-01-18 04:01:00,Visa,Fairbanks,AK,United States,2019-01-06 00:18:00,2019-01-28 23:56:00,265,3,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,brenda mccall
+2019-01-10 08:13:00,Mastercard,Edinburgh,Scotland,United Kingdom,2018-07-31 22:34:00,2019-02-04 13:08:00,265,3,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,brenda mccall
+2019-01-26 10:24:00,Visa,Vancouver,British Columbia,Canada,2018-12-01 18:30:00,2019-01-26 10:12:00,265,3,Alcatel,Alcatel 1V,8, ARM Cortex-A55  1.6 GHz,5,8,1,16,2460,76.5,brenda mccall
+2019-01-03 09:58:00,Visa,Gainesville,VA,United States,2018-10-19 08:27:00,2019-01-31 22:19:00,350,3,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,toni alvarado
+2019-01-06 10:34:00,Mastercard,New York,NY,United States,2019-01-06 10:03:00,2019-02-13 14:41:00,350,3,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,toni alvarado
+2019-01-22 07:35:00,Visa,Ferney-Voltaire,Rhone-Alpes,France,2019-01-22 06:51:00,2019-02-10 09:18:00,350,3,LG,LG X6,9,MediaTek MT6750        ,8,13,2,32,4500,100.0,toni alvarado
+2019-01-12 14:50:00,Visa,Arlington,MA,United States,2019-01-12 09:54:00,2019-02-01 07:36:00,351,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,chelsea monroe
+2019-01-28 20:59:00,Visa,Austin,TX,United States,2019-01-28 09:40:00,2019-02-01 15:00:00,361,2,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,stephen stevens
+2019-01-27 06:26:00,Mastercard,Buffalo,NY,United States,2019-01-25 11:56:00,2019-02-06 18:24:00,361,2,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,stephen stevens
+2019-01-24 10:23:00,Visa,York,England,United Kingdom,2018-08-19 12:58:00,2019-02-03 12:57:00,395,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,kevin burke
+2019-01-08 13:33:00,Visa,Monte-Carlo,Monaco,Monaco,2016-09-23 13:19:00,2019-02-04 06:16:00,409,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,michelle vega
+2019-01-27 03:19:00,Mastercard,Canterbury,England,United Kingdom,2019-01-27 01:01:00,2019-02-14 13:35:00,437,3,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,derrick thompson
+2019-01-06 05:10:00,Visa,Altlengbach,Lower Austria,Austria,2018-06-24 00:49:00,2019-02-06 00:37:00,437,3,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,derrick thompson
+2019-01-25 08:16:00,Visa,Oslo,Oslo,Norway,2017-04-22 02:19:00,2019-02-20 23:22:00,437,3,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,derrick thompson
+2019-01-06 09:45:00,Diners,N Woodmere,NY,United States,2018-12-30 13:01:00,2019-02-06 07:33:00,445,2,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,jeremiah jackson
+2019-01-29 23:48:00,Visa,Leicester,England,United Kingdom,2018-11-15 06:49:00,2019-02-17 05:47:00,445,2,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,jeremiah jackson
+2019-01-15 10:37:00,Visa,Little Compton,RI,United States,2018-06-28 11:04:00,2019-02-07 12:00:00,455,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,joshua johnson
+2019-01-22 18:07:00,Visa,Simpsonville,SC,United States,2019-01-06 16:59:00,2019-02-10 15:30:00,498,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,wendy mcdaniel
+2019-01-23 16:30:00,Amex,Temecula,CA,United States,2019-01-09 15:59:00,2019-02-14 19:11:00,549,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,jason sullivan
+2019-01-10 11:53:00,Visa,Ludwigsburg,Baden-Wurttemberg,Germany,2018-01-17 08:20:00,2019-02-15 01:42:00,555,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,marcus klein
+2019-01-11 17:52:00,Visa,St Thomas,VI,United States,2013-09-17 11:57:00,2019-02-15 18:08:00,570,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,christina torres
+2019-01-24 12:43:00,Visa,Warwick,NY,United States,2018-02-02 16:37:00,2019-02-19 10:28:00,624,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,joseph golden
+2019-01-21 20:02:00,Mastercard,George Town,Cayman Isls,Cayman Isls,2019-01-10 16:09:00,2019-02-19 19:19:00,629,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,brandy hughes
+2019-01-23 13:13:00,Mastercard,Minneapolis,MN,United States,2017-04-03 12:56:00,2019-02-24 08:46:00,677,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,jimmy huff
+2019-01-22 12:56:00,Visa,Aasgaardstrand,Vestfold,Norway,2019-01-20 13:13:00,2019-02-25 12:03:00,691,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,teresa day
+2019-01-26 22:45:00,Amex,Tokyo,Tokyo,Japan,2018-05-15 19:33:00,2019-02-25 17:34:00,695,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,shannon payne
+2019-01-09 05:15:00,Visa,Alcobendas,Madrid,Spain,2018-09-09 09:08:00,2019-02-26 14:24:00,712,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,tara foster
+2019-01-25 11:52:00,Mastercard,WalcProduct3ee,Tyrol,Austria,2019-01-25 05:03:00,2019-02-27 05:37:00,718,2,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,samuel davis
+2019-01-10 04:12:00,Visa,Foxrock,Dublin,Ireland,2019-01-07 07:39:00,2019-02-27 06:33:00,718,2,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,samuel davis
+2019-01-04 09:28:00,Visa,Maidstone,England,United Kingdom,2015-07-18 14:17:00,2019-02-28 02:28:00,726,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,erik barber
+2019-01-07 13:19:00,Visa,Izmir,Izmir,Turkey,2018-08-26 07:33:00,2019-02-28 09:54:00,730,1,Samsung,Samsung Galaxy S8 Plus,29,Samsung Exynos 9 Octa,8,12,4,64,3500,194.0,dustin hardin
+2019-01-02 13:08:00,Mastercard,Astoria,OR,United States,2019-01-01 16:21:00,2019-01-03 12:32:00,3,1,Motorola,Motorola Razr,7,Qualcomm Snapdragon 710,5,16,6,128,2510,200.0,brett spencer
+2019-01-26 14:43:00,Visa,Sneem,Kerry,Ireland,2019-01-26 13:55:00,2019-02-17 11:07:00,23,4,Motorola,Motorola Razr,7,Qualcomm Snapdragon 710,5,16,6,128,2510,200.0,anthony melton
+2019-01-19 06:50:00,Amex,Bruxelles,Brussels (Bruxelles),Belgium,2018-07-13 11:29:00,2019-02-18 02:30:00,23,4,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,anthony melton
+2019-01-05 04:10:00,Mastercard,Roodepoort,Gauteng,South Africa,2019-01-05 02:33:00,2019-01-07 05:13:00,23,4,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,anthony melton
+2019-01-10 19:28:00,Visa,San Jose,CA,United States,2015-08-05 00:29:00,2019-02-05 21:10:00,23,4,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,anthony melton
+2019-01-02 01:11:00,Mastercard,Kuopio,Ita-Suomen Laani,Finland,2018-12-31 02:48:00,2019-01-07 10:20:00,25,1,Motorola,Motorola Razr,7,Qualcomm Snapdragon 710,5,16,6,128,2510,200.0,sara torres
+2019-01-18 13:25:00,Visa,Chester,CT,United States,2019-01-15 11:57:00,2019-02-20 10:08:00,102,5,Motorola,Motorola Razr,7,Qualcomm Snapdragon 710,5,16,6,128,2510,200.0,william smith
+2019-01-19 11:12:00,Visa,Aberdeen,Scotland,United Kingdom,2018-08-27 08:22:00,2019-01-20 00:35:00,102,5,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,william smith
+2019-01-05 15:39:00,Visa,Parkland,FL,United States,2018-12-10 09:14:00,2019-01-15 06:01:00,102,5,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,william smith
+2019-01-21 02:20:00,Visa,Carouge,Geneve,Switzerland,2019-01-16 07:06:00,2019-02-20 08:38:00,102,5,Huawei,Huawei Nova 6 SE,8,HiSilicon Kirin810,16,48,8,128,4200,290.0,william smith
+2019-01-27 13:08:00,Mastercard,Geneve,Geneve,Switzerland,2018-05-09 08:50:00,2019-02-11 02:19:00,102,5,Sony,Sony Xperia 1 Professional,3,Qualcomm Snapdragon 855        ,8,12,6,128,3300,450.0,william smith
+2019-01-01 10:06:00,Mastercard,Munich,Bayern,Germany,2019-01-01 09:13:00,2019-01-25 11:37:00,247,1,Motorola,Motorola Razr,7,Qualcomm Snapdragon 710,5,16,6,128,2510,200.0,anthony gates
+2019-01-20 08:23:00,Mastercard,Floyds Knobs,IN,United States,2015-10-12 17:17:00,2019-02-04 08:16:00,338,11,Motorola,Motorola Razr,7,Qualcomm Snapdragon 710,5,16,6,128,2510,200.0,christopher brown
+2019-01-21 23:52:00,Visa,Plan-les-Ouattes,Geneve,Switzerland,2018-11-23 04:51:00,2019-02-15 11:16:00,338,11,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,christopher brown
+2019-01-15 15:26:00,Visa,Bolton,England,United Kingdom,2019-01-15 08:16:00,2019-02-02 00:53:00,338,11,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,christopher brown
+2019-01-25 18:33:00,Mastercard,Manteno,IL,United States,2019-01-25 15:56:00,2019-02-25 19:27:00,338,11,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,christopher brown
+2019-01-16 17:56:00,Mastercard,Coppell,TX,United States,2019-01-16 12:57:00,2019-02-15 20:13:00,338,11,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,christopher brown
+2019-01-20 02:17:00,Diners,Santo Domingo City,Distrito Nacional,Dominican Republic,2018-11-09 01:26:00,2019-02-22 11:21:00,338,11,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,christopher brown
+2019-01-27 02:35:00,Visa,Ornex,Rhone-Alpes,France,2018-08-28 06:28:00,2019-02-06 05:09:00,338,11,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,christopher brown
+2019-01-07 13:26:00,Visa,Warwick,Quebec,Canada,2013-07-27 13:18:00,2019-02-25 15:16:00,338,11,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,christopher brown
+2019-01-23 04:47:00,Mastercard,Sandymount,Dublin,Ireland,2016-01-16 08:48:00,2019-02-02 02:12:00,338,11,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,christopher brown
+2019-01-29 08:13:00,Mastercard,Ridgefield,CT,United States,2018-01-28 13:55:00,2019-02-17 07:55:00,338,11,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,christopher brown
+2019-01-11 14:07:00,Visa,San Francisco,CA,United States,2019-01-11 13:08:00,2019-01-31 10:20:00,338,11,Motorola,Motorola Moto E6s,5,MediaTek Helio P22,8,13,4,64,3000,80.0,christopher brown
+2019-01-10 13:42:00,Visa,Hamilton,Ontario,Canada,2019-01-10 12:22:00,2019-02-09 09:54:00,380,4,Motorola,Motorola Razr,7,Qualcomm Snapdragon 710,5,16,6,128,2510,200.0,travis stephens
+2019-01-21 21:37:00,Visa,Taicheng,Guangdong,China,2019-01-21 06:24:00,2019-02-23 01:36:00,380,4,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,travis stephens
+2019-01-17 03:22:00,Visa,Fresno,CA,United States,2018-02-01 12:45:00,2019-02-02 20:35:00,380,4,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,travis stephens
+2019-01-18 11:17:00,Amex,Atascadero,CA,United States,2018-03-11 13:35:00,2019-02-02 22:49:00,380,4,Huawei,Huawei P Smart Pro,5,HiSilicon Kirin 710F,16,48,6,128,4000,280.0,travis stephens
+2019-01-03 14:44:00,Visa,Echuca,Victoria,Australia,2015-09-25 21:13:00,2019-01-03 14:22:00,4,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,oscar parker
+2019-01-05 00:46:00,Amex,Gurgaon,Haryana,India,2019-01-02 03:03:00,2019-01-27 00:17:00,26,10,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,diana bowman
+2019-01-17 04:03:00,Visa,Borja,Bohol,Philippines,2019-01-17 02:45:00,2019-02-09 06:09:00,26,10,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,diana bowman
+2019-01-01 02:24:00,Visa,Sugar Land,TX,United States,2019-01-01 01:56:00,2019-01-07 10:52:00,26,10,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,diana bowman
+2019-01-31 15:25:00,Visa,Ringgold,GA,United States,2019-01-28 09:54:00,2019-02-20 15:53:00,26,10,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,diana bowman
+2019-01-18 20:16:00,Mastercard,Princeton,NJ,United States,2019-01-18 19:47:00,2019-01-26 13:07:00,26,10,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,diana bowman
+2019-01-22 15:59:00,Visa,Ottawa,Ontario,Canada,2019-01-21 09:28:00,2019-02-25 17:15:00,26,10,Samsung,Samsung Galaxy Note 9,9,Samsung Exynos 9 Octa,8,12,6,128,4000,320.0,diana bowman
+2019-01-16 05:07:00,Amex,Brulon,Pays de la Loire,France,2017-08-06 07:48:00,2019-01-25 11:42:00,26,10,Samsung,Samsung Galaxy Note 9,9,Samsung Exynos 9 Octa,8,12,6,128,4000,320.0,diana bowman
+2019-01-28 03:07:00,Visa,Anse Comeau,Quebec,Canada,2019-01-26 11:47:00,2019-01-28 08:08:00,26,10,Sony,Sony Xperia XA2 Plus,1,Qualcomm Snapdragon 630,8,23,4,32,3580,70.0,diana bowman
+2019-01-12 11:48:00,Mastercard,South Waterford,ME,United States,2017-07-05 14:58:00,2019-02-17 15:29:00,26,10,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,diana bowman
+2019-01-12 23:35:00,Visa,Perth,Western Australia,Australia,2016-05-08 23:41:00,2019-02-12 03:46:00,26,10,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,diana bowman
+2019-01-10 12:57:00,Amex,Sandy Springs,GA,United States,2017-02-07 20:16:00,2019-01-10 14:09:00,49,4,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,carolyn rodriguez
+2019-01-29 12:53:00,Visa,Arc-et-Senans,Franche-Comte,France,2019-01-29 10:10:00,2019-02-18 01:03:00,49,4,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,carolyn rodriguez
+2019-01-29 05:30:00,Diners,Ithaca,NY,United States,2019-01-29 04:49:00,2019-01-29 06:56:00,49,4,LG,LG V50S ThinQ 5G,10,Qualcomm Snapdragon 855        ,8,16,6,128,4000,370.0,carolyn rodriguez
+2019-01-03 18:43:00,Visa,Cornwall,Ontario,Canada,2016-07-03 08:36:00,2019-02-17 06:17:00,49,4,Sony,Sony Xperia L3,4,MediaTek Helio P22,8,13,3,32,3300,76.5,carolyn rodriguez
+2019-01-07 19:50:00,Diners,Santa Monica,CA,United States,2019-01-03 12:04:00,2019-01-13 20:17:00,80,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,james savage
+2019-01-01 12:19:00,Visa,Edgewood,WA,United States,2016-01-16 14:45:00,2019-01-17 11:38:00,129,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,andrew smith
+2019-01-18 17:39:00,Visa,New York,NY,United States,2019-01-18 17:34:00,2019-01-18 17:34:00,151,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,david camacho
+2019-01-07 06:11:00,Visa,Paris,Ile-de-France,France,2019-01-07 05:30:00,2019-01-20 11:22:00,180,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,kirk jensen
+2019-01-12 09:23:00,Mastercard,Winter Haven,FL,United States,2019-01-10 14:55:00,2019-01-22 07:59:00,209,2,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,laura watson
+2019-01-08 23:40:00,Visa,Lindfield,New South Wales,Australia,2019-01-08 17:52:00,2019-02-09 18:31:00,209,2,Sony,Sony Xperia 10 Plus,6,Qualcomm Snapdragon 636,8,12,4,64,3000,140.0,laura watson
+2019-01-05 12:41:00,Mastercard,Pacific Beach,CA,United States,2019-01-05 11:50:00,2019-02-01 14:28:00,280,4,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,kelly lopez
+2019-01-24 07:18:00,Visa,Kirriemuir,Scotland,United Kingdom,2019-01-23 10:31:00,2019-02-08 02:52:00,280,4,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,kelly lopez
+2019-01-02 18:43:00,Visa,Cork,Cork,Ireland,2018-12-22 15:39:00,2019-01-27 15:43:00,280,4,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,kelly lopez
+2019-01-17 20:51:00,Visa,Waiau Pa,Auckland,New Zealand,2019-01-06 21:52:00,2019-02-26 16:19:00,280,4,Huawei,Huawei Nova 6 SE,8,HiSilicon Kirin810,16,48,8,128,4200,290.0,kelly lopez
+2019-01-28 13:07:00,Amex,Accokeek,MD,United States,2017-11-29 05:56:00,2019-01-29 04:40:00,314,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,melinda watson
+2019-01-04 05:12:00,Visa,Songnae-dong,Soul-t'ukpyolsi,South Korea,2018-12-30 08:40:00,2019-01-29 16:41:00,321,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,james reyes
+2019-01-05 11:21:00,Visa,Petworth,England,United Kingdom,2019-01-05 05:46:00,2019-01-30 05:54:00,325,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,isaiah johnson
+2019-01-24 11:05:00,Visa,Norcross,GA,United States,2017-07-30 15:16:00,2019-01-31 19:31:00,347,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,kimberly hoover
+2019-01-06 16:07:00,Visa,Terrell Hills,TX,United States,2018-12-21 12:21:00,2019-02-01 10:06:00,356,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,david munoz
+2019-01-10 21:35:00,Mastercard,Ajax,Ontario,Canada,2018-08-07 06:17:00,2019-02-03 03:42:00,384,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,douglas marshall
+2019-01-17 15:00:00,Visa,Humble,TX,United States,2017-03-12 14:55:00,2019-02-04 13:29:00,417,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,william smith
+2019-01-12 10:33:00,Amex,Seattle,WA,United States,2019-01-07 16:45:00,2019-02-04 20:57:00,421,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,laura romero
+2019-01-25 17:58:00,Visa,Ann Arbor,MI,United States,2018-07-05 09:20:00,2019-02-07 18:51:00,462,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,kristen macdonald
+2019-01-09 11:14:00,Visa,Owings Mills,MD,United States,2019-01-09 10:43:00,2019-02-09 09:17:00,476,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,xavier bell
+2019-01-18 06:46:00,Visa,Mornington,Meath,Ireland,2019-01-15 09:13:00,2019-02-09 11:55:00,478,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,molly lewis
+2019-01-02 14:14:00,Diners,Reading,England,United Kingdom,2018-11-16 15:49:00,2019-02-10 16:38:00,500,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,ryan cross
+2019-01-08 06:29:00,Visa,Ingelheim-Mitte,Rhineland-Palatinate,Germany,2016-03-24 06:21:00,2019-02-10 23:59:00,504,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,claudia robinson
+2019-01-26 07:11:00,Visa,Minneapolis,MN,United States,2018-11-22 21:06:00,2019-02-11 11:35:00,512,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,shaun wilkinson
+2019-01-17 20:33:00,Amex,Alpharetta,GA,United States,2019-01-09 11:26:00,2019-02-17 12:31:00,600,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,justin shelton
+2019-01-06 12:26:00,Visa,Cambridge,MA,United States,2019-01-06 08:40:00,2019-02-19 19:44:00,631,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,monique mercado
+2019-01-08 11:14:00,Visa,Langnau,Zurich,Switzerland,2019-01-07 10:25:00,2019-02-23 07:17:00,662,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,paul simmons
+2019-01-20 10:42:00,Diners,Huddersfield,England,United Kingdom,2019-01-20 09:15:00,2019-03-01 03:29:00,740,1,Samsung,Samsung Galaxy S9e,28,Samsung Exynos 9 Octa,8,12,4,64,3000,310.0,jennifer thompson
+2019-01-04 12:56:00,Visa,Cahaba Heights,AL,United States,2018-11-15 15:47:00,2019-01-04 12:45:00,5,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,richard perry
+2019-01-21 14:15:00,Amex,Ely,NV,United States,2019-01-21 13:56:00,2019-01-23 10:35:00,74,3,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,daniel arnold
+2019-01-14 06:35:00,Visa,Melbourne,Victoria,Australia,2018-07-25 07:02:00,2019-02-11 02:05:00,74,3,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,daniel arnold
+2019-01-12 13:41:00,Visa,Gasperich,Luxembourg,Luxembourg,2019-01-12 13:16:00,2019-01-13 01:03:00,74,3,HTC,Microsoft Lumia 950 XL,2,Qualcomm MSM8994 Snapdragon 810 ,5,20,3,32,3340,100.0,daniel arnold
+2019-01-08 12:03:00,Diners,Calgary,Alberta,Canada,2018-08-13 15:58:00,2019-02-24 17:41:00,89,5,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,jeffrey nguyen
+2019-01-12 00:17:00,Mastercard,Brondby Strand,Kobenhavn,Denmark,2019-01-07 23:40:00,2019-02-11 22:23:00,89,5,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,jeffrey nguyen
+2019-01-06 17:15:00,Visa,Bubuieci,Chisinau,Moldova,2018-12-24 17:31:00,2019-01-14 10:27:00,89,5,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,jeffrey nguyen
+2019-01-01 18:32:00,Amex,San Mateo,CA,United States,2018-12-31 17:09:00,2019-02-06 21:59:00,89,5,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,jeffrey nguyen
+2019-01-20 06:03:00,Mastercard,Shreveport,LA,United States,2019-01-20 05:13:00,2019-01-20 07:15:00,89,5,Sony,Sony Xperia 5,6,Qualcomm Snapdragon 855        ,8,12,6,128,3140,372.0,jeffrey nguyen
+2019-01-09 16:35:00,Diners,Nordstrand,Oslo,Norway,2015-12-29 09:26:00,2019-02-01 04:18:00,97,5,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,kelsey chandler
+2019-01-14 11:19:00,Visa,Jumeira,Dubayy,United Arab Emirates,2019-01-14 10:44:00,2019-01-14 21:26:00,97,5,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,kelsey chandler
+2019-01-08 15:27:00,Mastercard,Chicago,IL,United States,2019-01-04 22:22:00,2019-01-21 13:28:00,97,5,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,kelsey chandler
+2019-01-25 16:08:00,Diners,Vancouver,British Columbia,Canada,2019-01-24 20:12:00,2019-02-20 12:47:00,97,5,Motorola,Motorola One Zoom,7,Qualcomm Snapdragon 675,12,48,4,128,4000,170.0,kelsey chandler
+2019-01-07 14:55:00,Visa,Drogheda,Louth,Ireland,2016-09-21 02:39:00,2019-02-03 13:36:00,97,5,Motorola,Motorola Moto E6s,5,MediaTek Helio P22,8,13,4,64,3000,80.0,kelsey chandler
+2019-01-15 04:12:00,Mastercard,Keller,VA,United States,2019-01-15 04:02:00,2019-01-15 06:59:00,104,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,jessica mitchell
+2019-01-14 16:02:00,Mastercard,Woodland Hills,CA,United States,2019-01-14 14:53:00,2019-02-13 16:45:00,111,6,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,wayne harris
+2019-01-20 17:23:00,Visa,Toronto,Ontario,Canada,2018-01-20 18:01:00,2019-02-23 19:35:00,111,6,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,wayne harris
+2019-01-15 11:58:00,Visa,Kanata,Ontario,Canada,2019-01-14 05:59:00,2019-01-15 11:49:00,111,6,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,wayne harris
+2019-01-10 04:04:00,Visa,Oldenburg,Lower Saxony,Germany,2018-12-20 08:41:00,2019-01-23 05:28:00,111,6,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,wayne harris
+2019-01-29 12:16:00,Mastercard,Chiefland,FL,United States,2019-01-27 15:56:00,2019-02-24 18:29:00,111,6,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,wayne harris
+2019-01-20 05:50:00,Visa,Abbey Town,England,United Kingdom,2019-01-20 04:23:00,2019-01-20 07:46:00,111,6,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,wayne harris
+2019-01-16 07:21:00,Mastercard,Mahopac,NY,United States,2018-11-03 14:28:00,2019-01-16 06:08:00,118,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,susan savage
+2019-01-11 19:01:00,Diners,Hoschton,GA,United States,2019-01-11 18:17:00,2019-01-19 12:47:00,163,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,sara wallace
+2019-01-21 12:08:00,Visa,Jacksonville,FL,United States,2019-01-21 11:39:00,2019-01-22 06:13:00,207,2,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,jessica white
+2019-01-27 02:57:00,Visa,Cobham,England,United Kingdom,2019-01-27 02:50:00,2019-02-28 09:22:00,207,2,Alcatel,Alcatel 1C,6,MediaTek MT6580,5,8,2,16,2460,20.0,jessica white
+2019-01-13 09:51:00,Mastercard,Calgary,Alberta,Canada,2019-01-04 23:43:00,2019-01-26 17:24:00,267,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,dustin burton dds
+2019-01-26 06:25:00,Visa,Gladwyne,PA,United States,2019-01-19 06:38:00,2019-01-27 03:58:00,270,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,jennifer strickland
+2019-01-02 05:14:00,Visa,Stockton-on-Tees,England,United Kingdom,2015-01-01 06:03:00,2019-01-28 11:07:00,298,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,john woodward
+2019-01-13 08:20:00,Mastercard,Warlingham,England,United Kingdom,2015-03-04 05:51:00,2019-01-29 03:25:00,312,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,nicholas brewer
+2019-01-06 15:12:00,Amex,Sandy Plains,GA,United States,2016-09-23 08:42:00,2019-01-31 20:48:00,348,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,casey white
+2019-01-30 11:56:00,Mastercard,Dumbleton,England,United Kingdom,2018-07-31 13:46:00,2019-02-06 00:04:00,357,2,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,jason morales
+2019-01-28 20:44:00,Visa,Falmouth,VA,United States,2019-01-28 19:36:00,2019-02-01 11:33:00,357,2,HTC,Microsoft Lumia 950,5,Qualcomm MSM8992 Snapdragon 808 ,5,20,3,32,3000,60.0,jason morales
+2019-01-15 09:52:00,Amex,Holmdel,NJ,United States,2019-01-15 08:36:00,2019-02-02 07:00:00,371,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,amanda powell
+2019-01-22 07:14:00,Visa,North Bay,Ontario,Canada,2016-10-11 19:22:00,2019-02-03 06:36:00,385,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,joe johnson dds
+2019-01-17 15:48:00,Visa,Davis,CA,United States,2015-01-08 14:03:00,2019-02-03 19:14:00,402,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,patricia huber
+2019-01-07 01:42:00,Mastercard,Vecmilgravis,Riga,Latvia,2019-01-04 10:33:00,2019-02-06 04:20:00,441,2,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,jared bullock
+2019-01-27 18:06:00,Visa,Killarney,New Providence,The Bahamas,2019-01-13 18:22:00,2019-02-12 19:28:00,441,2,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,jared bullock
+2019-01-08 03:29:00,Visa,Liverpool,England,United Kingdom,2018-12-22 01:41:00,2019-02-09 14:06:00,481,2,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,barbara house
+2019-01-19 09:34:00,Amex,Las Vegas,NV,United States,2018-05-10 08:56:00,2019-02-09 16:44:00,481,2,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,barbara house
+2019-01-04 06:51:00,Visa,Mullingar,Westmeath,Ireland,2019-01-03 12:34:00,2019-02-10 00:59:00,488,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,leslie brady
+2019-01-25 05:57:00,Amex,Ayacucho,Buenos Aires,Argentina,2019-01-24 09:29:00,2019-02-10 06:38:00,490,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,benjamin day
+2019-01-25 10:32:00,Mastercard,Florence,Tuscany,Italy,2019-01-23 04:46:00,2019-02-12 02:22:00,518,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,stephanie williams
+2019-01-24 12:56:00,Visa,Cartierville,Quebec,Canada,2019-01-12 21:34:00,2019-02-17 09:19:00,598,2,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,timothy buckley
+2019-01-24 10:26:00,Visa,Porto Alegre,Rio Grande do Sul,Brazil,2019-01-24 04:47:00,2019-02-17 08:05:00,598,2,Sony,Sony Xperia 10 Plus,6,Qualcomm Snapdragon 636,8,12,4,64,3000,140.0,timothy buckley
+2019-01-05 09:15:00,Visa,Sainte-Therese-de-Blainville,Quebec,Canada,2018-08-21 09:43:00,2019-02-17 12:34:00,601,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,angela sherman
+2019-01-29 12:46:00,Visa,Castleknock,Dublin,Ireland,2019-01-19 16:00:00,2019-02-17 14:06:00,603,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,kenneth mcguire
+2019-01-07 10:49:00,Visa,Silver Spring,MD,United States,2018-09-01 13:09:00,2019-02-19 10:43:00,625,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,ronald armstrong
+2019-01-07 19:18:00,Mastercard,Ottawa,Ontario,Canada,2017-11-02 20:26:00,2019-02-22 16:06:00,653,1,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,mark gonzalez
+2019-01-01 16:44:00,Amex,Rockville,MD,United States,2018-09-12 10:36:00,2019-02-25 10:48:00,689,3,Apple,Apple iPhone 8 Plus,31,Apple A11 Bionic,7,12,3,64,2691,340.0,courtney coleman
+2019-01-21 10:32:00,Mastercard,Chelmsford,MA,United States,2017-05-23 11:55:00,2019-02-26 08:38:00,689,3,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,courtney coleman
+2019-01-07 09:54:00,Visa,Ashford,England,United Kingdom,2019-01-07 09:17:00,2019-02-25 10:18:00,689,3,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,courtney coleman
+2019-01-04 13:19:00,Visa,Mickleton,NJ,United States,2018-09-24 15:19:00,2019-01-04 13:04:00,6,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,kathy johnson
+2019-01-06 12:56:00,Visa,Manchester,England,United Kingdom,2019-01-06 10:58:00,2019-01-06 13:31:00,21,2,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,steve miller
+2019-01-07 04:45:00,Amex,London,England,United Kingdom,2019-01-07 04:30:00,2019-01-26 08:01:00,21,2,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,steve miller
+2019-01-08 03:16:00,Mastercard,Miami,FL,United States,2019-01-08 03:06:00,2019-01-08 06:34:00,32,2,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,courtney wheeler
+2019-01-17 12:59:00,Diners,Den Haag,Zuid-Holland,Netherlands,2018-10-29 13:09:00,2019-01-17 13:07:00,32,2,HTC,HTC U 12 Life,1,Qualcomm SDM636 Snapdragon 636 ,13,16,4,64,3600,115.0,courtney wheeler
+2019-01-02 18:54:00,Mastercard,Hendersonville,TN,United States,2018-12-07 04:51:00,2019-02-12 11:31:00,36,3,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,joshua quinn
+2019-01-06 07:46:00,Amex,Reston,VA,United States,2019-01-06 07:30:00,2019-01-08 12:40:00,36,3,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,joshua quinn
+2019-01-28 12:54:00,Mastercard,Vancouver,British Columbia,Canada,2019-01-27 21:04:00,2019-02-10 12:09:00,36,3,Huawei,Huawei P Smart Pro,5,HiSilicon Kirin 710F,16,48,6,128,4000,280.0,joshua quinn
+2019-01-06 14:08:00,Mastercard,Brussels,Brussels (Bruxelles),Belgium,2018-12-18 07:04:00,2019-02-21 10:49:00,70,7,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,ana williamson
+2019-01-02 02:50:00,Visa,Newcastle,Wicklow,Ireland,2015-10-12 06:56:00,2019-02-04 02:19:00,70,7,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,ana williamson
+2019-01-13 20:22:00,Visa,Kelowna,British Columbia,Canada,2018-08-02 14:28:00,2019-01-25 19:25:00,70,7,Sony,Sony Xperia L3,4,MediaTek Helio P22,8,13,3,32,3300,76.5,ana williamson
+2019-01-08 20:32:00,Visa,Calgary,Alberta,Canada,2019-01-08 20:21:00,2019-01-12 14:07:00,70,7,Sony,Sony Xperia 5,6,Qualcomm Snapdragon 855        ,8,12,6,128,3140,372.0,ana williamson
+2019-01-25 19:59:00,Visa,Seattle,WA,United States,2018-08-13 18:27:00,2019-02-01 16:04:00,70,7,Sony,Sony Xperia 5,6,Qualcomm Snapdragon 855        ,8,12,6,128,3140,372.0,ana williamson
+2019-01-29 16:07:00,Diners,Paris,Ile-de-France,France,2019-01-29 15:45:00,2019-02-10 22:24:00,70,7,Motorola,Motorola Moto G8 Play,7,MediaTek Helio P70,13,13,2,32,4000,135.0,ana williamson
+2019-01-05 05:33:00,Mastercard,London,England,United Kingdom,2015-12-08 13:22:00,2019-01-27 04:49:00,70,7,Sony,Sony Xperia Ace,5,Qualcomm Snapdragon 630,8,12,4,64,2700,140.0,ana williamson
+2019-01-13 05:57:00,Visa,Milan,Lombardy,Italy,2018-10-15 05:31:00,2019-01-13 05:55:00,76,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,sean jones
+2019-01-10 05:21:00,Amex,San Francisco,CA,United States,2019-01-10 00:07:00,2019-01-15 06:25:00,103,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,brandon waters
+2019-01-14 22:44:00,Visa,Lakewood Village,TX,United States,2019-01-14 22:21:00,2019-01-15 09:50:00,108,3,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,mrs. stefanie lutz md
+2019-01-05 15:15:00,Amex,Ashford,England,United Kingdom,2015-08-18 02:04:00,2019-02-24 10:35:00,108,3,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,mrs. stefanie lutz md
+2019-01-04 16:59:00,Visa,Parramatta,New South Wales,Australia,2019-01-03 22:35:00,2019-02-05 22:44:00,108,3,Motorola,Motorola Moto E6s,5,MediaTek Helio P22,8,13,4,64,3000,80.0,mrs. stefanie lutz md
+2019-01-11 11:20:00,Visa,Spring Lake Park,MN,United States,2018-12-31 19:48:00,2019-01-18 17:43:00,152,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,christian flores
+2019-01-01 21:40:00,Mastercard,Anglesea,Victoria,Australia,2018-10-20 18:27:00,2019-02-12 14:58:00,278,2,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,sean powell
+2019-01-12 10:06:00,Mastercard,Calgary,Alberta,Canada,2019-01-10 14:15:00,2019-01-27 14:26:00,278,2,LG,LG G8X ThinQ,5,Qualcomm Snapdragon 855        ,32,12,6,128,4000,370.0,sean powell
+2019-01-06 11:17:00,Visa,Overland,KS,United States,2018-02-21 08:53:00,2019-01-28 09:23:00,294,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,kenneth campbell
+2019-01-31 09:12:00,Visa,Reading,England,United Kingdom,2018-08-28 10:22:00,2019-01-31 09:08:00,335,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,michelle gillespie
+2019-01-13 11:54:00,Visa,Baltimore,MD,United States,2019-01-08 11:11:00,2019-02-02 08:01:00,372,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,joshua gonzales
+2019-01-07 19:06:00,Amex,Orlando,FL,United States,2014-08-10 03:30:00,2019-02-03 11:32:00,390,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,jacob lang
+2019-01-30 17:09:00,Mastercard,Hong Kong,Hong Kong,Hong Kong,2016-07-28 02:31:00,2019-02-04 16:26:00,419,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,michael goodwin
+2019-01-25 20:44:00,Visa,Rogers,AR,United States,2019-01-25 15:55:00,2019-02-05 00:20:00,423,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,dennis knox
+2019-01-01 12:42:00,Visa,Exeter,England,United Kingdom,2018-12-15 01:16:00,2019-02-09 02:52:00,474,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,janet lee
+2019-01-08 12:46:00,Mastercard,Orillia,Ontario,Canada,2018-12-16 22:57:00,2019-02-10 22:11:00,503,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,mark chambers
+2019-01-31 05:39:00,Mastercard,Phoenix,MD,United States,2014-10-05 04:37:00,2019-02-11 11:45:00,513,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,kelly livingston
+2019-01-09 08:35:00,Amex,Edmonton,Alberta,Canada,2019-01-08 14:14:00,2019-02-11 14:26:00,514,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,dylan crosby
+2019-01-27 02:38:00,Visa,Bandon,Cork,Ireland,2017-11-30 09:25:00,2019-02-14 03:36:00,543,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,angela davis
+2019-01-29 10:07:00,Visa,Beverly Hills,CA,United States,2019-01-27 08:42:00,2019-02-14 10:01:00,545,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,john richard
+2019-01-04 14:27:00,Visa,Cardiff,Wales,United Kingdom,2015-12-14 10:47:00,2019-02-24 07:30:00,672,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,sydney smith
+2019-01-27 12:02:00,Visa,Waterford,Waterford,Ireland,2018-03-10 13:51:00,2019-02-25 15:41:00,693,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,daryl johnson
+2019-01-31 04:50:00,Mastercard,Taby,Stockholm,Sweden,2019-01-12 01:03:00,2019-02-26 13:12:00,710,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,matthew stevens
+2019-01-03 12:54:00,Diners,Burbank,CA,United States,2018-12-30 08:39:00,2019-02-26 20:22:00,715,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,felicia smith
+2019-01-05 13:23:00,Visa,Inner City,Vienna,Austria,2019-01-05 11:28:00,2019-03-01 02:28:00,738,1,Samsung,Samsung Galaxy S10e,29,Samsung Exynos 9 Octa,10,12,6,128,3100,385.0,lisa grant
+2019-01-04 20:11:00,Mastercard,Peoria,IL,United States,2019-01-03 09:38:00,2019-01-04 19:45:00,7,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,kenneth wagner
+2019-01-02 14:18:00,Visa,Riverside,NJ,United States,2018-12-09 12:07:00,2019-01-05 11:01:00,15,2,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,elizabeth parks
+2019-01-18 09:42:00,Visa,Jamestown,RI,United States,2019-01-18 09:22:00,2019-02-09 08:30:00,15,2,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,elizabeth parks
+2019-01-06 20:39:00,Mastercard,Mission,British Columbia,Canada,2019-01-06 09:44:00,2019-02-23 08:55:00,46,3,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,debra escobar
+2019-01-28 05:36:00,Visa,Black River,Black River,Mauritius,2019-01-09 08:10:00,2019-03-01 04:40:00,46,3,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,debra escobar
+2019-01-03 10:11:00,Visa,Delray Beach,FL,United States,2019-01-03 09:27:00,2019-01-10 09:46:00,46,3,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,debra escobar
+2019-01-03 16:56:00,Visa,Glendora,CA,United States,2014-03-13 14:09:00,2019-02-14 11:23:00,60,3,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,james vasquez
+2019-01-02 06:07:00,Visa,Kemble,England,United Kingdom,2018-12-30 10:21:00,2019-01-12 02:24:00,60,3,LG,LG K30,7,Qualcomm Snapdragon 425       ,5,13,2,32,2880,35.7,james vasquez
+2019-01-07 19:03:00,Mastercard,Englewood,CO,United States,2017-12-17 19:55:00,2019-01-24 19:19:00,60,3,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,james vasquez
+2019-01-04 07:54:00,Visa,Alliston,Ontario,Canada,2015-10-21 21:49:00,2019-01-14 13:06:00,91,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,lisa simmons
+2019-01-15 12:33:00,Visa,College Park,MD,United States,2019-01-15 12:19:00,2019-01-15 13:28:00,113,2,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,donald mcintyre
+2019-01-25 20:15:00,Visa,Croton On Hudson,NY,United States,2019-01-23 22:33:00,2019-02-22 11:51:00,113,2,BLU,BLU Vivo XR,2,MediaTek Helio 6753        ,20,13,3,32,4010,50.0,donald mcintyre
+2019-01-11 08:59:00,Visa,Ashburn,VA,United States,2018-11-09 05:53:00,2019-01-17 08:54:00,127,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,michael wilson
+2019-01-18 13:26:00,Mastercard,Navan,Meath,Ireland,2019-01-18 12:20:00,2019-01-18 12:20:00,141,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,dominique montes
+2019-01-04 23:48:00,Diners,Yellowknife,Northwest Territories,Canada,2019-01-04 22:41:00,2019-01-18 16:17:00,147,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,paige woodward
+2019-01-19 16:55:00,Mastercard,Coconut Grove,FL,United States,2019-01-19 16:18:00,2019-01-19 16:18:00,168,2,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,larry rodriguez
+2019-01-25 16:11:00,Visa,Rogers,AR,United States,2019-01-25 15:55:00,2019-02-05 00:20:00,168,2,Huawei,Huawei Mate 30 Pro 5G,9,HiSilicon Kirin 990,32,40,8,128,4500,457.0,larry rodriguez
+2019-01-03 07:58:00,Mastercard,Hellerup,Kobenhavn,Denmark,2019-01-02 12:27:00,2019-01-25 11:13:00,244,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,frank gould
+2019-01-04 09:54:00,Mastercard,The Woodlands,TX,United States,2018-12-30 20:41:00,2019-01-25 18:23:00,254,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,rhonda gardner
+2019-01-11 12:22:00,Visa,Minneapolis,MN,United States,2019-01-11 07:18:00,2019-01-30 02:10:00,285,2,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,andre garcia
+2019-01-18 03:46:00,Visa,Nerang,Queensland,Australia,2019-01-18 00:54:00,2019-01-27 23:52:00,285,2,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,andre garcia
+2019-01-22 12:37:00,Amex,San Anselmo,CA,United States,2019-01-22 10:17:00,2019-02-06 06:38:00,336,4,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,james washington
+2019-01-10 07:55:00,Visa,Jumeira,Dubayy,United Arab Emirates,2019-01-07 09:47:00,2019-02-01 10:18:00,336,4,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,james washington
+2019-01-31 08:56:00,Mastercard,Coconut Grove,FL,United States,2019-01-31 08:03:00,2019-01-31 09:22:00,336,4,Huawei,Huawei Mate 30 Pro 5G,9,HiSilicon Kirin 990,32,40,8,128,4500,457.0,james washington
+2019-01-19 14:53:00,Mastercard,Fairfield,IA,United States,2018-12-12 05:18:00,2019-02-03 05:40:00,336,4,LG,LG W30 Pro,11,Qualcomm Snapdragon 632,16,13,4,64,4050,110.0,james washington
+2019-01-22 12:32:00,Mastercard,London,England,United Kingdom,2018-01-02 09:51:00,2019-01-31 14:43:00,343,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,kathy smith
+2019-01-24 07:14:00,Mastercard,Roanoke,VA,United States,2018-03-02 07:35:00,2019-01-31 19:18:00,346,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,elizabeth smith
+2019-01-13 05:58:00,Mastercard,Suwanee,GA,United States,2019-01-05 21:12:00,2019-02-02 13:13:00,375,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,lance clark
+2019-01-30 07:42:00,Visa,Altadena,CA,United States,2018-12-28 14:42:00,2019-02-03 18:09:00,401,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,chad may
+2019-01-02 07:47:00,Diners,London,England,United Kingdom,2018-12-08 06:45:00,2019-02-04 08:50:00,411,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,sydney scott
+2019-01-07 05:53:00,Visa,Gries,Rhineland-Palatinate,Germany,2019-01-07 02:49:00,2019-02-05 03:41:00,427,4,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,natasha miller
+2019-01-05 11:44:00,Visa,Laasby,Arhus,Denmark,2018-11-19 03:55:00,2019-02-22 06:15:00,427,4,Motorola,Motorola Moto E6,7,Qualcomm Snapdragon 435       ,13,13,2,16,3000,80.0,natasha miller
+2019-01-04 05:13:00,Visa,Hradec Kralove,East Bohemia,Czech Republic,2016-03-05 00:51:00,2019-02-27 23:30:00,427,4,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,natasha miller
+2019-01-23 11:23:00,Mastercard,Poughkeepsie,NY,United States,2018-08-26 09:37:00,2019-02-26 12:17:00,427,4,Sony,Sony Xperia 10 Plus,6,Qualcomm Snapdragon 636,8,12,4,64,3000,140.0,natasha miller
+2019-01-20 08:08:00,Mastercard,Kecskemet,Bacs-Kiskun,Hungary,2019-01-19 05:49:00,2019-02-07 01:12:00,450,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,larry mclaughlin
+2019-01-24 13:54:00,Mastercard,Kloten,Zurich,Switzerland,2019-01-24 12:30:00,2019-02-10 13:47:00,497,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,joseph pena
+2019-01-28 08:50:00,Visa,Brentwood,TN,United States,2019-01-28 08:42:00,2019-02-11 18:41:00,516,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,mary paul
+2019-01-28 04:35:00,Diners,Oslo,Oslo,Norway,2015-04-05 05:30:00,2019-02-13 23:15:00,540,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,william giles
+2019-01-08 23:00:00,Visa,Kemerburgaz,Istanbul,Turkey,2018-09-16 02:07:00,2019-02-17 01:29:00,591,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,robert barber
+2019-01-17 06:39:00,Diners,Birmingham,England,United Kingdom,2018-01-12 07:00:00,2019-02-19 23:30:00,633,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,brett clark
+2019-01-11 06:46:00,Visa,Clondalkin,Dublin,Ireland,2017-08-25 05:48:00,2019-02-23 11:56:00,664,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,amber miller
+2019-01-18 17:55:00,Amex,Mafra,Santa Catarina,Brazil,2018-03-09 09:39:00,2019-02-24 10:09:00,678,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,jack nelson
+2019-01-11 08:41:00,Amex,Winter Spgs,FL,United States,2018-01-08 07:24:00,2019-02-26 08:17:00,703,1,Apple,Apple iPhone 8,33,Apple A11 Bionic,7,12,2,64,1821,330.0,norma moore
+2019-01-02 20:09:00,Mastercard,Martin,TN,United States,2019-01-02 17:43:00,2019-01-04 20:01:00,8,1,Alcatel,Alcatel 3X,6,MediaTek MT6763V,8,16,4,64,4000,93.5,brandon schmidt
+2019-01-02 12:18:00,Visa,Nakskov,Storstrom,Denmark,2017-12-05 11:37:00,2019-01-14 04:05:00,87,1,Alcatel,Alcatel 3X,6,MediaTek MT6763V,8,16,4,64,4000,93.5,austin martinez
+2019-01-25 12:35:00,Visa,Sebastopol,CA,United States,2019-01-25 10:42:00,2019-02-14 10:40:00,216,3,Alcatel,Alcatel 3X,6,MediaTek MT6763V,8,16,4,64,4000,93.5,david fox
+2019-01-06 09:55:00,Mastercard,Vancouver,British Columbia,Canada,2018-10-07 14:55:00,2019-01-28 13:17:00,216,3,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,david fox
+2019-01-04 09:02:00,Visa,Calgary,Alberta,Canada,2018-12-13 19:20:00,2019-01-22 19:27:00,216,3,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,david fox
+2019-01-23 03:30:00,Amex,Naarden,Noord-Holland,Netherlands,2019-01-23 03:27:00,2019-01-23 03:40:00,221,1,Alcatel,Alcatel 3X,6,MediaTek MT6763V,8,16,4,64,4000,93.5,shannon garcia
+2019-01-18 14:39:00,Visa,Silver Spring,MD,United States,2019-01-05 15:43:00,2019-01-24 07:31:00,230,1,Alcatel,Alcatel 3X,6,MediaTek MT6763V,8,16,4,64,4000,93.5,cheryl rich
+2019-01-30 14:36:00,Visa,Geneve,Geneve,Switzerland,2019-01-30 13:50:00,2019-02-24 03:15:00,669,1,Alcatel,Alcatel 3X,6,MediaTek MT6763V,8,16,4,64,4000,93.5,sarah white
+2019-01-04 13:17:00,Mastercard,Tel Aviv,Tel Aviv,Israel,2019-01-04 13:03:00,2019-01-04 22:10:00,9,1,Motorola,Motorola Moto E6,7,Qualcomm Snapdragon 435       ,13,13,2,16,3000,80.0,pamela harvey
+2019-01-13 23:56:00,Mastercard,Coral Gables,FL,United States,2019-01-13 23:13:00,2019-01-14 15:17:00,94,1,Motorola,Motorola Moto E6,7,Qualcomm Snapdragon 435       ,13,13,2,16,3000,80.0,maria lawrence
+2019-01-11 06:01:00,Mastercard,New York,NY,United States,2019-01-01 10:24:00,2019-02-03 04:25:00,109,5,Motorola,Motorola Moto E6,7,Qualcomm Snapdragon 435       ,13,13,2,16,3000,80.0,jasmin johnson
+2019-01-22 12:55:00,Visa,Paris,Ile-de-France,France,2017-08-17 04:34:00,2019-02-04 13:12:00,109,5,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,jasmin johnson
+2019-01-06 07:23:00,Visa,Okotoks,Alberta,Canada,2018-07-21 12:03:00,2019-01-15 10:00:00,109,5,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,jasmin johnson
+2019-01-18 05:27:00,Visa,Downey,CA,United States,2019-01-18 04:28:00,2019-01-18 04:42:00,109,5,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,jasmin johnson
+2019-01-06 09:52:00,Mastercard,Lafayette,CA,United States,2019-01-03 15:01:00,2019-01-25 10:19:00,109,5,Huawei,Huawei Nova 6 SE,8,HiSilicon Kirin810,16,48,8,128,4200,290.0,jasmin johnson
+2019-01-23 22:19:00,Mastercard,Kuala Lumpur,Kuala Lumpur,Malaysia,2019-01-23 22:10:00,2019-01-27 19:54:00,283,2,Motorola,Motorola Moto E6,7,Qualcomm Snapdragon 435       ,13,13,2,16,3000,80.0,ryan hooper
+2019-01-14 10:32:00,Mastercard,Campinas,Sao Paulo,Brazil,2018-11-05 07:03:00,2019-02-02 05:54:00,283,2,Huawei,Huawei Mate 30 Pro 5G,9,HiSilicon Kirin 990,32,40,8,128,4500,457.0,ryan hooper
+2019-01-24 08:51:00,Mastercard,Baluan,General Santos,Philippines,2019-01-19 11:08:00,2019-02-21 10:08:00,360,2,Motorola,Motorola Moto E6,7,Qualcomm Snapdragon 435       ,13,13,2,16,3000,80.0,kevin jenkins
+2019-01-30 19:12:00,Diners,Ooltewah,TN,United States,2019-01-30 18:54:00,2019-02-01 13:51:00,360,2,Motorola,Motorola Moto E6,7,Qualcomm Snapdragon 435       ,13,13,2,16,3000,80.0,kevin jenkins
+2019-01-04 14:11:00,Visa,Chatou,Ile-de-France,France,2018-06-03 04:22:00,2019-01-05 01:17:00,10,1,Motorola,Motorola E6 Play,4,MediaTek MT6739,5,13,2,32,3000,35.0,jose brown
+2019-01-04 13:56:00,Mastercard,Headley,England,United Kingdom,2017-11-29 09:23:00,2019-01-12 05:38:00,62,1,Motorola,Motorola E6 Play,4,MediaTek MT6739,5,13,2,32,3000,35.0,stephanie weiss
+2019-01-03 15:22:00,Mastercard,Vancouver,British Columbia,Canada,2018-02-20 22:45:00,2019-01-13 23:02:00,82,1,Motorola,Motorola E6 Play,4,MediaTek MT6739,5,13,2,32,3000,35.0,mrs. bailey perry
+2019-01-23 21:35:00,Visa,Brisbane,Queensland,Australia,2017-04-21 19:33:00,2019-02-18 23:12:00,248,2,Motorola,Motorola E6 Play,4,MediaTek MT6739,5,13,2,32,3000,35.0,matthew richard
+2019-01-06 16:37:00,Visa,Austin,TX,United States,2018-12-28 12:31:00,2019-01-25 12:17:00,248,2,Alcatel,Alcatel 3,4,MediaTek MT6739,5,13,2,16,3000,84.5,matthew richard
+2019-01-05 02:42:00,Diners,New York,NY,United States,2019-01-05 02:23:00,2019-01-05 04:59:00,11,2,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,morgan dunn
+2019-01-09 07:49:00,Visa,Rochester Hills,MI,United States,2018-07-28 07:18:00,2019-02-09 17:41:00,11,2,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,morgan dunn
+2019-01-05 05:39:00,Amex,Eindhoven,Noord-Brabant,Netherlands,2019-01-05 04:55:00,2019-01-05 08:15:00,12,4,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,lindsey brown
+2019-01-27 02:26:00,Diners,MT Pleasant,TX,United States,2019-01-27 02:16:00,2019-01-27 06:41:00,12,4,Sony,Sony Xperia XZ2,4,Qualcomm Snapdragon 845,5,19,6,64,3180,265.0,lindsey brown
+2019-01-15 11:56:00,Visa,Calgary,Alberta,Canada,2019-01-14 09:16:00,2019-01-15 11:39:00,12,4,LG,LG K30,7,Qualcomm Snapdragon 425       ,5,13,2,32,2880,35.7,lindsey brown
+2019-01-26 14:37:00,Visa,St Augustine,FL,United States,2017-12-19 12:00:00,2019-02-04 16:55:00,12,4,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,lindsey brown
+2019-01-08 01:59:00,Mastercard,Vesenaz,Geneve,Switzerland,2017-11-28 11:56:00,2019-01-08 07:20:00,33,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,carol pearson
+2019-01-07 15:12:00,Visa,Flossmoor,IL,United States,2019-01-05 19:55:00,2019-01-09 16:03:00,44,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,john watts
+2019-01-01 01:26:00,Mastercard,New Rochelle,NY,United States,2019-01-01 00:58:00,2019-01-10 21:31:00,55,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,ronald zamora
+2019-01-10 14:03:00,Mastercard,Cheltenham,England,United Kingdom,2016-03-13 04:56:00,2019-01-14 02:22:00,85,4,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,tyler gonzalez
+2019-01-21 02:15:00,Visa,London,England,United Kingdom,2019-01-08 02:50:00,2019-01-22 13:46:00,85,4,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,tyler gonzalez
+2019-01-28 07:07:00,Visa,Berkeswell,England,United Kingdom,2019-01-28 06:57:00,2019-01-28 07:18:00,85,4,Huawei,Huawei Nova 6 5G,4,HiSilicon Kirin 990,32,40,8,128,4200,450.0,tyler gonzalez
+2019-01-23 10:04:00,Mastercard,Hollywood,CA,United States,2016-05-30 20:25:00,2019-02-28 09:59:00,85,4,Motorola,Motorola Moto G8 Play,7,MediaTek Helio P70,13,13,2,32,4000,135.0,tyler gonzalez
+2019-01-15 02:40:00,Mastercard,Genoa,IL,United States,2019-01-15 02:04:00,2019-01-15 02:04:00,100,2,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,martin davis
+2019-01-16 06:04:00,Mastercard,Ehingen an der Donau,Baden-Wurttemberg,Germany,2019-01-15 02:56:00,2019-02-14 05:05:00,100,2,Alcatel,Alcatel 3,4,MediaTek MT6739,5,13,2,16,3000,84.5,martin davis
+2019-01-17 01:23:00,Amex,Mushrif,Kuwait,Kuwait,2019-01-16 14:26:00,2019-01-18 09:08:00,137,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,robert wood
+2019-01-18 06:27:00,Mastercard,Corbin City,NJ,United States,2015-10-27 19:22:00,2019-01-21 17:10:00,198,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,matthew lloyd
+2019-01-21 06:39:00,Amex,Norfolk,VA,United States,2017-07-30 21:10:00,2019-01-23 12:48:00,223,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,christie peterson
+2019-01-05 06:14:00,Mastercard,Veigy-Foncenex,Rhone-Alpes,France,2019-01-05 04:52:00,2019-01-27 07:01:00,274,3,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,jillian jones
+2019-01-24 12:00:00,Visa,El Escorial,Madrid,Spain,2018-12-30 15:19:00,2019-02-28 15:17:00,274,3,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,jillian jones
+2019-01-23 15:33:00,Mastercard,Brooklyn,NY,United States,2019-01-23 14:18:00,2019-01-29 11:02:00,274,3,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,jillian jones
+2019-01-28 07:31:00,Visa,Dryden,VA,United States,2019-01-28 07:22:00,2019-01-28 07:34:00,290,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,zachary ortega
+2019-01-28 07:49:00,Visa,Fayetteville,NC,United States,2019-01-28 07:45:00,2019-01-28 07:47:00,292,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,robert martinez
+2019-01-15 10:51:00,Mastercard,Sola,Rogaland,Norway,2019-01-11 08:54:00,2019-01-28 10:39:00,297,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,shawn perez
+2019-01-16 07:20:00,Mastercard,Saint-Cergues,Rhone-Alpes,France,2019-01-15 04:53:00,2019-01-28 12:43:00,303,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,morgan herrera
+2019-01-21 04:11:00,Visa,Suchdol,Prague,Czech Republic,2018-09-30 10:39:00,2019-02-19 00:55:00,309,3,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,cody cruz
+2019-01-05 13:46:00,Visa,Atchison,KS,United States,2018-11-11 14:19:00,2019-01-28 17:10:00,309,3,Alcatel,Alcatel 1C,6,MediaTek MT6580,5,8,2,16,2460,20.0,cody cruz
+2019-01-05 10:49:00,Amex,Mililani,HI,United States,2017-08-23 00:00:00,2019-01-28 18:13:00,309,3,HTC,HTC Exodus 1,2,Qualcomm Snapdragon 845,8,16,6,128,3500,275.0,cody cruz
+2019-01-03 21:11:00,Mastercard,Centennial,CO,United States,2018-12-03 13:00:00,2019-02-03 11:50:00,392,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,jodi burns
+2019-01-07 12:39:00,Visa,Milano,Lombardy,Italy,2016-06-02 13:01:00,2019-02-10 13:19:00,404,2,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,matthew cline
+2019-01-30 20:27:00,Mastercard,Pasadena,CA,United States,2019-01-30 20:02:00,2019-02-03 23:39:00,404,2,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,matthew cline
+2019-01-02 10:58:00,Visa,Toronto,Ontario,Canada,2019-01-02 10:38:00,2019-02-09 13:56:00,480,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,sandra nelson
+2019-01-18 00:41:00,Visa,Donauworth,Bayern,Germany,2016-09-21 23:27:00,2019-02-14 01:11:00,542,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,carmen lewis
+2019-01-04 17:34:00,Mastercard,Rockingham,Western Australia,Australia,2017-10-20 19:09:00,2019-02-15 02:14:00,556,1,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,sharon ward
+2019-01-19 05:56:00,Visa,Edinburgh,Scotland,United Kingdom,2018-07-27 11:58:00,2019-02-27 14:35:00,654,2,Apple,Apple iPhone XS,31,Apple A12 Bionic,7,12,4,64,2658,380.0,susan levine
+2019-01-04 10:18:00,Mastercard,Naples,FL,United States,2018-11-08 09:42:00,2019-02-22 18:36:00,654,2,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,susan levine
+2019-01-01 20:21:00,Visa,Morton,IL,United States,2018-10-24 06:48:00,2019-01-07 20:49:00,29,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,paul glover
+2019-01-08 00:42:00,Visa,Los Gatos,CA,United States,2019-01-08 00:28:00,2019-01-08 03:39:00,30,2,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,erica francis
+2019-01-25 02:46:00,Visa,Dubai,Dubayy,United Arab Emirates,2019-01-08 01:19:00,2019-02-08 02:06:00,30,2,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,erica francis
+2019-01-14 06:32:00,Visa,Broadlands,VA,United States,2016-04-12 06:14:00,2019-01-18 14:04:00,146,3,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,dawn briggs
+2019-01-28 01:38:00,Mastercard,Stockholm,Stockholm,Sweden,2017-04-16 12:58:00,2019-01-30 09:18:00,146,3,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,dawn briggs
+2019-01-22 06:51:00,Visa,Rochester Hills,MI,United States,2019-01-22 05:54:00,2019-02-12 13:01:00,146,3,BLU,BLU Vivo 8L,2,MediaTek Helio 6753        ,20,13,3,32,4000,50.0,dawn briggs
+2019-01-31 06:14:00,Diners,Sag Harbor,NY,United States,2018-06-27 04:15:00,2019-02-23 13:36:00,166,5,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,diane gomez
+2019-01-25 13:50:00,Visa,Lausanne,Vaud,Switzerland,2019-01-25 10:09:00,2019-02-22 03:33:00,166,5,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,diane gomez
+2019-01-04 03:41:00,Mastercard,Den Haag,Zuid-Holland,Netherlands,2015-01-04 12:43:00,2019-02-20 00:24:00,166,5,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,diane gomez
+2019-01-15 08:10:00,Visa,Royal Oak,MI,United States,2018-12-13 19:35:00,2019-01-19 14:59:00,166,5,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,diane gomez
+2019-01-06 06:07:00,Visa,Rungsted,Frederiksborg,Denmark,2018-12-27 14:29:00,2019-02-09 04:20:00,166,5,Sony,Sony Xperia Ace,5,Qualcomm Snapdragon 630,8,12,4,64,2700,140.0,diane gomez
+2019-01-16 02:41:00,Visa,Kearns,UT,United States,2019-01-15 18:01:00,2019-01-21 01:02:00,190,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,randy odom
+2019-01-16 01:07:00,Diners,Cork,Cork,Ireland,2019-01-14 04:10:00,2019-01-22 15:06:00,215,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,christina ward
+2019-01-23 11:37:00,Diners,Staten Island,NY,United States,2019-01-23 10:42:00,2019-01-24 08:59:00,234,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,jorge yates
+2019-01-25 00:09:00,Visa,Princeville,HI,United States,2018-06-20 22:08:00,2019-01-25 00:12:00,239,2,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,harold ross
+2019-01-25 04:34:00,Mastercard,Groningen,Groningen,Netherlands,2019-01-08 05:16:00,2019-02-23 03:12:00,239,2,LG,LG V50S ThinQ 5G,10,Qualcomm Snapdragon 855        ,8,16,6,128,4000,370.0,harold ross
+2019-01-24 18:43:00,Visa,North Tustin,CA,United States,2019-01-11 13:33:00,2019-01-26 21:29:00,268,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,james estes
+2019-01-19 10:32:00,Mastercard,Queen Creek,AZ,United States,2019-01-06 17:57:00,2019-01-30 10:41:00,327,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,jessica leach
+2019-01-20 14:48:00,Visa,Norrkoping,Ostergotland,Sweden,2018-12-21 11:49:00,2019-02-19 05:22:00,428,5,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,brian rivera
+2019-01-27 11:18:00,Amex,Los Angeles,CA,United States,2019-01-23 11:47:00,2019-02-10 13:09:00,428,5,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,brian rivera
+2019-01-16 13:35:00,Visa,Milano,Lombardy,Italy,2019-01-16 12:43:00,2019-02-25 13:59:00,428,5,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,brian rivera
+2019-01-25 01:53:00,Visa,Pietermaritzburg,KwaZulu-Natal,South Africa,2019-01-24 12:52:00,2019-02-05 04:37:00,428,5,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,brian rivera
+2019-01-14 00:15:00,Visa,Paris,Ile-de-France,France,2018-11-28 00:07:00,2019-02-09 01:30:00,428,5,Motorola,Motorola Moto E6s,5,MediaTek Helio P22,8,13,4,64,3000,80.0,brian rivera
+2019-01-14 12:33:00,Visa,Oxford,England,United Kingdom,2018-09-11 23:23:00,2019-02-08 23:00:00,473,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,steven mathews jr.
+2019-01-24 18:30:00,Visa,Melbourne,Victoria,Australia,2018-07-17 05:19:00,2019-02-10 02:12:00,489,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,erica gill
+2019-01-07 13:38:00,Mastercard,Stuttgart,Baden-Wurttemberg,Germany,2019-01-06 13:40:00,2019-02-17 09:32:00,499,4,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,mark garcia
+2019-01-16 19:13:00,Diners,Alpharetta,GA,United States,2018-12-26 09:28:00,2019-02-20 13:54:00,499,4,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,mark garcia
+2019-01-29 15:03:00,Visa,Auckland,Auckland,New Zealand,2016-02-09 11:14:00,2019-02-10 16:31:00,499,4,Motorola,Motorola Moto E6 Plus,8,MediaTek Helio P22,13,13,4,64,3000,70.0,mark garcia
+2019-01-07 13:28:00,Mastercard,Baile Atha Bui,Meath,Ireland,2015-09-21 15:42:00,2019-02-16 03:51:00,499,4,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,mark garcia
+2019-01-26 08:45:00,Visa,Larchmont,NY,United States,2016-02-15 17:21:00,2019-02-11 17:12:00,515,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,hunter salinas
+2019-01-03 13:35:00,Mastercard,Aubonne,Vaud,Switzerland,2018-08-15 04:02:00,2019-02-12 05:17:00,520,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,jason wong
+2019-01-15 09:00:00,Visa,Freeport City,Freeport,The Bahamas,2019-01-15 08:10:00,2019-02-14 20:36:00,553,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,ashley herrera
+2019-01-18 12:05:00,Visa,Issaquah,WA,United States,2019-01-05 19:24:00,2019-02-15 13:40:00,565,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,breanna jones
+2019-01-25 07:29:00,Diners,Worcester,England,United Kingdom,2019-01-22 14:02:00,2019-02-17 03:00:00,592,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,jeffrey phillips
+2019-01-20 13:54:00,Mastercard,Birkdale,Queensland,Australia,2015-12-20 23:05:00,2019-02-18 23:07:00,613,2,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,jeremy carr
+2019-01-19 14:06:00,Mastercard,Wilmington,NC,United States,2019-01-19 12:41:00,2019-02-18 08:18:00,613,2,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,jeremy carr
+2019-01-25 10:50:00,Diners,San Antonio,TX,United States,2018-05-29 19:51:00,2019-02-27 14:44:00,721,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,alicia love
+2019-01-04 18:57:00,Mastercard,Worongary,Queensland,Australia,2018-12-23 15:17:00,2019-02-28 14:00:00,731,1,Samsung,Samsung Galaxy Note 10 Plus,26,Samsung Exynos 9 Octa,12,12,12,256,4300,445.0,hannah grant
+2019-01-08 13:34:00,Visa,Belleville,Ontario,Canada,2019-01-06 14:38:00,2019-01-12 18:31:00,71,1,Sony,Sony Xperia XZ2,4,Qualcomm Snapdragon 845,5,19,6,64,3180,265.0,roger murphy
+2019-01-24 13:35:00,Visa,Chaska,MN,United States,2016-05-11 13:27:00,2019-02-16 09:00:00,332,2,Sony,Sony Xperia XZ2,4,Qualcomm Snapdragon 845,5,19,6,64,3180,265.0,kendra robertson
+2019-01-30 20:36:00,Visa,Edinburg,TX,United States,2019-01-30 20:05:00,2019-01-31 04:47:00,332,2,LG,LG X4,6,Qualcomm Snapdragon 855        ,8,13,2,32,3000,200.0,kendra robertson
+2019-01-07 10:01:00,Visa,Pittsboro,NC,United States,2019-01-07 09:04:00,2019-01-10 20:02:00,54,1,LG,LG K30,7,Qualcomm Snapdragon 425       ,5,13,2,32,2880,35.7,linda aguilar
+2019-01-18 10:42:00,Visa,Atlanta,Georgia,United States,2019-01-18 00:00:00,2019-01-20 11:09:00,179,1,LG,LG K30,7,Qualcomm Snapdragon 425       ,5,13,2,32,2880,35.7,michele peters
+2019-01-18 12:57:00,Mastercard,Burr Oak,IA,United States,2018-01-24 16:11:00,2019-02-08 15:30:00,470,1,LG,LG K30,7,Qualcomm Snapdragon 425       ,5,13,2,32,2880,35.7,nancy may
+2019-01-02 07:03:00,Visa,London,England,United Kingdom,2018-05-24 11:10:00,2019-02-15 16:04:00,569,1,LG,LG K30,7,Qualcomm Snapdragon 425       ,5,13,2,32,2880,35.7,joel payne
+2019-01-23 15:38:00,Visa,Manhattan,NY,United States,2019-01-17 15:05:00,2019-02-17 10:58:00,599,1,LG,LG K30,7,Qualcomm Snapdragon 425       ,5,13,2,32,2880,35.7,adam brown
+2019-01-17 09:12:00,Amex,Alexandria,VA,United States,2016-12-26 14:23:00,2019-02-21 04:50:00,41,3,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,ryan george
+2019-01-06 23:00:00,Amex,Pittsfield,VT,United States,2019-01-06 12:00:00,2019-01-09 10:05:00,41,3,Motorola,Motorola One Macro,6,MediaTek Helio P70,12,13,4,64,4000,185.0,ryan george
+2019-01-03 09:54:00,Visa,Zekeriyakoy,Istanbul,Turkey,2018-12-29 10:38:00,2019-01-19 07:37:00,41,3,HTC,HTC Desire 19s,1,Mediatek MT6762 Helio P22,16,13,3,32,3850,86.3,ryan george
+2019-01-10 14:43:00,Diners,Kinsaley,Dublin,Ireland,2019-01-09 11:38:00,2019-01-10 14:37:00,50,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,jennifer davis
+2019-01-14 04:54:00,Mastercard,Honolulu,HI,United States,2019-01-14 04:34:00,2019-01-14 04:43:00,88,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,paula brown
+2019-01-26 15:16:00,Visa,Huntersville,NC,United States,2018-12-22 20:09:00,2019-02-23 05:14:00,92,2,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,danielle smith
+2019-01-12 07:28:00,Amex,La Alberca,Murcia,Spain,2018-12-10 16:41:00,2019-01-14 13:44:00,92,2,LG,LG X4,6,Qualcomm Snapdragon 855        ,8,13,2,32,3000,200.0,danielle smith
+2019-01-07 08:21:00,Visa,Holmenkollen,Oslo,Norway,2019-01-03 11:06:00,2019-01-19 06:54:00,158,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,samantha wolf
+2019-01-23 08:00:00,Diners,Chepel,Budapest,Hungary,2019-01-22 09:55:00,2019-01-23 12:59:00,225,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,christopher norton
+2019-01-20 07:08:00,Visa,Downingtown,PA,United States,2019-01-19 08:06:00,2019-01-27 06:38:00,273,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,rachel patterson
+2019-01-13 15:19:00,Visa,Paris,Ile-de-France,France,2017-06-27 04:41:00,2019-01-28 14:11:00,306,2,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,benjamin alexander
+2019-01-15 11:43:00,Visa,Libertyville,IL,United States,2018-10-24 19:02:00,2019-02-14 17:43:00,306,2,ZTE,ZTE Blade A7 Prime,2,MediaTek Helio A22,5,16,3,32,3200,136.5,benjamin alexander
+2019-01-31 11:14:00,Mastercard,Scottsdale,AZ,United States,2019-01-31 11:10:00,2019-01-31 11:10:00,340,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,john clark
+2019-01-02 22:44:00,Visa,Gisborne,Victoria,Australia,2016-12-03 15:36:00,2019-02-06 20:03:00,449,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,david rogers
+2019-01-25 16:17:00,Amex,Cumming,GA,United States,2019-01-24 18:06:00,2019-02-07 11:28:00,454,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,christopher christensen
+2019-01-14 12:55:00,Visa,Regensdorf,Zurich,Switzerland,2019-01-11 10:36:00,2019-02-11 01:58:00,506,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,michael brown
+2019-01-22 05:39:00,Visa,Penclawdd,Wales,United Kingdom,2019-01-14 13:33:00,2019-02-15 08:34:00,560,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,matthew young
+2019-01-20 14:55:00,Mastercard,Cypress,CA,United States,2018-09-27 07:22:00,2019-02-15 15:23:00,567,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,jeffrey johnson
+2019-01-13 01:55:00,Mastercard,Mettlach,Saarland,Germany,2016-04-01 22:29:00,2019-02-17 20:45:00,610,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,brett grant
+2019-01-23 09:09:00,Amex,Lidingo,Stockholm,Sweden,2016-01-18 11:49:00,2019-02-18 08:45:00,615,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,tammy hall
+2019-01-13 09:26:00,Visa,Anieres,Geneve,Switzerland,2016-01-24 13:15:00,2019-02-25 14:05:00,623,2,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,jennifer franklin
+2019-01-29 08:27:00,Visa,Prague,Central Bohemia,Czech Republic,2019-01-27 08:53:00,2019-02-19 08:41:00,623,2,BLU,BLU Vivo XR,2,MediaTek Helio 6753        ,20,13,3,32,4010,50.0,jennifer franklin
+2019-01-04 22:18:00,Mastercard,Powell River,British Columbia,Canada,2018-11-27 16:06:00,2019-02-20 21:45:00,642,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,lisa olson
+2019-01-27 15:09:00,Visa,Random Lake,WI,United States,2019-01-15 12:50:00,2019-02-21 07:37:00,645,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,ann smith
+2019-01-26 11:19:00,Mastercard,Lahti,Etela-Suomen Laani,Finland,2019-01-04 05:25:00,2019-03-01 00:39:00,737,1,Samsung,Samsung Galaxy Note 10,28,Samsung Exynos 9 Octa,12,12,8,256,3500,438.0,christopher walls
+2019-01-02 09:16:00,Mastercard,Shavano Park,TX,United States,2019-01-02 08:32:00,2019-01-05 09:05:00,13,3,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,tanner mejia
+2019-01-21 14:06:00,Visa,Wantagh,NY,United States,2019-01-21 12:00:00,2019-01-21 14:06:00,13,3,ZTE,ZTE Blade A7 Prime,2,MediaTek Helio A22,5,16,3,32,3200,136.5,tanner mejia
+2019-01-31 07:13:00,Amex,London,England,United Kingdom,2018-01-03 14:59:00,2019-02-22 07:12:00,13,3,Huawei,Huawei Nova 6 5G,4,HiSilicon Kirin 990,32,40,8,128,4200,450.0,tanner mejia
+2019-01-21 14:25:00,Visa,Castricum,Noord-Holland,Netherlands,2017-12-28 15:28:00,2019-01-22 00:38:00,205,1,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,john frank
+2019-01-26 03:49:00,Mastercard,Biot,Provence-Alpes-Cote d'Azur,France,2018-03-01 00:00:00,2019-01-26 03:18:00,258,1,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,margaret wilkerson
+2019-01-13 11:31:00,Visa,Gosport,England,United Kingdom,2019-01-09 11:30:00,2019-01-29 12:48:00,318,1,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,adam edwards
+2019-01-08 19:29:00,Mastercard,Ban Khlong Sip,Krung Thep,Thailand,2019-01-08 00:01:00,2019-02-05 21:22:00,436,1,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,diana johnson
+2019-01-05 10:02:00,Visa,Eagan,MN,United States,2019-01-05 09:03:00,2019-02-10 07:29:00,491,1,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,alisha hall
+2019-01-11 09:50:00,Visa,Munchengosserstadt,Thuringia,Germany,2019-01-07 11:45:00,2019-02-10 10:28:00,493,1,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,jesus riddle
+2019-01-05 12:41:00,Visa,Calgary,Alberta,Canada,2018-12-03 14:49:00,2019-02-10 11:45:00,495,2,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,ernest parks
+2019-01-21 11:56:00,Visa,Zumikon,Zurich,Switzerland,2016-03-21 13:30:00,2019-02-19 07:05:00,495,2,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,ernest parks
+2019-01-19 04:23:00,Mastercard,Cagliari,Sardinia,Italy,2018-01-13 11:41:00,2019-02-16 00:22:00,573,1,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,kyle hale
+2019-01-25 15:18:00,Visa,Sitka,AK,United States,2018-03-02 15:27:00,2019-02-26 12:58:00,708,1,Samsung,Samsung Galaxy S10 Plus 1TB,16,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,jennifer miranda
+2019-01-14 03:09:00,Mastercard,Newburgh,Scotland,United Kingdom,2017-04-25 05:08:00,2019-01-24 02:12:00,53,3,Huawei,Huawei Nova 6 5G,4,HiSilicon Kirin 990,32,40,8,128,4200,450.0,thomas young
+2019-01-10 14:56:00,Visa,Ankeny,IA,United States,2019-01-08 03:06:00,2019-01-10 19:41:00,53,3,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,thomas young
+2019-01-16 01:51:00,Visa,Vienna,Vienna,Austria,2019-01-16 01:38:00,2019-01-24 05:39:00,53,3,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,thomas young
+2019-01-12 14:37:00,Mastercard,Evires,Rhone-Alpes,France,2019-01-12 07:47:00,2019-02-12 23:49:00,526,1,Huawei,Huawei Nova 6 5G,4,HiSilicon Kirin 990,32,40,8,128,4200,450.0,krystal palmer
+2019-01-05 10:08:00,Visa,Eagle,ID,United States,2018-11-11 15:53:00,2019-01-05 10:05:00,14,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,jessica king
+2019-01-02 02:57:00,Visa,London,England,United Kingdom,2018-01-03 07:23:00,2019-01-07 13:14:00,28,3,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,andrew lawson
+2019-01-24 03:36:00,Visa,Kjobenhavn,Staden Kobenhavn,Denmark,2019-01-20 13:11:00,2019-02-07 06:52:00,28,3,Motorola,Motorola Moto G8 Plus,5,Qualcomm Snapdragon 665  ,25,48,4,64,4000,145.0,andrew lawson
+2019-01-11 02:04:00,Visa,Gold Coast,Queensland,Australia,2019-01-11 00:33:00,2019-01-11 02:11:00,28,3,Huawei,Huawei Nova 6 SE,8,HiSilicon Kirin810,16,48,8,128,4200,290.0,andrew lawson
+2019-01-30 23:49:00,Visa,Hilversum,Noord-Holland,Netherlands,2018-11-30 11:54:00,2019-02-21 14:05:00,35,6,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,molly mullins
+2019-01-23 10:45:00,Visa,Saint Charles,IL,United States,2019-01-23 08:46:00,2019-02-11 17:57:00,35,6,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,molly mullins
+2019-01-15 03:43:00,Visa,Rouen,Upper Normandy,France,2018-12-26 09:01:00,2019-01-15 05:39:00,35,6,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,molly mullins
+2019-01-05 13:17:00,Mastercard,Badhoevedorp,Noord-Holland,Netherlands,2019-01-05 12:45:00,2019-01-08 11:45:00,35,6,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,molly mullins
+2019-01-12 07:23:00,Visa,Fairfax,CA,United States,2019-01-11 14:42:00,2019-02-06 16:13:00,35,6,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,molly mullins
+2019-01-11 14:17:00,Visa,Brussels,Brussels (Bruxelles),Belgium,2019-01-11 13:39:00,2019-01-11 13:39:00,35,6,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,molly mullins
+2019-01-20 08:51:00,Visa,Winchester,MA,United States,2018-07-23 14:59:00,2019-01-22 18:08:00,42,3,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,ruth lee
+2019-01-07 07:44:00,Mastercard,Ball Ground,GA,United States,2019-01-07 05:35:00,2019-01-09 10:52:00,42,3,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,ruth lee
+2019-01-07 17:51:00,Visa,Dickerson,MD,United States,2016-01-13 09:38:00,2019-01-26 11:35:00,42,3,ZTE,ZTE Axon 9 Pro,2,Qualcomm Snapdragon 845,20,12,6,128,4000,260.0,ruth lee
+2019-01-07 00:12:00,Mastercard,Lausanne,Vaud,Switzerland,2018-12-01 06:25:00,2019-01-12 06:55:00,63,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,mathew black
+2019-01-22 18:44:00,Visa,Southlake,TX,United States,2019-01-22 17:24:00,2019-01-25 15:02:00,68,2,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,donna chang
+2019-01-02 22:00:00,Diners,Memphis,TN,United States,2019-01-02 21:04:00,2019-01-12 13:18:00,68,2,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,donna chang
+2019-01-08 13:14:00,Visa,Oslo,Oslo,Norway,2019-01-08 12:47:00,2019-01-13 10:49:00,78,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,tracy watts
+2019-01-15 12:54:00,Mastercard,Ile-Perrot,Quebec,Canada,2019-01-15 12:22:00,2019-01-16 07:53:00,119,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,alicia flynn
+2019-01-18 12:04:00,Visa,Joppa,MD,United States,2019-01-18 00:00:00,2019-01-18 12:23:00,143,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,caitlyn garcia
+2019-01-14 18:21:00,Visa,Athens,GA,United States,2015-09-25 06:25:00,2019-01-19 11:21:00,162,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,dorothy holder
+2019-01-20 05:24:00,Mastercard,Shreveport,LA,United States,2019-01-20 05:13:00,2019-01-20 07:15:00,176,3,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,charles luna
+2019-01-13 18:08:00,Amex,Houston,TX,United States,2019-01-13 17:02:00,2019-01-29 07:34:00,176,3,Samsung,Samsung Galaxy Note 9,9,Samsung Exynos 9 Octa,8,12,6,128,4000,320.0,charles luna
+2019-01-05 13:07:00,Visa,Shenfield,England,United Kingdom,2019-01-02 14:27:00,2019-02-01 22:27:00,176,3,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,charles luna
+2019-01-23 03:33:00,Mastercard,Saint Paul,MN,United States,2019-01-23 03:00:00,2019-01-23 03:00:00,219,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,kayla solomon
+2019-01-09 14:32:00,Visa,Castleknock,Dublin,Ireland,2017-06-14 13:14:00,2019-01-25 00:57:00,241,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,linda hart
+2019-01-05 12:28:00,Visa,Rungsted,Frederiksborg,Denmark,2019-01-05 12:02:00,2019-01-25 23:22:00,256,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,keith rodriguez
+2019-01-10 09:18:00,Diners,Gorey,Jersey,Jersey,2016-05-09 10:43:00,2019-01-27 07:51:00,276,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,cory lewis
+2019-01-28 12:31:00,Diners,Brooklyn,NY,United States,2019-01-28 12:21:00,2019-01-28 12:30:00,301,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,bethany schneider
+2019-01-26 12:05:00,Mastercard,Queen Creek,AZ,United States,2019-01-06 17:57:00,2019-01-30 10:41:00,328,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,scott morris
+2019-01-07 18:53:00,Visa,Durham,NC,United States,2018-12-29 09:59:00,2019-01-30 10:46:00,329,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,mary spence
+2019-01-01 04:24:00,Amex,Skaneateles,NY,United States,2018-12-28 17:28:00,2019-03-01 07:21:00,366,2,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,sara anderson
+2019-01-12 10:05:00,Amex,Bellinzona,Ticino,Switzerland,2017-09-03 13:23:00,2019-02-02 05:16:00,366,2,ZTE,ZTE Axon 10 Pro 5G,4,Qualcomm Snapdragon 855,20,48,6,128,4000,440.0,sara anderson
+2019-01-05 10:08:00,Visa,Clonmel,Tipperary,Ireland,2019-01-05 07:47:00,2019-02-03 10:21:00,388,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,laura reeves
+2019-01-21 20:18:00,Amex,Vancouver,British Columbia,Canada,2017-07-06 23:53:00,2019-02-03 12:22:00,394,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,april gutierrez
+2019-01-26 12:26:00,Mastercard,Killeen,TX,United States,2019-01-26 05:23:00,2019-02-08 17:33:00,420,2,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,brittany kelley
+2019-01-29 13:27:00,Visa,Salt Lake City,UT,United States,2019-01-28 14:47:00,2019-02-04 20:07:00,420,2,Huawei,Huawei P Smart Pro,5,HiSilicon Kirin 710F,16,48,6,128,4000,280.0,brittany kelley
+2019-01-22 09:00:00,Visa,Trumansburg,NY,United States,2018-07-06 14:33:00,2019-02-05 16:33:00,434,2,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,john french
+2019-01-05 07:47:00,Amex,Versoix,Geneve,Switzerland,2017-04-18 12:55:00,2019-02-05 15:15:00,434,2,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,john french
+2019-01-17 20:46:00,Visa,Dubai,Dubayy,United Arab Emirates,2018-04-13 02:36:00,2019-02-08 02:12:00,439,3,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,tony hoover
+2019-01-14 03:47:00,Visa,Ballincollig,Cork,Ireland,2018-12-10 07:41:00,2019-02-06 02:36:00,439,3,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,tony hoover
+2019-01-24 03:25:00,Visa,Lyndoch,South Australia,Australia,2018-09-26 19:23:00,2019-02-11 15:05:00,439,3,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,tony hoover
+2019-01-21 06:55:00,Visa,Oostburg,WI,United States,2019-01-20 13:33:00,2019-02-07 16:48:00,460,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,caroline johnson
+2019-01-08 04:15:00,Visa,Gdansk,Pomorskie,Poland,2019-01-07 15:00:00,2019-02-08 03:50:00,465,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,joshua hess
+2019-01-05 07:37:00,Visa,Manhattan,NY,United States,2018-09-26 04:29:00,2019-02-08 18:42:00,472,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,robert manning
+2019-01-12 12:04:00,Visa,Nacka,Stockholm,Sweden,2017-12-05 12:48:00,2019-02-14 12:32:00,547,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,amanda williams
+2019-01-04 10:44:00,Diners,Burnaby,British Columbia,Canada,2018-11-26 20:16:00,2019-02-15 13:46:00,566,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,sophia morgan
+2019-01-09 20:00:00,Visa,Ladera Ranch,CA,United States,2019-01-06 13:50:00,2019-02-15 23:10:00,571,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,mark douglas
+2019-01-24 17:18:00,Visa,Sterling,VA,United States,2018-02-15 15:34:00,2019-02-17 06:26:00,596,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,william diaz
+2019-01-30 09:00:00,Mastercard,Nashville,TN,United States,2017-07-04 21:35:00,2019-02-22 15:58:00,652,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,steven scott
+2019-01-21 07:31:00,Mastercard,Wilmington,DE,United States,2018-03-25 13:23:00,2019-02-23 16:29:00,666,1,Apple,Apple iPhone 11,39,Apple A13 Bionic,12,16,4,64,3110,521.0,charlotte gonzales
+2019-01-08 12:04:00,Visa,Morro Bay,CA,United States,2013-12-01 19:13:00,2019-02-05 22:11:00,38,2,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,benjamin hamilton
+2019-01-08 16:24:00,Visa,Phoenix,AZ,United States,2019-01-08 15:57:00,2019-01-08 18:30:00,38,2,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,benjamin hamilton
+2019-01-11 13:08:00,Visa,Cincinnati,OH,United States,2019-01-11 12:38:00,2019-01-12 18:44:00,72,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,james rodriguez
+2019-01-03 13:56:00,Visa,Amelia Island,FL,United States,2019-01-03 12:30:00,2019-01-14 13:03:00,90,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,carmen case
+2019-01-13 19:54:00,Diners,Hampton,NJ,United States,2016-01-03 06:09:00,2019-01-18 12:51:00,144,2,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,russell miller
+2019-01-29 12:10:00,Amex,Issaquah,WA,United States,2017-11-01 21:25:00,2019-02-23 21:58:00,144,2,Windows,Microsoft Lumia 950,6,Qualcomm MSM8992 Snapdragon 808 ,5,20,3,32,3000,60.0,russell miller
+2019-01-25 18:21:00,Visa,Umea,Vasterbotten,Sweden,2019-01-25 16:35:00,2019-01-28 10:19:00,222,2,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,elizabeth james
+2019-01-05 02:57:00,Visa,Rennes,Brittany,France,2018-12-29 03:16:00,2019-01-23 07:29:00,222,2,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,elizabeth james
+2019-01-19 12:14:00,Mastercard,Rathfarnham,Dublin,Ireland,2018-05-10 07:07:00,2019-01-28 13:28:00,305,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,tara webb
+2019-01-01 12:25:00,Mastercard,Zug,Zug,Switzerland,2015-03-29 23:14:00,2019-01-31 10:58:00,339,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,gabrielle johnson
+2019-01-26 04:53:00,Visa,London,England,United Kingdom,2019-01-26 04:12:00,2019-02-01 09:48:00,354,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,kyle mason
+2019-01-21 07:19:00,Visa,Chadds Ford,PA,United States,2018-03-05 11:25:00,2019-02-15 16:06:00,442,2,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,stacie foley
+2019-01-07 13:01:00,Visa,Trelex,Vaud,Switzerland,2017-08-05 00:43:00,2019-02-06 05:02:00,442,2,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,stacie foley
+2019-01-06 05:42:00,Amex,Atlanta,GA,United States,2018-10-27 14:16:00,2019-02-09 13:50:00,479,2,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,lance chung
+2019-01-30 12:18:00,Mastercard,Fullerton,CA,United States,2019-01-26 13:34:00,2019-02-09 12:53:00,479,2,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,lance chung
+2019-01-14 13:23:00,Diners,Wisconsin Rapids,WI,United States,2018-11-15 13:57:00,2019-02-09 18:44:00,485,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,steven chan
+2019-01-04 04:05:00,Mastercard,Watford,England,United Kingdom,2018-12-31 08:33:00,2019-02-12 12:29:00,523,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,paul joseph
+2019-01-28 00:22:00,Visa,Basel,Basel-Town,Switzerland,2018-09-27 00:24:00,2019-02-15 03:20:00,557,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,james garcia
+2019-01-13 12:51:00,Visa,Charlottenlund,Kobenhavn,Denmark,2018-05-27 18:51:00,2019-02-16 01:05:00,574,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,chad stone
+2019-01-23 12:23:00,Mastercard,Den Haag,Zuid-Holland,Netherlands,2019-01-23 11:11:00,2019-02-17 03:35:00,594,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,amber harris
+2019-01-27 06:20:00,Mastercard,Haymarket,VA,United States,2016-06-01 12:04:00,2019-02-19 16:52:00,628,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,makayla wilkerson
+2019-01-09 03:03:00,Amex,Ferney-Voltaire,Rhone-Alpes,France,2018-03-28 05:53:00,2019-02-24 08:10:00,673,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,jeffrey mason
+2019-01-30 10:31:00,Mastercard,Castle Rock,CO,United States,2018-10-06 16:31:00,2019-02-25 07:42:00,687,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,randy patel
+2019-01-25 11:35:00,Mastercard,Fresno,TX,United States,2019-01-24 09:24:00,2019-02-25 14:22:00,692,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,robert graham
+2019-01-05 11:24:00,Amex,Rodeo,CA,United States,2018-01-25 16:50:00,2019-02-26 12:15:00,707,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,paul higgins
+2019-01-30 20:58:00,Mastercard,Carcross,Yukon Territory,Canada,2019-01-30 14:05:00,2019-02-26 13:06:00,709,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,christine matthews
+2019-01-23 05:11:00,Visa,Blackrock,Dublin,Ireland,2018-07-15 07:20:00,2019-02-27 04:00:00,717,1,Samsung,Samsung Galaxy S9 Plus,29,Samsung Exynos 9 Octa,8,12,6,64,3500,320.0,tiffany estrada
+2019-01-04 01:05:00,Diners,Julianstown,Meath,Ireland,2019-01-04 00:00:00,2019-01-05 13:36:00,16,1,HTC,HTC U 19e,2,Qualcomm SDM845 Snapdragon 710,24,12,6,128,3930,160.0,amy orr
+2019-01-20 03:11:00,Visa,Wigan,England,United Kingdom,2019-01-20 03:02:00,2019-01-20 03:06:00,174,1,HTC,HTC U 19e,2,Qualcomm SDM845 Snapdragon 710,24,12,6,128,3930,160.0,lori page
+2019-01-05 11:37:00,Visa,Ottawa,Ontario,Canada,2019-01-05 09:35:00,2019-01-05 19:24:00,17,2,LG,LG G8s ThinQ,10,Qualcomm Snapdragon 855        ,8,12,6,128,3550,421.0,matthew vincent
+2019-01-12 12:37:00,Visa,Marietta,GA,United States,2017-09-13 14:20:00,2019-01-17 16:17:00,17,2,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,matthew vincent
+2019-01-08 18:41:00,Diners,Tenafly,NJ,United States,2017-12-09 17:59:00,2019-01-27 18:12:00,105,3,LG,LG G8s ThinQ,10,Qualcomm Snapdragon 855        ,8,12,6,128,3550,421.0,bill day
+2019-01-12 11:48:00,Visa,Tsawwassen,British Columbia,Canada,2018-07-24 15:48:00,2019-01-15 08:56:00,105,3,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,bill day
+2019-01-26 14:02:00,Mastercard,Fresno,TX,United States,2019-01-24 09:24:00,2019-02-25 14:22:00,105,3,HTC,Microsoft Lumia 950,5,Qualcomm MSM8992 Snapdragon 808 ,5,20,3,32,3000,60.0,bill day
+2019-01-25 08:32:00,Visa,Alcona,Ontario,Canada,2017-09-17 17:41:00,2019-01-27 19:53:00,282,1,LG,LG G8s ThinQ,10,Qualcomm Snapdragon 855        ,8,12,6,128,3550,421.0,mary petersen
+2019-01-28 01:28:00,Diners,Besancon,Franche-Comte,France,2019-01-26 02:28:00,2019-02-04 05:39:00,408,1,LG,LG G8s ThinQ,10,Qualcomm Snapdragon 855        ,8,12,6,128,3550,421.0,kathy frazier
+2019-01-14 03:39:00,Visa,Ballincollig,Cork,Ireland,2018-12-10 07:41:00,2019-02-06 02:36:00,438,1,LG,LG G8s ThinQ,10,Qualcomm Snapdragon 855        ,8,12,6,128,3550,421.0,brian chen
+2019-01-22 10:47:00,Visa,Arklow,Wicklow,Ireland,2018-11-18 01:32:00,2019-02-08 05:07:00,466,1,LG,LG G8s ThinQ,10,Qualcomm Snapdragon 855        ,8,12,6,128,3550,421.0,david hernandez
+2019-01-14 07:30:00,Visa,Basauri,Pais Vasco,Spain,2018-02-03 02:56:00,2019-02-16 15:04:00,589,1,LG,LG G8s ThinQ,10,Qualcomm Snapdragon 855        ,8,12,6,128,3550,421.0,gregg stein
+2019-01-23 09:27:00,Mastercard,Madrid,Madrid,Spain,2018-02-19 02:01:00,2019-02-25 11:38:00,690,1,LG,LG G8s ThinQ,10,Qualcomm Snapdragon 855        ,8,12,6,128,3550,421.0,scott beard
+2019-01-07 08:08:00,Diners,New York,NY,United States,2019-01-07 07:39:00,2019-01-07 12:38:00,27,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,trevor gaines
+2019-01-09 15:58:00,Mastercard,Newbury,England,United Kingdom,2019-01-09 14:53:00,2019-01-10 13:16:00,47,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,danielle williams md
+2019-01-13 01:46:00,Mastercard,Lyngby,Kobenhavn,Denmark,2017-10-30 12:03:00,2019-02-05 08:52:00,48,2,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,christopher chen
+2019-01-03 13:11:00,Mastercard,Kobenhavn,Kobenhavn,Denmark,2018-10-31 00:31:00,2019-01-10 13:24:00,48,2,LG,LG V50S ThinQ 5G,10,Qualcomm Snapdragon 855        ,8,16,6,128,4000,370.0,christopher chen
+2019-01-07 07:19:00,Amex,Bruxelles,Brussels (Bruxelles),Belgium,2018-06-30 09:33:00,2019-01-16 08:54:00,120,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,victoria odom
+2019-01-05 05:33:00,Visa,Escondido,CA,United States,2019-01-05 03:19:00,2019-01-17 00:35:00,123,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,timothy jackson
+2019-01-21 11:28:00,Amex,Arlington,VA,United States,2015-09-25 20:26:00,2019-01-26 06:23:00,261,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,lisa lewis
+2019-01-07 13:49:00,Diners,West Hills,CA,United States,2019-01-07 12:36:00,2019-02-01 08:20:00,352,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,lisa duncan
+2019-01-12 20:43:00,Visa,Kenmore,WA,United States,2019-01-12 20:31:00,2019-02-02 20:26:00,379,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,joshua vaughn
+2019-01-29 02:48:00,Visa,Nakskov,Storstrom,Denmark,2019-01-29 02:19:00,2019-02-07 02:09:00,451,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,rebecca gonzalez
+2019-01-13 07:09:00,Amex,Chicago,IL,United States,2019-01-08 13:49:00,2019-02-26 15:14:00,461,4,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,brian farley
+2019-01-29 13:41:00,Visa,San Jose,CA,United States,2014-01-14 21:59:00,2019-02-10 23:58:00,461,4,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,brian farley
+2019-01-26 20:18:00,Mastercard,Griffith,New South Wales,Australia,2017-01-15 20:37:00,2019-02-07 18:04:00,461,4,Motorola,Motorola Moto E6 Plus,8,MediaTek Helio P22,13,13,4,64,3000,70.0,brian farley
+2019-01-09 14:55:00,Visa,Banbury,England,United Kingdom,2019-01-08 16:23:00,2019-02-14 07:27:00,461,4,Huawei,Huawei P Smart Pro,5,HiSilicon Kirin 710F,16,48,6,128,4000,280.0,brian farley
+2019-01-15 05:27:00,Visa,North Bay,Ontario,Canada,2019-01-06 17:42:00,2019-02-09 18:22:00,483,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,eugene grant
+2019-01-31 23:09:00,Diners,Vaucluse,New South Wales,Australia,2014-09-13 22:55:00,2019-02-11 03:09:00,507,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,kristine callahan
+2019-01-16 07:58:00,Amex,Den Haag,Zuid-Holland,Netherlands,2017-09-30 04:03:00,2019-02-13 03:05:00,527,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,tammy rice
+2019-01-14 18:05:00,Visa,Anchorage,AK,United States,2019-01-10 03:19:00,2019-02-13 17:22:00,536,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,trevor sheppard iv
+2019-01-19 03:25:00,Visa,Setagaya,Tokyo,Japan,2016-01-10 04:49:00,2019-02-14 01:03:00,541,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,alison brown
+2019-01-13 02:47:00,Visa,Rathfarnham,Dublin,Ireland,2019-01-13 02:35:00,2019-02-16 00:09:00,572,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,jose andrews
+2019-01-31 13:26:00,Visa,Waterford,Ontario,Canada,2018-12-13 18:12:00,2019-02-20 08:27:00,639,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,andrew peterson
+2019-01-07 18:15:00,Mastercard,Greenville,TX,United States,2019-01-05 18:16:00,2019-02-27 19:07:00,724,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,jennifer abbott
+2019-01-22 14:25:00,Visa,Belfast,Northern Ireland,United Kingdom,2018-11-10 12:15:00,2019-03-01 03:37:00,741,1,Samsung,Samsung Galaxy S10,30,Samsung Exynos 9 Octa,10,12,8,128,3400,390.0,erica yates
+2019-01-06 05:02:00,Diners,Hyderabad,Andhra Pradesh,India,2019-01-06 02:41:00,2019-01-06 07:52:00,18,1,HTC,HTC U 12,2,Qualcomm SDM845 Snapdragon 845 ,8,12,6,64,3500,210.0,michelle mathews
+2019-01-28 10:37:00,Visa,Athina,Attiki,Greece,2018-05-08 04:26:00,2019-02-24 02:58:00,668,1,HTC,HTC U 12,2,Qualcomm SDM845 Snapdragon 845 ,8,12,6,64,3500,210.0,carol garza
+2019-01-06 22:19:00,Amex,Pittsfield,VT,United States,2019-01-06 12:00:00,2019-01-09 10:05:00,40,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,valerie brown
+2019-01-06 15:15:00,Mastercard,Rathgar,Dublin,Ireland,2019-01-06 14:59:00,2019-01-14 14:33:00,93,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,keith garrison
+2019-01-05 06:12:00,Diners,Lucca,Tuscany,Italy,2019-01-04 06:19:00,2019-02-24 13:56:00,145,2,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,abigail wilson
+2019-01-05 21:06:00,Mastercard,Louisville,KY,United States,2019-01-05 16:27:00,2019-01-18 13:58:00,145,2,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,abigail wilson
+2019-01-18 23:17:00,Visa,Washington,DC,United States,2019-01-18 15:18:00,2019-01-19 06:13:00,157,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,ann wolf
+2019-01-04 12:49:00,Diners,Montreal,Quebec,Canada,2017-05-25 10:58:00,2019-01-19 07:58:00,160,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,melissa jones
+2019-01-06 12:45:00,Amex,Penngrove,CA,United States,2019-01-05 14:06:00,2019-01-21 11:18:00,192,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,ashley burns
+2019-01-19 19:07:00,Diners,Fort Oglethorpe,GA,United States,2019-01-19 16:52:00,2019-01-21 17:02:00,197,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,wayne taylor
+2019-01-09 01:12:00,Visa,Rambouillet,Ile-de-France,France,2018-06-18 06:35:00,2019-01-27 02:56:00,269,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,james morris
+2019-01-04 17:54:00,Amex,Encinitas,CA,United States,2019-01-01 10:12:00,2019-01-28 15:13:00,308,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,diana rodriguez
+2019-01-17 11:09:00,Mastercard,Fortaleza,Ceara,Brazil,2019-01-17 10:46:00,2019-01-31 06:42:00,333,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,robert martin
+2019-01-09 03:38:00,Visa,Lurgan,Northern Ireland,United Kingdom,2018-06-03 04:22:00,2019-02-01 11:53:00,358,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,mark hunt
+2019-01-12 08:13:00,Amex,Nacka,Stockholm,Sweden,2016-03-08 04:32:00,2019-02-02 06:01:00,368,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,mackenzie bullock
+2019-01-26 23:28:00,Amex,Tsaritsyno,Moscow City,Russia,2016-12-07 08:26:00,2019-02-03 02:10:00,383,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,kyle cruz
+2019-01-11 04:55:00,Amex,Marietta,GA,United States,2016-04-12 18:20:00,2019-02-04 09:22:00,412,3,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,jeffrey snyder
+2019-01-08 02:49:00,Mastercard,Begnins,Vaud,Switzerland,2019-01-07 04:14:00,2019-02-25 01:37:00,412,3,LG,LG X6,9,MediaTek MT6750        ,8,13,2,32,4500,100.0,jeffrey snyder
+2019-01-15 21:53:00,Visa,Toronto,Ontario,Canada,2019-01-01 18:01:00,2019-02-11 21:01:00,412,3,LG,LG W30 Pro,11,Qualcomm Snapdragon 632,16,13,4,64,4050,110.0,jeffrey snyder
+2019-01-27 02:32:00,Visa,Perth,Scotland,United Kingdom,2016-06-27 09:12:00,2019-02-05 03:15:00,425,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,kirsten smith
+2019-01-13 09:14:00,Visa,Vossevangen,Hordaland,Norway,2019-01-09 09:31:00,2019-02-10 09:04:00,492,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,christopher flores
+2019-01-21 20:44:00,Mastercard,Lindenhurst,NY,United States,2019-01-21 07:47:00,2019-02-10 10:51:00,494,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,brandon lewis
+2019-01-08 02:46:00,Mastercard,Sidcup,England,United Kingdom,2017-11-26 16:44:00,2019-02-11 11:00:00,511,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,jessica vargas
+2019-01-19 07:49:00,Amex,Miami Beach,FL,United States,2019-01-18 15:26:00,2019-02-13 12:26:00,532,2,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,john rivera
+2019-01-16 10:27:00,Mastercard,Montgomery,TX,United States,2019-01-15 08:52:00,2019-02-25 17:24:00,532,2,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,john rivera
+2019-01-26 10:26:00,Visa,Calgary,Alberta,Canada,2019-01-26 10:16:00,2019-02-17 15:17:00,606,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,kirk davis
+2019-01-28 11:36:00,Diners,Grossbodungen,Thuringia,Germany,2019-01-28 11:08:00,2019-02-18 02:04:00,612,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,michael vang
+2019-01-11 06:51:00,Visa,Irpin',Kiev,Ukraine,2019-01-11 00:00:00,2019-02-20 03:46:00,636,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,michael solis
+2019-01-06 18:10:00,Visa,Columbus,OH,United States,2018-12-22 14:12:00,2019-02-23 11:35:00,663,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,yvette weiss
+2019-01-27 14:42:00,Mastercard,Arlington,VA,United States,2019-01-08 11:01:00,2019-02-24 16:38:00,682,1,Apple,Apple iPhone XR,38,Apple A12 Bionic,7,12,3,64,2942,346.0,james jones
+2019-01-02 07:35:00,Diners,Salt Lake City,UT,United States,2018-12-30 05:44:00,2019-01-06 10:52:00,20,1,Motorola,Motorola Moto E6 Plus,8,MediaTek Helio P22,13,13,4,64,3000,70.0,steven white
+2019-01-09 14:27:00,Visa,Castleknock,Dublin,Ireland,2017-06-14 13:14:00,2019-01-25 00:57:00,240,1,Motorola,Motorola Moto E6 Plus,8,MediaTek Helio P22,13,13,4,64,3000,70.0,kenneth phillips
+2019-01-21 11:00:00,Visa,Saggart,Dublin,Ireland,2019-01-19 10:11:00,2019-02-02 08:29:00,373,2,Motorola,Motorola Moto E6 Plus,8,MediaTek Helio P22,13,13,4,64,3000,70.0,sarah carter
+2019-01-22 02:16:00,Visa,Beykoz,Istanbul,Turkey,2018-09-07 11:43:00,2019-02-18 00:27:00,373,2,Sony,Sony Xperia 10 Plus,6,Qualcomm Snapdragon 636,8,12,4,64,3000,140.0,sarah carter
+2019-01-29 15:20:00,Mastercard,Washington Township,OH,United States,2019-01-18 20:47:00,2019-02-17 16:29:00,607,1,Motorola,Motorola Moto E6 Plus,8,MediaTek Helio P22,13,13,4,64,3000,70.0,james smith
+2019-01-23 12:42:00,Mastercard,Avalon,New South Wales,Australia,2018-03-03 17:38:00,2019-02-28 22:26:00,735,1,Motorola,Motorola Moto E6 Plus,8,MediaTek Helio P22,13,13,4,64,3000,70.0,jack davidson
+2019-01-01 11:05:00,Diners,Ballynora,Cork,Ireland,2017-12-10 12:37:00,2019-01-07 01:52:00,22,1,LG,LG G8X ThinQ,5,Qualcomm Snapdragon 855        ,32,12,6,128,4000,370.0,cody torres
+2019-01-06 10:48:00,Mastercard,Clinton,NJ,United States,2017-08-21 21:19:00,2019-01-15 09:32:00,106,1,LG,LG G8X ThinQ,5,Qualcomm Snapdragon 855        ,32,12,6,128,4000,370.0,kyle scott
+2019-01-01 06:29:00,Mastercard,Vicenza,Veneto,Italy,2017-08-03 02:48:00,2019-01-24 05:51:00,227,3,LG,LG G8X ThinQ,5,Qualcomm Snapdragon 855        ,32,12,6,128,4000,370.0,brenda wagner
+2019-01-02 04:21:00,Visa,Tranby,Buskerud,Norway,2017-07-30 11:42:00,2019-02-26 03:18:00,227,3,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,brenda wagner
+2019-01-21 09:07:00,Visa,Vienna,VA,United States,2018-04-02 09:59:00,2019-02-01 21:07:00,227,3,Alcatel,Alcatel 1X,7,MediaTek MT6580,5,8,1,16,2460,35.0,brenda wagner
+2019-01-08 11:55:00,Diners,Haverhill,England,United Kingdom,2016-11-29 13:31:00,2019-03-01 07:28:00,742,1,LG,LG G8X ThinQ,5,Qualcomm Snapdragon 855        ,32,12,6,128,4000,370.0,andrew martinez
+2019-01-10 12:05:00,Visa,Fort Lauderdale,FL,United States,2018-07-01 12:53:00,2019-01-10 16:33:00,51,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,elizabeth salazar
+2019-01-07 20:22:00,Visa,Red Deer,Alberta,Canada,2018-11-23 19:30:00,2019-01-12 12:24:00,67,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,nicole baker
+2019-01-03 11:08:00,Amex,Fountain Hls,AZ,United States,2016-06-05 22:42:00,2019-01-15 16:37:00,116,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,alexander smith
+2019-01-17 16:22:00,Visa,West Orange,NJ,United States,2019-01-17 15:22:00,2019-01-17 18:42:00,132,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,david huang
+2019-01-06 12:27:00,Mastercard,Amsterdam,Noord-Holland,Netherlands,2019-01-06 12:04:00,2019-01-19 04:59:00,156,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,matthew miller
+2019-01-15 11:45:00,Diners,Watford,England,United Kingdom,2018-09-04 03:01:00,2019-02-25 15:21:00,238,3,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,shawn walters
+2019-01-17 14:02:00,Visa,San Antonio,TX,United States,2015-12-07 19:48:00,2019-01-24 21:29:00,238,3,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,shawn walters
+2019-01-30 05:20:00,Visa,Kilcornan,Limerick,Ireland,2019-01-30 04:06:00,2019-02-18 07:23:00,238,3,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,shawn walters
+2019-01-21 16:57:00,Mastercard,Houston,TX,United States,2019-01-21 16:37:00,2019-01-27 04:43:00,271,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,tara hansen
+2019-01-07 08:03:00,Amex,Ottawa,Ontario,Canada,2015-04-17 22:28:00,2019-02-01 18:52:00,363,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,melanie york
+2019-01-27 08:11:00,Visa,Fremont,CA,United States,2019-01-27 08:05:00,2019-02-02 06:08:00,369,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,james jones
+2019-01-27 09:01:00,Visa,Barcelona,Catalonia,Spain,2018-05-29 12:23:00,2019-02-03 00:59:00,381,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,kristi ward
+2019-01-21 05:39:00,Amex,Norwalk,CT,United States,2018-11-04 09:51:00,2019-02-04 04:31:00,407,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,brandon jackson
+2019-01-02 15:57:00,Diners,Alpine,NJ,United States,2019-01-02 15:25:00,2019-02-05 10:18:00,430,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,lauren bishop
+2019-01-08 10:13:00,Diners,Fort Saint James,British Columbia,Canada,2019-01-07 16:01:00,2019-02-05 14:03:00,433,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,wendy king
+2019-01-22 14:32:00,Visa,Perth City,Western Australia,Australia,2018-09-05 07:18:00,2019-02-13 03:50:00,528,2,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,erica howell
+2019-01-15 15:22:00,Visa,Fort Lauderdale,FL,United States,2019-01-06 18:19:00,2019-02-26 05:52:00,528,2,LG,LG W10,4,MediaTek Helio P22	,8,13,3,32,4000,78.0,erica howell
+2019-01-11 04:34:00,Visa,Chalfont Saint Peter,England,United Kingdom,2016-04-26 10:12:00,2019-02-19 21:38:00,632,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,elizabeth bond
+2019-01-19 04:22:00,Diners,Hagen,Lorraine,France,2017-05-21 07:22:00,2019-02-22 22:33:00,656,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,heather lawrence
+2019-01-02 20:47:00,Visa,Flower Mound,TX,United States,2018-09-23 20:57:00,2019-02-23 06:56:00,659,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,jessica brown
+2019-01-24 23:21:00,Visa,Phuket,Phuket,Thailand,2019-01-24 22:47:00,2019-02-24 01:12:00,667,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,william fernandez
+2019-01-06 06:31:00,Visa,La Louviere,Hainaut,Belgium,2019-01-03 05:24:00,2019-02-24 08:32:00,676,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,tristan ruiz
+2019-01-29 12:27:00,Mastercard,Cabinteely,Dublin,Ireland,2016-11-08 04:50:00,2019-02-26 10:09:00,704,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,katie hansen
+2019-01-22 15:35:00,Visa,Houston,TX,United States,2018-02-24 16:57:00,2019-02-26 12:06:00,706,1,Apple,Apple iPhone 11 Pro Max,26,Apple A13 Bionic,12,12,4,64,3969,535.0,kenneth griffin
+2019-01-06 07:18:00,Visa,Chula Vista,CA,United States,2019-01-06 07:07:00,2019-01-07 07:08:00,24,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,eric armstrong
+2019-01-08 15:16:00,Visa,Woodsboro,MD,United States,2019-01-08 14:56:00,2019-01-12 09:29:00,65,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,kyle garza
+2019-01-14 19:32:00,Visa,Miami,FL,United States,2018-12-16 22:19:00,2019-01-14 19:28:00,95,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,janet brown
+2019-01-15 05:47:00,Visa,Norfolk,VA,United States,2019-01-15 00:21:00,2019-01-19 22:48:00,171,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,katherine ramos
+2019-01-19 16:32:00,Amex,Mid City West,PA,United States,2019-01-19 10:24:00,2019-01-20 10:09:00,178,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,terry soto
+2019-01-24 13:38:00,Mastercard,Kidderminster,England,United Kingdom,2018-12-22 03:57:00,2019-02-22 00:00:00,191,2,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,mark brown
+2019-01-20 08:10:00,Amex,Brooklyn,NY,United States,2017-08-05 18:52:00,2019-01-21 05:16:00,191,2,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,mark brown
+2019-01-16 09:54:00,Mastercard,Durban,KwaZulu-Natal,South Africa,2018-08-03 18:20:00,2019-01-28 06:26:00,289,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,anita hickman
+2019-01-13 13:19:00,Mastercard,Toronto,Ontario,Canada,2016-03-16 19:11:00,2019-02-26 11:19:00,310,2,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,traci watson
+2019-01-12 18:24:00,Diners,Victor,NY,United States,2018-12-18 07:14:00,2019-01-28 18:19:00,310,2,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,traci watson
+2019-01-25 08:54:00,Amex,Anthem,AZ,United States,2016-03-26 17:32:00,2019-02-03 09:50:00,387,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,danielle morgan
+2019-01-27 11:21:00,Mastercard,Pacific Palisades,CA,United States,2019-01-27 10:38:00,2019-02-05 12:38:00,432,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,krystal smith
+2019-01-20 15:28:00,Visa,Centennial,CO,United States,2016-12-02 23:24:00,2019-02-07 15:18:00,456,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,kevin cook
+2019-01-29 05:06:00,Amex,Herndon,VA,United States,2018-01-23 10:05:00,2019-02-07 15:23:00,458,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,linda stephens
+2019-01-26 20:47:00,Mastercard,Lincoln,NE,United States,2018-06-24 08:05:00,2019-02-08 07:29:00,467,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,david romero
+2019-01-21 14:34:00,Mastercard,Klosterneuburg,Lower Austria,Austria,2019-01-21 14:12:00,2019-02-11 03:19:00,508,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,joseph anderson
+2019-01-25 18:33:00,Visa,Billings,MT,United States,2019-01-23 09:35:00,2019-02-14 16:27:00,548,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,alicia castro
+2019-01-05 12:57:00,Diners,Boise,ID,United States,2019-01-05 09:32:00,2019-02-14 19:19:00,550,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,madison thompson
+2019-01-12 21:30:00,Visa,Madison,WI,United States,2018-11-17 22:24:00,2019-03-01 10:14:00,561,2,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,james anderson
+2019-01-19 15:40:00,Visa,Ede,Gelderland,Netherlands,2019-01-19 14:32:00,2019-02-15 10:33:00,561,2,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,james anderson
+2019-01-28 13:30:00,Visa,Hghlnds Ranch,CO,United States,2019-01-28 13:03:00,2019-02-16 09:13:00,580,2,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,raven ferguson
+2019-01-08 10:44:00,Visa,Mount Forest,Ontario,Canada,2019-01-06 13:03:00,2019-02-17 06:39:00,580,2,Sony,Sony Xperia Ace,5,Qualcomm Snapdragon 630,8,12,4,64,2700,140.0,raven ferguson
+2019-01-20 19:08:00,Amex,Atlanta,GA,United States,2018-11-21 05:52:00,2019-02-16 10:08:00,581,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,rebecca vincent
+2019-01-19 01:52:00,Amex,Melbourne,Victoria,Australia,2017-04-24 04:36:00,2019-02-17 01:20:00,590,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,kayla hill
+2019-01-23 13:55:00,Mastercard,New Rochelle,NY,United States,2015-08-07 15:07:00,2019-02-17 15:16:00,605,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,teresa nicholson
+2019-01-08 09:43:00,Visa,Aix-en-Provence,Provence-Alpes-Cote d'Azur,France,2019-01-05 09:05:00,2019-02-18 08:38:00,614,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,tony hansen
+2019-01-11 17:06:00,Visa,Sacramento,CA,United States,2018-09-17 15:12:00,2019-02-19 12:05:00,626,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,david howard
+2019-01-03 13:43:00,Mastercard,Newmarket,Cork,Ireland,2016-10-22 14:59:00,2019-02-20 03:18:00,635,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,nathan miller
+2019-01-06 09:31:00,Visa,San Diego,CA,United States,2019-01-04 03:18:00,2019-02-23 15:39:00,665,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,brian garrett
+2019-01-08 19:26:00,Visa,Mableton,GA,United States,2017-11-30 10:44:00,2019-02-24 08:22:00,674,2,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,katherine gordon
+2019-01-26 06:38:00,Visa,Alexandria,VA,United States,2019-01-25 10:13:00,2019-02-26 07:16:00,674,2,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,katherine gordon
+2019-01-22 12:45:00,Visa,Valley Center,CA,United States,2019-01-22 10:25:00,2019-02-27 10:49:00,719,1,Apple,Apple iPhone 11 Pro,33,Apple A13 Bionic,12,12,4,64,3046,530.0,kelly garcia
+2019-01-04 08:39:00,Diners,Prince Albert,Saskatchewan,Canada,2019-01-03 17:17:00,2019-01-11 21:05:00,58,1,Samsung,Samsung Galaxy Note 9,9,Samsung Exynos 9 Octa,8,12,6,128,4000,320.0,andrew miller
+2019-01-18 17:20:00,Visa,Saint Paul,MN,United States,2019-01-18 17:16:00,2019-01-18 17:16:00,150,1,Samsung,Samsung Galaxy Note 9,9,Samsung Exynos 9 Octa,8,12,6,128,4000,320.0,jennifer king
+2019-01-03 08:29:00,Visa,Milton Keynes,England,United Kingdom,2018-10-10 01:26:00,2019-01-20 11:31:00,181,1,Samsung,Samsung Galaxy Note 9,9,Samsung Exynos 9 Octa,8,12,6,128,4000,320.0,anna clark
+2019-01-12 01:42:00,Mastercard,Hamburg,Hamburg,Germany,2019-01-07 07:56:00,2019-01-29 04:33:00,313,1,Samsung,Samsung Galaxy Note 9,9,Samsung Exynos 9 Octa,8,12,6,128,4000,320.0,jonathan knight
+2019-01-14 00:03:00,Mastercard,Bunbury,Western Australia,Australia,2018-06-16 18:22:00,2019-02-17 19:31:00,609,1,Samsung,Samsung Galaxy Note 9,9,Samsung Exynos 9 Octa,8,12,6,128,4000,320.0,dennis knight
+2019-01-12 01:37:00,Visa,Brisbane,Queensland,Australia,2019-01-12 01:26:00,2019-01-15 17:54:00,117,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,robert arnold
+2019-01-16 17:41:00,Visa,Rayford,TX,United States,2019-01-16 17:01:00,2019-01-16 17:56:00,122,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,douglas martin
+2019-01-18 16:32:00,Visa,Los Angeles,CA,United States,2019-01-18 16:23:00,2019-01-18 16:54:00,148,3,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,sherry sweeney
+2019-01-15 19:10:00,Diners,Pensacola,FL,United States,2015-12-29 21:33:00,2019-02-11 18:53:00,148,3,Windows,Microsoft Lumia 950,6,Qualcomm MSM8992 Snapdragon 808 ,5,20,3,32,3000,60.0,sherry sweeney
+2019-01-07 06:33:00,Diners,Clontarf,Dublin,Ireland,2018-06-15 08:08:00,2019-02-03 07:51:00,148,3,Alcatel,Alcatel 1V,8, ARM Cortex-A55  1.6 GHz,5,8,1,16,2460,76.5,sherry sweeney
+2019-01-04 19:20:00,Amex,Ottawa Hills,OH,United States,2019-01-04 18:38:00,2019-01-20 18:03:00,187,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,sarah petersen
+2019-01-01 09:35:00,Mastercard,La Crescenta,CA,United States,2018-12-31 17:51:00,2019-02-02 10:27:00,231,2,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,jessica scott
+2019-01-24 09:01:00,Visa,Kirriemuir,Scotland,United Kingdom,2019-01-24 08:02:00,2019-01-24 08:02:00,231,2,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,jessica scott
+2019-01-10 21:36:00,Visa,Seattle,WA,United States,2018-08-10 16:47:00,2019-02-01 15:27:00,362,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,tiffany eaton
+2019-01-23 14:43:00,Visa,Torbay,Auckland,New Zealand,2019-01-18 11:34:00,2019-02-01 21:31:00,364,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,joshua hansen
+2019-01-05 10:25:00,Amex,Arlington,VA,United States,2018-10-11 03:50:00,2019-02-02 16:13:00,377,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,jack black
+2019-01-27 16:50:00,Visa,Altadena,CA,United States,2018-12-28 14:42:00,2019-02-03 18:09:00,400,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,gabriel smith
+2019-01-12 10:08:00,Mastercard,Washington,DC,United States,2018-05-31 12:03:00,2019-02-22 18:58:00,424,2,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,jennifer hamilton
+2019-01-26 11:36:00,Visa,Dun Laoghaire,Dublin,Ireland,2019-01-26 07:28:00,2019-02-05 02:38:00,424,2,Huawei,Huawei Mate 30 Pro 5G,9,HiSilicon Kirin 990,32,40,8,128,4500,457.0,jennifer hamilton
+2019-01-25 12:59:00,Visa,Kennett Square,PA,United States,2019-01-13 20:08:00,2019-02-05 18:40:00,435,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,maria newman
+2019-01-03 14:14:00,Visa,Las Vegas,NV,United States,2019-01-03 13:49:00,2019-02-06 05:29:00,443,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,sue castro
+2019-01-08 20:52:00,Visa,Yorba Linda,CA,United States,2018-11-18 20:03:00,2019-02-13 19:32:00,537,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,allison hinton
+2019-01-25 10:34:00,Amex,Jamaica Plain,MA,United States,2019-01-19 19:01:00,2019-02-13 20:20:00,539,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,lisa fuller
+2019-01-16 07:35:00,Diners,Stuttgart,Baden-Wurttemberg,Germany,2016-10-06 02:02:00,2019-02-15 12:00:00,563,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,sarah brown
+2019-01-02 10:32:00,Mastercard,Edmonton,Alberta,Canada,2018-12-24 15:23:00,2019-02-24 12:08:00,679,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,dennis harrison
+2019-01-26 01:14:00,Visa,Churra,Murcia,Spain,2019-01-23 01:57:00,2019-02-25 05:47:00,686,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,debra villarreal
+2019-01-17 07:58:00,Diners,Lipari,Sicilia,Italy,2019-01-17 07:25:00,2019-02-26 07:32:00,701,1,Samsung,Samsung Galaxy S9,26,Samsung Exynos 9 Octa,8,12,4,64,3000,315.0,andrew ramos
+2019-01-12 03:25:00,Mastercard,W Lebanon,NH,United States,2019-01-12 03:12:00,2019-01-12 03:22:00,61,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,joshua campbell
+2019-01-11 11:33:00,Visa,Stavanger,Rogaland,Norway,2019-01-11 09:02:00,2019-01-12 10:37:00,66,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,shannon reyes
+2019-01-12 03:03:00,Mastercard,Irvine,CA,United States,2019-01-12 02:48:00,2019-01-14 01:07:00,83,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,jeffrey hicks
+2019-01-25 21:49:00,Mastercard,San Francisco,CA,United States,2019-01-24 01:35:00,2019-02-21 09:26:00,112,2,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,aaron schmidt
+2019-01-12 09:43:00,Diners,Bergen,Nordrhein-Westfalen,Germany,2019-01-07 08:39:00,2019-01-15 12:14:00,112,2,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,aaron schmidt
+2019-01-14 08:16:00,Amex,Saskatoon,Saskatchewan,Canada,2018-08-09 12:51:00,2019-02-05 11:24:00,138,2,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,mason perry
+2019-01-18 02:16:00,Visa,Nashville,AR,United States,2019-01-16 19:32:00,2019-01-18 09:13:00,138,2,BLU,BLU Vivo 8L,2,MediaTek Helio 6753        ,20,13,3,32,4000,50.0,mason perry
+2019-01-18 11:53:00,Visa,Joppa,MD,United States,2019-01-18 00:00:00,2019-01-18 12:23:00,142,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,terry klein
+2019-01-18 12:32:00,Visa,Santry,Dublin,Ireland,2018-12-14 14:26:00,2019-01-28 07:41:00,194,2,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,dawn robinson
+2019-01-07 14:15:00,Mastercard,San Carlos,CA,United States,2019-01-05 15:42:00,2019-01-21 12:00:00,194,2,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,dawn robinson
+2019-01-15 07:26:00,Mastercard,Den Haag,Zuid-Holland,Netherlands,2019-01-14 00:00:00,2019-02-01 13:17:00,206,2,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,william wells
+2019-01-18 16:50:00,Visa,North Brunswick,NJ,United States,2019-01-18 16:25:00,2019-01-22 01:17:00,206,2,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,william wells
+2019-01-26 03:43:00,Mastercard,Lake Mahopac,NY,United States,2019-01-26 03:10:00,2019-01-26 03:10:00,257,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,christopher ortega
+2019-01-13 08:11:00,Visa,Katy,TX,United States,2018-05-27 11:01:00,2019-01-27 07:49:00,275,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,rachel potter
+2019-01-29 10:09:00,Mastercard,Scottsdale,AZ,United States,2019-01-29 09:59:00,2019-01-29 12:58:00,319,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,mary powers
+2019-01-17 09:49:00,Diners,Abu Dhabi,Abu Zaby,United Arab Emirates,2018-02-27 20:02:00,2019-01-30 08:45:00,326,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,darrell martin
+2019-01-26 11:38:00,Mastercard,Austin,TX,United States,2019-01-26 07:16:00,2019-01-30 13:15:00,330,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,dr. kenneth mcpherson
+2019-01-08 00:04:00,Visa,New Plymouth City,Taranaki,New Zealand,2019-01-07 23:34:00,2019-01-31 17:47:00,345,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,tyler smith
+2019-01-29 06:49:00,Mastercard,Hannover,Lower Saxony,Germany,2018-04-02 02:39:00,2019-02-06 06:52:00,444,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,cristina jones
+2019-01-19 10:13:00,Mastercard,London,England,United Kingdom,2016-02-28 05:35:00,2019-02-09 06:57:00,475,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,jared melton
+2019-01-19 12:38:00,Visa,Munich,Bayern,Germany,2019-01-19 11:47:00,2019-02-16 12:46:00,586,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,jessica crawford
+2019-01-02 15:13:00,Visa,Cork,Cork,Ireland,2016-01-10 07:05:00,2019-02-17 06:38:00,597,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,veronica underwood
+2019-01-20 08:16:00,Mastercard,Germantown,TN,United States,2019-01-06 08:33:00,2019-02-17 13:01:00,602,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,danielle moore
+2019-01-29 21:40:00,Visa,Vancouver,British Columbia,Canada,2018-06-17 19:23:00,2019-02-21 20:32:00,648,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,dr. tammy campbell
+2019-01-20 20:09:00,Visa,Dubai,Dubayy,United Arab Emirates,2019-01-18 09:58:00,2019-02-23 07:01:00,661,1,Samsung,Samsung Galaxy Note 8,30,Samsung Exynos 9 Octa,8,12,6,64,3300,200.0,virginia graham
+2019-01-19 15:02:00,Mastercard,San Antonio,TX,United States,2019-01-19 14:43:00,2019-01-24 10:26:00,235,1,Motorola,Motorola Moto G8 Plus,5,Qualcomm Snapdragon 665  ,25,48,4,64,4000,145.0,krystal grant
+2019-01-29 15:08:00,Visa,Sunnyvale,CA,United States,2019-01-29 14:04:00,2019-01-29 14:04:00,320,1,Motorola,Motorola Moto G8 Plus,5,Qualcomm Snapdragon 665  ,25,48,4,64,4000,145.0,jesse watson
+2019-01-18 12:14:00,Mastercard,Utrecht,Utrecht,Netherlands,2018-12-12 03:30:00,2019-02-16 12:49:00,587,1,Motorola,Motorola Moto G8 Plus,5,Qualcomm Snapdragon 665  ,25,48,4,64,4000,145.0,christina fisher
+2019-01-27 15:28:00,Visa,Corrales,NM,United States,2019-01-17 17:52:00,2019-01-27 15:17:00,31,4,Huawei,Huawei Nova 6 SE,8,HiSilicon Kirin810,16,48,8,128,4200,290.0,michael gilbert
+2019-01-08 03:56:00,Mastercard,New York,NY,United States,2019-01-08 03:33:00,2019-01-08 06:19:00,31,4,Huawei,Huawei Nova 6 SE,8,HiSilicon Kirin810,16,48,8,128,4200,290.0,michael gilbert
+2019-01-11 10:51:00,Mastercard,Hofheim am Taunus,Hessen,Germany,2018-12-06 01:34:00,2019-01-18 07:17:00,31,4,Motorola,Motorola One Macro,6,MediaTek Helio P70,12,13,4,64,4000,185.0,michael gilbert
+2019-01-15 08:12:00,Visa,Marietta,GA,United States,2019-01-13 10:03:00,2019-02-03 07:44:00,31,4,Sony,Sony Xperia L2,2,MediaTek MT6737T,8,13,3,32,3300,32.0,michael gilbert
+2019-01-07 10:03:00,Mastercard,Sydney,New South Wales,Australia,2018-12-01 06:09:00,2019-01-27 20:18:00,284,1,Huawei,Huawei Nova 6 SE,8,HiSilicon Kirin810,16,48,8,128,4200,290.0,christine robertson
+2019-01-12 13:23:00,Amex,Ponte San Nicolo,Veneto,Italy,2015-09-13 08:42:00,2019-02-09 14:09:00,482,1,Huawei,Huawei Nova 6 SE,8,HiSilicon Kirin810,16,48,8,128,4200,290.0,jeffrey mason
+2019-01-03 13:24:00,Visa,Helsingor,Frederiksborg,Denmark,2019-01-03 12:47:00,2019-01-09 11:14:00,43,1,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,allison beck
+2019-01-06 01:20:00,Mastercard,Melbourne,Victoria,Australia,2019-01-02 17:51:00,2019-01-10 18:27:00,52,2,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,lorraine harmon
+2019-01-19 16:10:00,Mastercard,Old Greenwich,CT,United States,2019-01-19 15:31:00,2019-01-19 16:00:00,52,2,LG,LG X6,9,MediaTek MT6750        ,8,13,2,32,4500,100.0,lorraine harmon
+2019-01-07 06:18:00,Mastercard,Beachwood,OH,United States,2016-02-23 11:56:00,2019-01-11 19:35:00,57,1,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,kenneth martinez
+2019-01-22 23:35:00,Mastercard,Buffalo Grove,IL,United States,2019-01-22 23:23:00,2019-01-23 22:05:00,226,1,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,jasmine chang
+2019-01-09 10:22:00,Mastercard,White House,TN,United States,2019-01-05 14:49:00,2019-01-25 19:35:00,255,1,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,paul bailey
+2019-01-05 08:28:00,Visa,Ruti,Zurich,Switzerland,2019-01-05 05:08:00,2019-02-04 22:59:00,422,1,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,deanna castro
+2019-01-27 12:47:00,Visa,Amsterdam,Noord-Holland,Netherlands,2019-01-27 12:03:00,2019-02-12 12:59:00,524,1,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,daniel lee
+2019-01-06 02:41:00,Visa,Perth,Western Australia,Australia,2015-11-20 23:46:00,2019-02-24 16:04:00,681,1,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,gary garcia
+2019-01-23 05:52:00,Amex,Zug,Zug,Switzerland,2019-01-23 01:22:00,2019-02-25 09:40:00,688,1,LG,LG K12+,12,Mediatek Helio P22,8,16,3,32,3000,76.5,emily tanner
+2019-01-29 12:28:00,Mastercard,Great Falls,VA,United States,2017-05-21 14:57:00,2019-01-29 12:31:00,317,1,Motorola,Motorola One Macro,6,MediaTek Helio P70,12,13,4,64,4000,185.0,abigail pierce
+2019-01-12 05:50:00,Mastercard,Den Haag,Zuid-Holland,Netherlands,2015-01-04 12:43:00,2019-02-20 00:24:00,634,1,Motorola,Motorola One Macro,6,MediaTek Helio P70,12,13,4,64,4000,185.0,michelle pennington
+2019-01-18 18:57:00,Mastercard,Reston,VA,United States,2018-12-31 08:16:00,2019-02-20 11:34:00,640,1,Motorola,Motorola One Macro,6,MediaTek Helio P70,12,13,4,64,4000,185.0,amber henry
+2019-01-22 03:57:00,Mastercard,Oegstgeest,Zuid-Holland,Netherlands,2019-01-20 14:36:00,2019-02-27 01:59:00,716,1,Motorola,Motorola One Macro,6,MediaTek Helio P70,12,13,4,64,4000,185.0,craig kim
+2019-01-07 13:57:00,Visa,Waiwera,Auckland,New Zealand,2019-01-07 13:32:00,2019-02-13 19:54:00,538,1,Sony,Sony Xperia L2,2,MediaTek MT6737T,8,13,3,32,3300,32.0,victoria williams
+2019-01-03 09:03:00,Diners,Brooklyn,NY,United States,2019-01-03 08:47:00,2019-01-08 10:38:00,34,1,Motorola,Motorola One Zoom,7,Qualcomm Snapdragon 675,12,48,4,128,4000,170.0,cristina hall
+2019-01-18 17:04:00,Visa,New York,NY,United States,2019-01-18 16:58:00,2019-01-18 16:58:00,149,1,Motorola,Motorola One Zoom,7,Qualcomm Snapdragon 675,12,48,4,128,4000,170.0,janet glass
+2019-01-18 11:42:00,Visa,Sutton Valence,England,United Kingdom,2018-11-17 10:30:00,2019-02-05 06:21:00,429,1,Motorola,Motorola One Zoom,7,Qualcomm Snapdragon 675,12,48,4,128,4000,170.0,christopher ayala
+2019-01-04 12:53:00,Diners,Leamington Spa,England,United Kingdom,2018-12-11 07:35:00,2019-02-11 00:04:00,505,1,Motorola,Motorola One Zoom,7,Qualcomm Snapdragon 675,12,48,4,128,4000,170.0,william avila
+2019-01-23 07:04:00,Amex,Rowayton,CT,United States,2019-01-20 10:46:00,2019-02-18 16:55:00,618,1,Motorola,Motorola One Zoom,7,Qualcomm Snapdragon 675,12,48,4,128,4000,170.0,jacob hoffman
+2019-01-03 11:03:00,Mastercard,Sammamish,WA,United States,2019-01-01 22:43:00,2019-02-26 15:30:00,713,1,Motorola,Motorola One Zoom,7,Qualcomm Snapdragon 675,12,48,4,128,4000,170.0,wanda harris
+2019-01-12 05:18:00,Mastercard,Southampton,England,United Kingdom,2019-01-12 04:45:00,2019-01-12 08:08:00,64,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,whitney smith
+2019-01-08 07:26:00,Mastercard,Bournemouth,England,United Kingdom,2018-01-25 15:46:00,2019-01-15 01:36:00,99,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,kendra silva
+2019-01-18 05:15:00,Diners,Urlingford,Kilkenny,Ireland,2019-01-18 04:44:00,2019-01-18 04:44:00,134,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,anita jackson
+2019-01-02 11:06:00,Mastercard,Sevilla,Andalucia,Spain,2016-03-12 15:02:00,2019-02-10 10:04:00,153,2,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,makayla flowers
+2019-01-13 20:59:00,Mastercard,Winnipeg,Manitoba,Canada,2019-01-13 16:44:00,2019-01-18 19:17:00,153,2,Huawei,Huawei P Smart Pro,5,HiSilicon Kirin 710F,16,48,6,128,4000,280.0,makayla flowers
+2019-01-03 10:52:00,Visa,Rockville,MD,United States,2015-04-18 09:27:00,2019-01-20 06:47:00,175,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,christopher powers
+2019-01-26 15:42:00,Visa,Allen,TX,United States,2019-01-26 14:38:00,2019-02-12 22:41:00,188,2,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,maurice riley
+2019-01-10 08:33:00,Mastercard,Portola Valley,CA,United States,2017-02-04 10:09:00,2019-01-20 22:06:00,188,2,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,maurice riley
+2019-01-20 16:32:00,Visa,Margate,FL,United States,2018-01-02 09:52:00,2019-01-21 19:05:00,200,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,john wallace
+2019-01-06 04:18:00,Visa,Edinburgh,Scotland,United Kingdom,2019-01-06 03:38:00,2019-01-23 03:22:00,220,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,thomas stephens
+2019-01-23 07:37:00,Amex,Miami,FL,United States,2019-01-23 06:32:00,2019-01-24 06:54:00,229,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,michael johnson
+2019-01-11 07:10:00,Visa,Guildford,England,United Kingdom,2016-03-07 05:47:00,2019-01-24 14:54:00,236,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,katherine harrington
+2019-01-26 04:30:00,Visa,Great Falls,Virginia,United States,2019-01-26 00:00:00,2019-01-26 07:48:00,263,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,brian rose
+2019-01-02 15:18:00,Diners,Saffron Walden,England,United Kingdom,2014-09-01 02:08:00,2019-01-28 01:26:00,287,2,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,diane bishop
+2019-01-29 16:52:00,Visa,Rock Hill,SC,United States,2019-01-25 12:00:00,2019-02-14 19:34:00,287,2,LG,LG Q70,10,Qualcomm Snapdragon 675    ,16,32,4,64,4000,130.0,diane bishop
+2019-01-13 14:05:00,Amex,Barcelona,Catalonia,Spain,2019-01-09 07:54:00,2019-01-28 07:45:00,291,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,kimberly owens
+2019-01-19 08:52:00,Visa,Richmond,TX,United States,2019-01-06 15:24:00,2019-02-01 11:53:00,359,2,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,lynn hendricks
+2019-01-15 05:11:00,Visa,London,England,United Kingdom,2016-07-11 12:43:00,2019-02-09 04:42:00,359,2,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,lynn hendricks
+2019-01-12 08:05:00,Amex,Danville,PA,United States,2019-01-12 06:44:00,2019-02-03 08:01:00,386,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,john davis
+2019-01-22 12:09:00,Visa,Monaco,Monaco,Monaco,2019-01-22 11:32:00,2019-02-04 06:28:00,410,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,james clay
+2019-01-18 13:36:00,Amex,London,England,United Kingdom,2015-04-23 09:46:00,2019-02-05 03:17:00,426,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,kristin holmes
+2019-01-05 15:23:00,Visa,Stockton,England,United Kingdom,2018-06-12 10:59:00,2019-02-07 11:08:00,453,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,david richards
+2019-01-28 18:00:00,Visa,Centennial,CO,United States,2016-12-02 23:24:00,2019-02-07 15:18:00,457,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,bonnie johnson
+2019-01-06 14:35:00,Diners,Las Vegas,NV,United States,2018-12-17 11:59:00,2019-02-09 22:59:00,487,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,justin becker
+2019-01-16 08:28:00,Visa,Rancho Cordova,CA,United States,2019-01-09 12:13:00,2019-02-11 08:34:00,509,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,dustin rivera
+2019-01-10 14:59:00,Amex,Malibu,CA,United States,2019-01-10 14:47:00,2019-02-12 19:39:00,525,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,alan strong
+2019-01-10 07:37:00,Visa,Shankill,Dublin,Ireland,2018-10-11 03:19:00,2019-02-13 13:32:00,533,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,alexandria alexander
+2019-01-20 05:53:00,Diners,Oxford,England,United Kingdom,2019-01-14 04:35:00,2019-02-13 14:15:00,534,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,tina anderson
+2019-01-03 14:17:00,Visa,Scamander,Tasmania,Australia,2019-01-03 13:53:00,2019-02-14 20:11:00,552,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,kelsey phillips
+2019-01-24 20:58:00,Visa,North Vancouver,British Columbia,Canada,2018-12-28 15:54:00,2019-02-14 22:12:00,554,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,monique carlson
+2019-01-07 20:55:00,Mastercard,Cincinnati,OH,United States,2019-01-07 20:25:00,2019-02-26 12:24:00,562,2,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,kyle ryan
+2019-01-19 13:15:00,Visa,Stocksund,Stockholm,Sweden,2017-05-29 01:32:00,2019-02-15 11:39:00,562,2,Sony,Sony Xperia L3,4,MediaTek Helio P22,8,13,3,32,3300,76.5,kyle ryan
+2019-01-22 10:59:00,Visa,Boyceville,WI,United States,2019-01-02 14:09:00,2019-02-16 14:50:00,588,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,lisa douglas
+2019-01-17 15:19:00,Visa,Thurles,Tipperary,Ireland,2019-01-15 09:13:00,2019-02-17 03:26:00,593,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,tyler blanchard
+2019-01-10 16:02:00,Visa,San Diego,CA,United States,2017-10-12 13:03:00,2019-02-24 08:32:00,675,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,kimberly flores
+2019-01-19 06:52:00,Diners,Santa Barbaraa,Heredia,Costa Rica,2019-01-19 06:45:00,2019-02-25 05:44:00,685,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,elizabeth white
+2019-01-24 10:38:00,Visa,Arlington,VA,United States,2019-01-24 09:27:00,2019-02-26 06:08:00,699,1,Apple,Apple iPhone X,38,Apple A11 Bionic,7,12,3,64,2716,370.0,cheryl joseph phd
+2019-01-01 05:04:00,Mastercard,Glimmen,Groningen,Netherlands,2012-12-16 04:09:00,2019-01-15 10:50:00,110,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,kenneth wright
+2019-01-12 16:50:00,Visa,Seattle,WA,United States,2019-01-04 21:33:00,2019-01-19 01:22:00,154,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,cristian estes
+2019-01-10 11:37:00,Amex,Little Silver,NJ,United States,2018-12-28 20:10:00,2019-01-20 07:42:00,177,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,amanda foster
+2019-01-11 22:22:00,Visa,Mona Vale,New South Wales,Australia,2018-12-30 17:48:00,2019-01-21 22:33:00,204,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,bonnie thompson
+2019-01-24 18:02:00,Visa,Aloma,FL,United States,2015-11-29 17:33:00,2019-02-07 06:03:00,228,2,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,travis sanchez
+2019-01-21 07:59:00,Visa,Mechanics Grove,PA,United States,2018-04-07 17:15:00,2019-01-24 06:01:00,228,2,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,travis sanchez
+2019-01-13 14:53:00,Visa,N Java,NY,United States,2019-01-13 13:22:00,2019-01-25 11:33:00,246,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,rebecca williams
+2019-01-01 19:25:00,Diners,Toronto,Ontario,Canada,2018-01-08 20:41:00,2019-01-27 14:59:00,279,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,taylor kline
+2019-01-09 10:35:00,Visa,Senatobia,MS,United States,2019-01-08 14:02:00,2019-01-28 11:08:00,299,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,daniel long
+2019-01-09 15:24:00,Mastercard,Farmingtn Hls,MI,United States,2019-01-09 13:59:00,2019-01-29 08:05:00,316,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,sue howard
+2019-01-30 05:13:00,Visa,Antwerpen,Antwerpen,Belgium,2016-01-03 13:57:00,2019-02-02 05:45:00,367,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,damon silva
+2019-01-30 17:33:00,Visa,Warwick,Queensland,Australia,2019-01-25 22:36:00,2019-02-02 06:13:00,370,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,cassandra valenzuela
+2019-01-31 21:50:00,Visa,Issaquah,WA,United States,2019-01-31 21:01:00,2019-02-03 16:30:00,398,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,amanda obrien
+2019-01-22 16:29:00,Visa,Dammeron Valley,UT,United States,2019-01-17 15:18:00,2019-02-06 18:14:00,447,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,david andrews
+2019-01-06 18:53:00,Visa,Vista,CA,United States,2019-01-05 22:37:00,2019-02-07 15:48:00,459,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,jon miller
+2019-01-19 06:50:00,Visa,Redruth,England,United Kingdom,2019-01-06 13:29:00,2019-02-13 04:27:00,529,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,karen jones
+2019-01-21 04:34:00,Visa,Firenze,Tuscany,Italy,2018-04-24 00:57:00,2019-02-16 03:45:00,576,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,teresa juarez
+2019-01-27 03:45:00,Visa,Bern,Bern,Switzerland,2019-01-27 02:39:00,2019-02-17 03:44:00,595,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,cristina cunningham
+2019-01-10 03:43:00,Visa,Stuttgart,Baden-Wurttemberg,Germany,2016-03-05 15:01:00,2019-02-19 03:11:00,621,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,aaron ewing
+2019-01-20 10:05:00,Visa,Calgary,Alberta,Canada,2019-01-09 10:36:00,2019-02-26 13:28:00,711,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,aaron schneider
+2019-01-06 18:11:00,Mastercard,Swampscott,MA,United States,2016-06-09 08:57:00,2019-02-27 13:00:00,720,1,Apple,Apple iphone XS Max,28,Apple A12 Bionic,7,12,4,64,3174,390.0,brian grimes
+2019-01-05 08:58:00,Mastercard,Telgte,Nordrhein-Westfalen,Germany,2018-09-01 03:39:00,2019-01-14 02:07:00,84,1,LG,LG X6,9,MediaTek MT6750        ,8,13,2,32,4500,100.0,abigail smith
+2019-01-06 14:03:00,Visa,New York,NY,United States,2018-05-01 08:26:00,2019-01-17 11:44:00,130,1,LG,LG X6,9,MediaTek MT6750        ,8,13,2,32,4500,100.0,angela lawson
+2019-01-08 04:16:00,Visa,Malahide,Dublin,Ireland,2016-04-18 13:26:00,2019-01-23 02:21:00,218,1,LG,LG X6,9,MediaTek MT6750        ,8,13,2,32,4500,100.0,james harrison
+2019-01-12 15:16:00,Visa,Thorlakshofn,Iceland,Iceland,2019-01-12 11:41:00,2019-01-28 08:44:00,293,1,LG,LG X6,9,MediaTek MT6750        ,8,13,2,32,4500,100.0,julie king
+2019-01-12 13:41:00,Amex,Claygate,England,United Kingdom,2017-08-19 15:23:00,2019-02-22 03:51:00,649,1,LG,LG X6,9,MediaTek MT6750        ,8,13,2,32,4500,100.0,tiffany williams
+2019-01-09 06:39:00,Mastercard,Houston,TX,United States,2019-01-09 05:09:00,2019-01-09 07:11:00,39,1,Alcatel,Alcatel 3,4,MediaTek MT6739,5,13,2,16,3000,84.5,john wilson
+2019-01-05 19:26:00,Visa,Ruschlikon,Zurich,Switzerland,2019-01-05 19:14:00,2019-01-30 01:06:00,323,1,Alcatel,Alcatel 3,4,MediaTek MT6739,5,13,2,16,3000,84.5,sean williams
+2019-01-19 08:14:00,Visa,Houston,TX,United States,2019-01-04 12:39:00,2019-01-23 12:52:00,224,1,ZTE,ZTE Axon 9 Pro,2,Qualcomm Snapdragon 845,20,12,6,128,4000,260.0,james love
+2019-01-20 05:01:00,Visa,Birmingham,MI,United States,2019-01-18 17:36:00,2019-02-04 16:45:00,208,3,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,melissa shaw
+2019-01-30 13:13:00,Visa,Lexington,MA,United States,2019-01-30 12:44:00,2019-02-03 17:14:00,208,3,ZTE,ZTE Blade 10 Prime,4,MediaTek Helio P60,16,16,3,64,3200,175.0,melissa shaw
+2019-01-22 06:41:00,Visa,Baytown,TX,United States,2019-01-22 04:32:00,2019-01-22 06:54:00,208,3,LG,LG Stylo 5,11,Qualcomm Snapdragon 450    ,5,13,3,32,3500,57.0,melissa shaw
+2019-01-10 03:28:00,Visa,Horten,Vestfold,Norway,2018-11-24 15:50:00,2019-01-24 15:10:00,237,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,peter castillo
+2019-01-01 14:19:00,Mastercard,Three Hills,Alberta,Canada,2018-05-21 11:39:00,2019-01-26 07:17:00,262,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,michelle stanley
+2019-01-26 08:58:00,Diners,London,England,United Kingdom,2019-01-26 08:46:00,2019-01-26 11:14:00,266,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,duane david
+2019-01-27 05:10:00,Visa,Slough,England,United Kingdom,2019-01-15 10:07:00,2019-01-27 04:51:00,272,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,leah bass
+2019-01-28 00:40:00,Mastercard,Bryceville,FL,United States,2019-01-27 22:04:00,2019-01-28 00:01:00,286,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,amanda gould
+2019-01-16 10:58:00,Visa,Soro,Vestsjalland,Denmark,2017-07-27 07:22:00,2019-01-29 03:16:00,311,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,brian howell
+2019-01-31 09:00:00,Visa,London,England,United Kingdom,2019-01-31 08:32:00,2019-01-31 10:07:00,337,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,sarah suarez
+2019-01-06 03:39:00,Visa,Bergen,Hordaland,Norway,2015-09-20 01:58:00,2019-02-02 00:08:00,365,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,joseph smith
+2019-01-09 20:25:00,Diners,Kelowna,British Columbia,Canada,2019-01-09 14:20:00,2019-02-11 20:19:00,517,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,derrick griffin
+2019-01-17 01:49:00,Mastercard,Den Haag,Zuid-Holland,Netherlands,2019-01-13 05:09:00,2019-02-15 05:19:00,558,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,brooke conley
+2019-01-25 17:48:00,Visa,Westminster,CO,United States,2019-01-24 23:48:00,2019-02-15 08:08:00,559,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,scott zimmerman
+2019-01-29 01:01:00,Diners,Gingins,Vaud,Switzerland,2019-01-20 06:14:00,2019-02-16 05:09:00,578,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,jonathan reed
+2019-01-25 08:48:00,Mastercard,Oxford,England,United Kingdom,2018-04-05 13:20:00,2019-02-21 01:36:00,643,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,debra wood
+2019-01-19 17:40:00,Visa,Newton,MA,United States,2017-03-12 07:21:00,2019-02-25 02:28:00,683,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,miss martha campbell
+2019-01-31 18:12:00,Visa,Cincinnati,OH,United States,2016-04-02 11:49:00,2019-02-26 12:03:00,705,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,anita thomas
+2019-01-03 21:19:00,Visa,Pls Vrds Est,CA,United States,2017-12-24 22:59:00,2019-02-27 21:40:00,725,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,wyatt long
+2019-01-12 20:31:00,Visa,Atlantida,Guatemala,Guatemala,2019-01-06 16:53:00,2019-02-28 14:39:00,732,1,Apple,Apple iPhone 7 Plus,29,Apple A10 Fusion,7,12,3,32,2900,245.0,rodney kennedy
+2019-01-14 15:40:00,Amex,Redondo Beach,CA,United States,2019-01-13 19:37:00,2019-01-15 15:45:00,115,1,LG,LG V50S ThinQ 5G,10,Qualcomm Snapdragon 855        ,8,16,6,128,4000,370.0,lauren martinez
+2019-01-09 18:52:00,Visa,Alpharetta,GA,United States,2018-11-25 07:56:00,2019-01-19 06:12:00,155,4,LG,LG V50S ThinQ 5G,10,Qualcomm Snapdragon 855        ,8,16,6,128,4000,370.0,cassandra young
+2019-01-25 17:55:00,Visa,Kapaa,HI,United States,2019-01-24 12:18:00,2019-02-26 20:21:00,155,4,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,cassandra young
+2019-01-12 15:12:00,Mastercard,Deptford,NJ,United States,2019-01-12 14:07:00,2019-01-19 03:47:00,155,4,Huawei,Huawei Mate 30 Pro 5G,9,HiSilicon Kirin 990,32,40,8,128,4500,457.0,cassandra young
+2019-01-19 10:47:00,Mastercard,Stavenger,Rogaland,Norway,2019-01-13 13:53:00,2019-02-25 00:40:00,155,4,Sony,Sony Xperia 1 Professional,3,Qualcomm Snapdragon 855        ,8,12,6,128,3300,450.0,cassandra young
+2019-01-10 08:13:00,Visa,Lemont,IL,United States,2019-01-09 19:15:00,2019-01-21 11:35:00,193,1,LG,LG V50S ThinQ 5G,10,Qualcomm Snapdragon 855        ,8,16,6,128,4000,370.0,whitney jackson
+2019-01-01 09:21:00,Diners,Blackpool,England,United Kingdom,2019-01-01 08:05:00,2019-01-25 10:52:00,243,1,LG,LG V50S ThinQ 5G,10,Qualcomm Snapdragon 855        ,8,16,6,128,4000,370.0,linda deleon
+2019-01-02 12:16:00,Mastercard,Waldorf,MD,United States,2018-12-11 06:16:00,2019-01-28 12:07:00,300,1,LG,LG V50S ThinQ 5G,10,Qualcomm Snapdragon 855        ,8,16,6,128,4000,370.0,james stephens
+2019-01-23 05:14:00,Visa,Melbourne,Victoria,Australia,2017-12-16 17:05:00,2019-02-13 15:28:00,535,1,LG,LG V50S ThinQ 5G,10,Qualcomm Snapdragon 855        ,8,16,6,128,4000,370.0,veronica elliott
+2019-01-26 05:38:00,Amex,Cranberry Twp,PA,United States,2018-09-28 19:40:00,2019-02-26 06:04:00,698,1,LG,LG V50S ThinQ 5G,10,Qualcomm Snapdragon 855        ,8,16,6,128,4000,370.0,sherry pollard
+2019-01-29 17:13:00,Amex,Tenafly,NJ,United States,2017-12-12 12:26:00,2019-02-16 10:19:00,582,1,Sony,Sony Xperia L3,4,MediaTek Helio P22,8,13,3,32,3300,76.5,mark adams
+2019-01-10 21:38:00,Visa,Maple Ridge District Municipality,British Columbia,Canada,2019-01-10 21:17:00,2019-01-11 19:32:00,56,1,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,stephanie peck
+2019-01-12 19:04:00,Visa,Comox,British Columbia,Canada,2018-09-20 20:53:00,2019-01-12 19:01:00,73,1,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,zachary anderson
+2019-01-24 08:25:00,Mastercard,Neustift am Walde,Vienna,Austria,2015-07-19 12:42:00,2019-01-25 14:22:00,252,1,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,christina ewing
+2019-01-09 19:41:00,Mastercard,San Jose,CA,United States,2019-01-05 18:02:00,2019-02-01 09:18:00,353,1,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,jade curry
+2019-01-01 16:00:00,Visa,Bolton,England,United Kingdom,2018-10-07 15:19:00,2019-02-03 16:45:00,399,1,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,jennifer andersen
+2019-01-11 04:39:00,Visa,Knoxville,TN,United States,2018-08-28 06:20:00,2019-02-04 12:17:00,416,1,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,anthony perry
+2019-01-30 04:48:00,Visa,Chandler,AZ,United States,2018-06-18 14:29:00,2019-02-06 17:21:00,446,1,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,tina blankenship
+2019-01-13 14:44:00,Visa,Zurich,Zurich,Switzerland,2018-12-14 10:19:00,2019-02-12 12:08:00,522,1,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,ryan gordon
+2019-01-24 11:54:00,Visa,Bruxelles,Brussels (Bruxelles),Belgium,2019-01-24 10:47:00,2019-02-13 06:39:00,530,1,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,walter gonzalez
+2019-01-19 16:16:00,Mastercard,Lebanon,PA,United States,2018-09-03 19:26:00,2019-02-18 19:38:00,619,1,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,cody rodriguez
+2019-01-02 17:24:00,Diners,Perth,Western Australia,Australia,2019-01-01 21:20:00,2019-02-27 18:43:00,723,1,Samsung,Samsung Galaxy S10 Plus,22,Samsung Exynos 9 Octa,10,12,8,128,4100,395.0,john snow
+2019-01-05 00:31:00,Mastercard,Saltsjobaden,Stockholm,Sweden,2019-01-04 23:45:00,2019-01-12 00:37:00,59,1,LG,LG X4,6,Qualcomm Snapdragon 855        ,8,13,2,32,3000,200.0,lindsey fletcher
+2019-01-04 17:02:00,Mastercard,Lafayette,CA,United States,2015-12-31 00:55:00,2019-01-18 08:43:00,86,2,LG,LG X4,6,Qualcomm Snapdragon 855        ,8,13,2,32,3000,200.0,christie jones
+2019-01-13 11:26:00,Visa,Keller,VA,United States,2019-01-13 11:15:00,2019-01-14 02:39:00,86,2,LG,LG Q70,10,Qualcomm Snapdragon 675    ,16,32,4,64,4000,130.0,christie jones
+2019-01-18 13:49:00,Visa,San Ramon,CA,United States,2019-01-11 12:00:00,2019-01-19 18:07:00,170,1,LG,LG X4,6,Qualcomm Snapdragon 855        ,8,13,2,32,3000,200.0,kathy wilson
+2019-01-11 06:09:00,Amex,Saint Petersburg,FL,United States,2018-11-08 04:07:00,2019-02-12 04:41:00,519,1,LG,LG X4,6,Qualcomm Snapdragon 855        ,8,13,2,32,3000,200.0,christopher werner
+2019-01-03 06:41:00,Visa,Malmo,Skane,Sweden,2018-08-07 09:24:00,2019-01-22 11:24:00,211,1,Sony,Sony Xperia 5,6,Qualcomm Snapdragon 855        ,8,12,6,128,3140,372.0,norman crawford
+2019-01-04 13:20:00,Mastercard,Superior,CO,United States,2019-01-04 12:08:00,2019-01-31 13:17:00,342,1,Sony,Sony Xperia 5,6,Qualcomm Snapdragon 855        ,8,12,6,128,3140,372.0,mark gutierrez
+2019-01-17 06:23:00,Visa,Grosseto,Tuscany,Italy,2018-09-22 10:48:00,2019-02-20 06:39:00,637,1,Sony,Sony Xperia 5,6,Qualcomm Snapdragon 855        ,8,12,6,128,3140,372.0,randy johnson
+2019-01-02 00:50:00,Visa,Tesvikiye,Istanbul,Turkey,2019-01-02 00:10:00,2019-01-17 01:57:00,124,1,Motorola,Motorola Moto G8 Play,7,MediaTek Helio P70,13,13,2,32,4000,135.0,david alexander
+2019-01-06 08:34:00,Visa,Dallas,TX,United States,2019-01-05 15:00:00,2019-01-22 21:41:00,217,1,Motorola,Motorola Moto G8 Play,7,MediaTek Helio P70,13,13,2,32,4000,135.0,sheila barnes
+2019-01-24 08:21:00,Mastercard,Neustift am Walde,Vienna,Austria,2015-07-19 12:42:00,2019-01-25 14:22:00,251,1,Motorola,Motorola Moto G8 Play,7,MediaTek Helio P70,13,13,2,32,4000,135.0,mr. donald wallace
+2019-01-14 12:07:00,Mastercard,Lakeville,MN,United States,2019-01-13 22:28:00,2019-01-28 12:37:00,302,1,Motorola,Motorola Moto G8 Play,7,MediaTek Helio P70,13,13,2,32,4000,135.0,paul davis
+2019-01-29 05:43:00,Visa,Sunnyvale,CA,United States,2019-01-29 05:18:00,2019-01-29 05:18:00,315,1,Motorola,Motorola Moto G8 Play,7,MediaTek Helio P70,13,13,2,32,4000,135.0,john baker
+2019-01-15 10:24:00,Visa,York,England,United Kingdom,2019-01-13 12:30:00,2019-01-17 04:42:00,126,1,Sony,Sony Xperia Ace,5,Qualcomm Snapdragon 630,8,12,4,64,2700,140.0,tyler mccoy
+2019-01-11 15:59:00,Visa,Bishops Stortford,England,United Kingdom,2016-01-17 08:51:00,2019-01-25 03:03:00,242,1,Sony,Sony Xperia Ace,5,Qualcomm Snapdragon 630,8,12,4,64,2700,140.0,melvin roberts
+2019-01-11 10:38:00,Mastercard,Helens Bay,Northern Ireland,United Kingdom,2018-09-04 09:26:00,2019-01-13 02:36:00,75,1,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,jennifer horton
+2019-01-01 01:51:00,Mastercard,Holte,Kobenhavn,Denmark,2015-12-14 15:46:00,2019-01-18 04:44:00,135,1,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,amy smith
+2019-01-09 08:57:00,Diners,Wall,NJ,United States,2018-01-21 10:27:00,2019-02-20 16:45:00,199,2,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,donald matthews
+2019-01-20 11:58:00,Mastercard,Lakeside,CA,United States,2018-11-01 23:14:00,2019-01-21 17:25:00,199,2,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,donald matthews
+2019-01-07 08:00:00,Mastercard,Glan-Munchweiler,Rhineland-Palatinate,Germany,2015-05-26 07:00:00,2019-01-27 06:30:00,202,2,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,megan hogan
+2019-01-21 14:55:00,Diners,New York,NY,United States,2019-01-21 10:23:00,2019-01-21 20:34:00,202,2,LG,LG K40S,5,Mediatek MT6762 Helio P22       ,13,13,2,32,3500,76.5,megan hogan
+2019-01-11 12:12:00,Visa,Clontarf,Dublin,Ireland,2015-11-30 12:50:00,2019-01-26 10:00:00,264,1,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,brianna monroe
+2019-01-18 08:56:00,Mastercard,Howell,MI,United States,2018-01-30 13:16:00,2019-01-28 14:37:00,307,1,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,laura burns
+2019-01-23 21:41:00,Visa,Oak Park,MI,United States,2018-12-26 11:00:00,2019-02-01 09:51:00,355,2,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,raymond diaz
+2019-01-13 13:49:00,Visa,Castlebar,Mayo,Ireland,2018-01-06 14:03:00,2019-02-06 12:35:00,355,2,Alcatel,Alcatel 1X,7,MediaTek MT6580,5,8,1,16,2460,35.0,raymond diaz
+2019-01-16 11:49:00,Mastercard,Andover,MA,United States,2018-02-18 18:56:00,2019-02-02 08:53:00,374,1,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,megan hall
+2019-01-04 21:08:00,Mastercard,Calgary,Alberta,Canada,2018-01-21 20:11:00,2019-02-02 18:50:00,378,1,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,michael simpson
+2019-01-05 19:29:00,Visa,Arlington,VA,United States,2018-04-29 16:09:00,2019-02-03 10:23:00,389,1,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,kenneth griffith
+2019-01-12 11:40:00,Visa,Toronto,Ontario,Canada,2018-12-30 06:59:00,2019-02-03 19:42:00,403,1,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,theresa nelson
+2019-01-28 14:09:00,Visa,Pruszkow,Mazowieckie,Poland,2019-01-28 13:40:00,2019-02-25 16:19:00,694,1,LG,LG K50S,13,Mediatek MT6762 Helio P22,13,13,3,32,4000,75.5,christy ramirez
+2019-01-13 06:13:00,Visa,Staten Island,NY,United States,2019-01-13 05:17:00,2019-01-13 07:33:00,77,1,Alcatel,Alcatel 1X,7,MediaTek MT6580,5,8,1,16,2460,35.0,jason bowman
+2019-01-15 15:56:00,Amex,Los Angeles,CA,United States,2015-11-11 11:49:00,2019-01-17 10:54:00,128,1,Alcatel,Alcatel 1X,7,MediaTek MT6580,5,8,1,16,2460,35.0,bianca atkins
+2019-01-12 19:47:00,Mastercard,Irving,TX,United States,2018-12-10 21:49:00,2019-01-20 18:02:00,186,1,Alcatel,Alcatel 1X,7,MediaTek MT6580,5,8,1,16,2460,35.0,raymond walker
+2019-01-21 11:36:00,Visa,Oslo,Oslo,Norway,2018-12-23 12:02:00,2019-01-21 13:47:00,195,1,Alcatel,Alcatel 1X,7,MediaTek MT6580,5,8,1,16,2460,35.0,ryan harper
+2019-01-30 06:18:00,Mastercard,Balgach,St Gallen,Switzerland,2016-01-14 02:40:00,2019-02-19 07:10:00,531,2,Alcatel,Alcatel 1X,7,MediaTek MT6580,5,8,1,16,2460,35.0,susan williams
+2019-01-13 13:36:00,Visa,London,England,United Kingdom,2016-05-16 09:10:00,2019-02-13 06:41:00,531,2,LG,LG Stylo 5,11,Qualcomm Snapdragon 450    ,5,13,3,32,3500,57.0,susan williams
+2019-01-02 11:41:00,Visa,Farmington,Michigan,United States,2019-01-01 12:00:00,2019-01-13 18:34:00,79,1,Windows,Microsoft Lumia 950,6,Qualcomm MSM8992 Snapdragon 808 ,5,20,3,32,3000,60.0,patricia huerta
+2019-01-11 17:28:00,Visa,Newtown,CT,United States,2019-01-11 11:50:00,2019-02-03 12:21:00,393,2,Windows,Microsoft Lumia 950,6,Qualcomm MSM8992 Snapdragon 808 ,5,20,3,32,3000,60.0,crystal neal
+2019-01-05 09:09:00,Visa,Bloomfield,MI,United States,2016-10-23 06:52:00,2019-02-10 10:58:00,393,2,LG,LG Q70,10,Qualcomm Snapdragon 675    ,16,32,4,64,4000,130.0,crystal neal
+2019-01-13 09:16:00,Visa,Nashville,TN,United States,2019-01-12 20:48:00,2019-02-16 12:33:00,585,1,Windows,Microsoft Lumia 950,6,Qualcomm MSM8992 Snapdragon 808 ,5,20,3,32,3000,60.0,rebecca cooke
+2019-01-21 23:41:00,Visa,Strasbourg,Alsace,France,2018-02-04 04:45:00,2019-02-19 00:09:00,620,1,Windows,Microsoft Lumia 950,6,Qualcomm MSM8992 Snapdragon 808 ,5,20,3,32,3000,60.0,nicholas ortiz
+2019-01-10 17:41:00,Visa,Vienna,VA,United States,2019-01-10 16:32:00,2019-01-19 17:52:00,169,1,LG,LG Q70,10,Qualcomm Snapdragon 675    ,16,32,4,64,4000,130.0,cassandra wilson
+2019-01-18 13:59:00,Diners,Sutton,Dublin,Ireland,2015-12-01 19:57:00,2019-01-28 04:07:00,288,1,LG,LG Q70,10,Qualcomm Snapdragon 675    ,16,32,4,64,4000,130.0,dwayne torres
+2019-01-23 11:33:00,Mastercard,Walnut Creek,CA,United States,2019-01-22 23:31:00,2019-02-03 11:49:00,391,1,LG,LG Q70,10,Qualcomm Snapdragon 675    ,16,32,4,64,4000,130.0,amanda mcgee
+2019-01-30 06:17:00,Visa,Blarney,Cork,Ireland,2019-01-30 03:02:00,2019-02-19 12:48:00,414,2,LG,LG Q70,10,Qualcomm Snapdragon 675    ,16,32,4,64,4000,130.0,william fleming
+2019-01-21 23:19:00,Amex,Hon,HI,United States,2018-09-04 16:51:00,2019-02-04 11:11:00,414,2,Sony,Sony Xperia XZ2 Premium,3,Qualcomm Snapdragon 845,0,0,6,64,3540,275.0,william fleming
+2019-01-22 09:48:00,Mastercard,Tunbridge Wells,England,United Kingdom,2018-01-08 14:37:00,2019-02-15 13:36:00,564,1,LG,LG Q70,10,Qualcomm Snapdragon 675    ,16,32,4,64,4000,130.0,ashley allen
+2019-01-25 12:55:00,Amex,Boca Raton,FL,United States,2018-12-06 15:26:00,2019-02-16 06:54:00,579,1,LG,LG Q70,10,Qualcomm Snapdragon 675    ,16,32,4,64,4000,130.0,pamela green
+2019-01-02 04:34:00,Visa,Saint Albans,England,United Kingdom,2016-01-10 04:20:00,2019-02-28 03:43:00,727,1,LG,LG Q70,10,Qualcomm Snapdragon 675    ,16,32,4,64,4000,130.0,gabriel patel
+2019-01-06 21:13:00,Visa,Vancouver,British Columbia,Canada,2018-01-07 21:16:00,2019-01-14 20:50:00,96,1,Huawei,Huawei Mate 30 Pro 5G,9,HiSilicon Kirin 990,32,40,8,128,4500,457.0,christopher rodriguez
+2019-01-07 10:52:00,Visa,Ballyneety,Limerick,Ireland,2019-01-07 09:42:00,2019-02-19 14:32:00,627,1,Huawei,Huawei Mate 30 Pro 5G,9,HiSilicon Kirin 990,32,40,8,128,4500,457.0,christopher austin
+2019-01-21 12:38:00,Visa,Istanbul,Istanbul,Turkey,2017-02-05 12:43:00,2019-02-21 13:55:00,647,1,Huawei,Huawei Mate 30 Pro 5G,9,HiSilicon Kirin 990,32,40,8,128,4500,457.0,mark hinton
+2019-01-28 11:19:00,Visa,Morrison,CO,United States,2014-06-20 17:16:00,2019-02-28 17:18:00,733,1,Huawei,Huawei Mate 30 Pro 5G,9,HiSilicon Kirin 990,32,40,8,128,4500,457.0,david robbins
+2019-01-18 06:30:00,Visa,Freienbach,Schwyz,Switzerland,2018-06-22 14:10:00,2019-01-18 06:21:00,136,1,Motorola,Motorola Moto E6s,5,MediaTek Helio P22,8,13,4,64,3000,80.0,jillian austin
+2019-01-13 19:39:00,Visa,Englewood,CO,United States,2019-01-06 22:00:00,2019-01-14 22:02:00,98,1,Windows,Microsoft Lumia 950 XL,4,Qualcomm MSM8994 Snapdragon 810 ,5,20,3,32,3340,100.0,chelsea marshall
+2019-01-01 02:09:00,Mastercard,Dresden,Saxony,Germany,2016-03-12 11:31:00,2019-01-20 11:56:00,182,1,Windows,Microsoft Lumia 950 XL,4,Qualcomm MSM8994 Snapdragon 810 ,5,20,3,32,3340,100.0,nicholas sanchez
+2019-01-18 17:21:00,Mastercard,Midland Park,NJ,United States,2019-01-11 20:59:00,2019-01-25 14:00:00,249,1,Windows,Microsoft Lumia 950 XL,4,Qualcomm MSM8994 Snapdragon 810 ,5,20,3,32,3340,100.0,david nolan
+2019-01-02 05:33:00,Visa,Aberdeen,Scotland,United Kingdom,2014-10-18 04:53:00,2019-02-16 11:12:00,583,1,Windows,Microsoft Lumia 950 XL,4,Qualcomm MSM8994 Snapdragon 810 ,5,20,3,32,3340,100.0,travis diaz
+2019-01-12 06:40:00,Visa,Al 'Adliyah,Al Manamah,Bahrain,2019-01-10 12:50:00,2019-01-15 04:46:00,101,1,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,crystal rivera
+2019-01-14 11:35:00,Visa,Kailua Kona,HI,United States,2019-01-13 17:42:00,2019-01-15 15:31:00,114,1,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,lauren steele
+2019-01-15 08:07:00,Visa,Royal Oak,MI,United States,2018-12-13 19:35:00,2019-01-19 14:59:00,165,1,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,kyle richardson
+2019-01-07 22:29:00,Mastercard,Anchorage,AK,United States,2019-01-07 13:23:00,2019-01-21 22:30:00,203,1,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,mrs. michelle mahoney md
+2019-01-01 12:20:00,Visa,San Pawl tat-Targa,Malta,Malta,2015-09-17 03:32:00,2019-01-22 12:00:00,212,1,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,lisa king
+2019-01-23 07:47:00,Amex,Marietta,GA,United States,2016-04-12 18:20:00,2019-02-04 09:22:00,413,1,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,elijah newman
+2019-01-11 04:29:00,Visa,Knoxville,TN,United States,2018-08-28 06:20:00,2019-02-04 12:17:00,415,1,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,larry thomas
+2019-01-19 03:19:00,Mastercard,Zagore,Stara Zagora,Bulgaria,2018-11-20 03:00:00,2019-02-06 04:19:00,440,1,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,kimberly waters
+2019-01-29 07:40:00,Amex,Munchen,Bayern,Germany,2013-07-29 09:23:00,2019-02-16 02:39:00,575,1,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,zachary long
+2019-01-26 06:37:00,Visa,Massagno,Ticino,Switzerland,2018-06-04 11:55:00,2019-02-24 05:30:00,671,1,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,matthew irwin
+2019-01-07 19:48:00,Mastercard,Sydney,New South Wales,Australia,2018-09-21 20:49:00,2019-03-01 00:14:00,736,1,LG,LG W30,13,MediaTek Helio P22,16,12,3,32,4000,85.0,brian black
+2019-01-15 15:56:00,Visa,Cartersburg,IN,United States,2018-01-02 10:51:00,2019-02-23 06:24:00,658,1,Sony,Sony Xperia 1 Professional,3,Qualcomm Snapdragon 855        ,8,12,6,128,3300,450.0,jessica heath
+2019-01-21 04:46:00,Visa,Klampenborg,Kobenhavn,Denmark,2018-06-10 11:25:00,2019-02-10 12:22:00,496,1,HTC,Microsoft Lumia 950,5,Qualcomm MSM8992 Snapdragon 808 ,5,20,3,32,3000,60.0,brett baxter
+2019-01-09 15:03:00,Visa,Seattle,WA,United States,2019-01-08 18:59:00,2019-02-18 15:51:00,617,1,HTC,Microsoft Lumia 950,5,Qualcomm MSM8992 Snapdragon 808 ,5,20,3,32,3000,60.0,anthony herman
+2019-01-25 19:44:00,Mastercard,Vespasiano,Minas Gerais,Brazil,2015-01-06 21:17:00,2019-02-22 14:24:00,651,1,HTC,Microsoft Lumia 950,5,Qualcomm MSM8992 Snapdragon 808 ,5,20,3,32,3000,60.0,steven farley
+2019-01-03 09:56:00,Visa,Chicago,IL,United States,2018-12-31 16:26:00,2019-01-16 13:43:00,121,1,HTC,HTC WildFire X,1,Mediatek Helio P22,8,12,3,32,3300,76.5,lauren stewart md
+2019-01-13 01:51:00,Visa,Centurion,Gauteng,South Africa,2019-01-12 01:40:00,2019-01-17 02:23:00,125,1,LG,LG W30 Pro,11,Qualcomm Snapdragon 632,16,13,4,64,4050,110.0,john schmidt
+2019-01-13 15:18:00,Amex,Centerport,NY,United States,2019-01-13 14:46:00,2019-01-25 14:01:00,250,1,LG,LG W30 Pro,11,Qualcomm Snapdragon 632,16,13,4,64,4050,110.0,tanya gibson
+2019-01-04 18:34:00,Visa,Leesburg,VA,United States,2019-01-04 16:53:00,2019-01-27 18:37:00,281,2,LG,LG W30 Pro,11,Qualcomm Snapdragon 632,16,13,4,64,4050,110.0,benjamin moore
+2019-01-07 12:06:00,Visa,Nadur,Malta,Malta,2016-03-30 02:02:00,2019-02-28 07:59:00,281,2,ZTE,ZTE Axon 10 Pro 5G,4,Qualcomm Snapdragon 855,20,48,6,128,4000,440.0,benjamin moore
+2019-01-02 09:57:00,Amex,Potomac Falls,VA,United States,2015-02-20 17:20:00,2019-01-31 11:24:00,341,1,LG,LG W30 Pro,11,Qualcomm Snapdragon 632,16,13,4,64,4050,110.0,thomas ramos
+2019-01-16 12:47:00,Visa,London,England,United Kingdom,2014-12-12 15:18:00,2019-02-04 02:13:00,406,1,LG,LG W30 Pro,11,Qualcomm Snapdragon 632,16,13,4,64,4050,110.0,chris quinn
+2019-01-24 21:26:00,Visa,Wheaton,IL,United States,2018-05-08 16:02:00,2019-02-08 16:00:00,471,1,LG,LG W30 Pro,11,Qualcomm Snapdragon 632,16,13,4,64,4050,110.0,sean wells
+2019-01-19 11:05:00,Visa,North Caldwell,NJ,United States,2018-10-03 05:55:00,2019-02-10 18:16:00,501,1,LG,LG W30 Pro,11,Qualcomm Snapdragon 632,16,13,4,64,4050,110.0,christopher hester
+2019-01-31 01:59:00,Visa,Milan,Lombardy,Italy,2015-04-11 02:40:00,2019-02-20 11:41:00,641,1,LG,LG W30 Pro,11,Qualcomm Snapdragon 632,16,13,4,64,4050,110.0,harry martinez
+2019-01-18 04:32:00,Diners,Lipari,Sicilia,Italy,2019-01-17 07:25:00,2019-02-26 07:32:00,702,1,LG,LG W30 Pro,11,Qualcomm Snapdragon 632,16,13,4,64,4050,110.0,david valdez
+2019-01-04 07:43:00,Mastercard,Houston,TX,United States,2019-01-04 06:51:00,2019-01-17 17:31:00,131,1,LG,LG W10,4,MediaTek Helio P22	,8,13,3,32,4000,78.0,howard cunningham
+2019-01-26 01:44:00,Visa,Brussels,Brussels (Bruxelles),Belgium,2018-01-31 13:28:00,2019-02-08 14:39:00,469,1,LG,LG W10,4,MediaTek Helio P22	,8,13,3,32,4000,78.0,richard hernandez
+2019-01-12 17:28:00,Amex,Las Vegas,NV,United States,2018-12-03 14:12:00,2019-02-19 08:09:00,622,1,LG,LG W10,4,MediaTek Helio P22	,8,13,3,32,4000,78.0,benjamin white
+2019-01-01 03:51:00,Mastercard,Amsterdam,Noord-Holland,Netherlands,2015-09-14 22:53:00,2019-01-17 22:34:00,133,1,Alcatel,Alcatel 1V,8, ARM Cortex-A55  1.6 GHz,5,8,1,16,2460,76.5,jonathan hunt
+2019-01-08 11:55:00,Visa,Braunschweig,Lower Saxony,Germany,2019-01-03 12:39:00,2019-01-19 08:31:00,161,1,Alcatel,Alcatel 1V,8, ARM Cortex-A55  1.6 GHz,5,8,1,16,2460,76.5,gabrielle munoz
+2019-01-17 07:23:00,Visa,Portland,OR,United States,2017-11-28 10:05:00,2019-01-24 08:54:00,233,1,Alcatel,Alcatel 1V,8, ARM Cortex-A55  1.6 GHz,5,8,1,16,2460,76.5,tyler lewis
+2019-01-12 17:19:00,Diners,Winter Haven,FL,United States,2019-01-12 16:18:00,2019-02-26 00:42:00,697,1,Alcatel,Alcatel 1V,8, ARM Cortex-A55  1.6 GHz,5,8,1,16,2460,76.5,william jones
+2019-01-17 07:56:00,Diners,Lipari,Sicilia,Italy,2019-01-17 07:25:00,2019-02-26 07:32:00,700,1,Alcatel,Alcatel 1V,8, ARM Cortex-A55  1.6 GHz,5,8,1,16,2460,76.5,jeremy davis
+2019-01-26 13:41:00,Mastercard,Baden,Aargau,Switzerland,2015-10-23 09:23:00,2019-03-01 03:11:00,739,1,Alcatel,Alcatel 1V,8, ARM Cortex-A55  1.6 GHz,5,8,1,16,2460,76.5,mark freeman
+2019-01-10 09:32:00,Mastercard,Hilton Head,SC,United States,2015-01-10 21:39:00,2019-02-27 07:33:00,139,2,ZTE,ZTE Axon 10 Pro 5G,4,Qualcomm Snapdragon 855,20,48,6,128,4000,440.0,steve mason
+2019-01-18 11:34:00,Visa,New Malden,England,United Kingdom,2015-10-28 14:57:00,2019-01-18 10:27:00,139,2,Alcatel,Alcatel 1S,2,Octa-core 1.6 GHz Cortex-A55,5,13,4,64,3060,75.0,steve mason
+2019-01-08 14:04:00,Amex,San Diego,CA,United States,2019-01-07 17:01:00,2019-02-03 14:57:00,397,1,ZTE,ZTE Axon 10 Pro 5G,4,Qualcomm Snapdragon 855,20,48,6,128,4000,440.0,richard rogers
+2019-01-31 11:03:00,Visa,Djurgarden,Stockholm,Sweden,2019-01-25 03:48:00,2019-02-16 12:08:00,584,1,Alcatel,Alcatel 1S,2,Octa-core 1.6 GHz Cortex-A55,5,13,4,64,3060,75.0,sara lewis
+2019-01-04 01:38:00,Amex,Charlestown,New South Wales,Australia,2018-07-15 21:04:00,2019-01-20 01:08:00,173,1,ZTE,ZTE Blade 10 Prime,4,MediaTek Helio P60,16,16,3,64,3200,175.0,samuel smith
+2019-01-28 16:17:00,Mastercard,Coventry,England,United Kingdom,2019-01-28 15:59:00,2019-02-10 19:55:00,502,1,ZTE,ZTE Blade 10 Prime,4,MediaTek Helio P60,16,16,3,64,3200,175.0,daniel brown
+2019-01-07 17:48:00,Mastercard,Augusta,GA,United States,2015-06-10 20:25:00,2019-02-28 19:57:00,734,1,ZTE,ZTE Blade 10 Prime,4,MediaTek Helio P60,16,16,3,64,3200,175.0,sean deleon
+2019-01-20 12:34:00,Mastercard,NYC,NY,United States,2019-01-20 12:17:00,2019-01-20 12:55:00,183,1,Alcatel,Alcatel 1C,6,MediaTek MT6580,5,8,2,16,2460,20.0,kristen green
+2019-01-08 13:19:00,Mastercard,Glenn Dale,MD,United States,2019-01-08 05:31:00,2019-01-30 17:40:00,331,1,Alcatel,Alcatel 1C,6,MediaTek MT6580,5,8,2,16,2460,20.0,christopher marshall
+2019-01-27 11:02:00,Mastercard,Madrid,Madrid,Spain,2019-01-24 08:21:00,2019-02-09 18:42:00,484,1,Alcatel,Alcatel 1C,6,MediaTek MT6580,5,8,2,16,2460,20.0,christopher sloan
+2019-01-19 04:55:00,Visa,Brighton,England,United Kingdom,2018-02-19 09:27:00,2019-02-28 10:06:00,616,2,Alcatel,Alcatel 1C,6,MediaTek MT6580,5,8,2,16,2460,20.0,charles russo
+2019-01-02 13:35:00,Visa,Antibes,Provence-Alpes-Cote d'Azur,France,2018-07-29 12:32:00,2019-02-18 10:28:00,616,2,Google,Google Pixel 3a,1,Qualcomm Snapdragon 670,8,12,4,64,3000,160.0,charles russo
+2019-01-05 16:55:00,Visa,Montreal-Nord,Quebec,Canada,2013-09-29 17:08:00,2019-01-20 14:38:00,185,1,LG,LG K40S,5,Mediatek MT6762 Helio P22       ,13,13,2,32,3500,76.5,patrick ramirez
+2019-01-02 02:28:00,Mastercard,Coomera,Queensland,Australia,2018-05-03 04:14:00,2019-01-21 16:37:00,196,1,LG,LG K40S,5,Mediatek MT6762 Helio P22       ,13,13,2,32,3500,76.5,carly bell
+2019-01-24 04:01:00,Visa,Leighton Buzzard,England,United Kingdom,2016-01-07 10:56:00,2019-01-28 10:12:00,296,1,LG,LG K40S,5,Mediatek MT6762 Helio P22       ,13,13,2,32,3500,76.5,jesse jones
+2019-01-11 00:15:00,Mastercard,Den Haag,Zuid-Holland,Netherlands,2017-05-07 04:07:00,2019-02-25 04:04:00,684,1,LG,LG K40S,5,Mediatek MT6762 Helio P22       ,13,13,2,32,3500,76.5,julia bell
+2019-01-22 08:23:00,Visa,Gonzaga Univ,WA,United States,2019-01-22 07:55:00,2019-01-22 08:14:00,210,1,LG,LG Stylo 5,11,Qualcomm Snapdragon 450    ,5,13,3,32,3500,57.0,jessica powell
+2019-01-29 10:38:00,Visa,Saddle Brook,NJ,United States,2019-01-29 09:08:00,2019-02-03 14:39:00,396,1,LG,LG Stylo 5,11,Qualcomm Snapdragon 450    ,5,13,3,32,3500,57.0,laurie mcdaniel
+2019-01-07 08:26:00,Diners,Chandler,AZ,United States,2019-01-06 16:23:00,2019-02-07 06:05:00,452,1,LG,LG Stylo 5,11,Qualcomm Snapdragon 450    ,5,13,3,32,3500,57.0,jacob villegas
+2019-01-07 07:28:00,Amex,Anchorage,AK,United States,2018-07-28 07:31:00,2019-02-09 10:50:00,477,1,LG,LG Stylo 5,11,Qualcomm Snapdragon 450    ,5,13,3,32,3500,57.0,ryan smith
+2019-01-05 05:30:00,Visa,Paris,Ile-de-France,France,2019-01-05 04:11:00,2019-02-14 05:34:00,544,1,LG,LG Stylo 5,11,Qualcomm Snapdragon 450    ,5,13,3,32,3500,57.0,amy valenzuela
+2019-01-27 03:55:00,Amex,Danderyd,Stockholm,Sweden,2016-09-13 10:09:00,2019-02-14 10:37:00,546,1,LG,LG Stylo 5,11,Qualcomm Snapdragon 450    ,5,13,3,32,3500,57.0,andrew english
+2019-01-10 00:04:00,Mastercard,Mililani,HI,United States,2019-01-09 23:37:00,2019-02-14 19:34:00,551,1,LG,LG Stylo 5,11,Qualcomm Snapdragon 450    ,5,13,3,32,3500,57.0,alejandro brown
+2019-01-21 02:07:00,Mastercard,Chichester,England,United Kingdom,2016-02-14 14:43:00,2019-02-24 03:29:00,670,1,LG,LG Stylo 5,11,Qualcomm Snapdragon 450    ,5,13,3,32,3500,57.0,peter rojas
+2019-01-16 06:13:00,Mastercard,Benoni,Gauteng,South Africa,2019-01-16 05:22:00,2019-02-25 23:19:00,696,1,LG,LG Stylo 5,11,Qualcomm Snapdragon 450    ,5,13,3,32,3500,57.0,dylan mcbride
+2019-01-04 22:00:00,Amex,Wiesbaden,Hessen,Germany,2019-01-04 11:32:00,2019-01-22 12:21:00,213,1,Sony,Sony Xperia 10 Plus,6,Qualcomm Snapdragon 636,8,12,4,64,3000,140.0,rebecca stevens
+2019-01-04 14:06:00,Visa,Mashpee,MA,United States,2019-01-04 12:21:00,2019-02-04 13:45:00,418,1,Sony,Sony Xperia 10 Plus,6,Qualcomm Snapdragon 636,8,12,4,64,3000,140.0,hannah mitchell
+2019-01-23 09:49:00,Visa,King City,Ontario,Canada,2019-01-23 08:18:00,2019-01-28 09:43:00,295,1,Google,Google Pixel 4,4,Qualcomm Snapdragon 855,8,12,6,64,2800,425.0,joseph moore
+2019-01-28 07:26:00,Visa,Guelph,Ontario,Canada,2019-01-23 19:04:00,2019-02-17 18:08:00,608,1,Google,Google Pixel 4,4,Qualcomm Snapdragon 855,8,12,6,64,2800,425.0,jessica burch
+2019-01-25 09:27:00,Visa,London,England,United Kingdom,2016-09-04 14:35:00,2019-02-24 13:37:00,680,1,Google,Google Pixel 4,4,Qualcomm Snapdragon 855,8,12,6,64,2800,425.0,diana cook
+2019-01-14 08:38:00,Visa,Bristol,RI,United States,2017-03-12 15:14:00,2019-02-27 17:13:00,722,1,Google,Google Pixel 4,4,Qualcomm Snapdragon 855,8,12,6,64,2800,425.0,jessica higgins
+2019-01-20 12:32:00,Visa,Chicago,IL,United States,2019-01-16 19:08:00,2019-02-09 20:42:00,486,1,HTC,HTC Exodus 1,2,Qualcomm Snapdragon 845,8,16,6,128,3500,275.0,linda huff
+2019-01-04 16:23:00,Visa,Scottsdale,AZ,United States,2019-01-04 16:04:00,2019-02-19 19:35:00,630,1,Sony,Sony Xperia XZ2 Premium,3,Qualcomm Snapdragon 845,0,0,6,64,3540,275.0,sandra gonzalez
+2019-01-30 01:09:00,Mastercard,Villars,Vaud,Switzerland,2018-11-30 04:39:00,2019-02-23 03:56:00,657,1,Sony,Sony Xperia XZ2 Premium,3,Qualcomm Snapdragon 845,0,0,6,64,3540,275.0,james li
+2019-01-25 08:50:00,Mastercard,Zurich,Zurich,Switzerland,2019-01-24 12:23:00,2019-02-05 11:07:00,431,1,Motorola,Motorola One Action,2,Samsung Exynos 9 Octa,12,13,4,128,3500,180.0,jennifer butler
+2019-01-17 14:06:00,Amex,Bedford Corners,NY,United States,2014-11-28 18:58:00,2019-02-21 13:03:00,646,1,Motorola,Motorola One Action,2,Samsung Exynos 9 Octa,12,13,4,128,3500,180.0,kyle martinez
+2019-01-19 18:54:00,Amex,Warwick,NY,United States,2019-01-19 11:34:00,2019-02-06 19:27:00,448,1,BLU,BLU Vivo 8,1,Mediatek Helio P10        ,16,13,4,64,4010,60.0,kathleen gutierrez
+2019-01-09 14:37:00,Visa,South Jordan,UT,United States,2019-01-08 15:14:00,2019-02-07 19:11:00,463,1,Sony,Sony Xperia 8,1,Qualcomm Snapdragon 630,8,12,4,64,2760,150.0,jordan harrington
+2019-01-11 09:55:00,Visa,Creemore,Ontario,Canada,2019-01-10 07:14:00,2019-02-11 08:45:00,510,1,Sony,Sony Xperia XZ3,2,Qualcomm Snapdragon 845,13,19,4,64,3330,260.0,jessica lewis
+2019-01-25 14:40:00,Visa,Statesville,NC,United States,2019-01-25 13:52:00,2019-02-26 18:38:00,714,1,Sony,Sony Xperia XZ3,2,Qualcomm Snapdragon 845,13,19,4,64,3330,260.0,catherine thornton
+2019-01-26 16:47:00,Visa,Chamonix-Mont-Blanc,Rhone-Alpes,France,2019-01-26 04:53:00,2019-02-16 05:01:00,577,1,Google,Google Pixel 3XL,1,Qualcomm Snapdragon 845        ,8,12,4,64,3430,280.0,sarah harris
+2019-01-24 01:22:00,Visa,Rome,Lazio,Italy,2014-10-19 02:38:00,2019-02-21 06:04:00,644,1,Google,Google Pixel 3,1,Qualcomm Snapdragon 845        ,8,12,4,64,2915,275.0,juan williams
+2019-01-23 14:57:00,Mastercard,Bridgewater,NJ,United States,2018-07-29 12:00:00,2019-02-22 18:48:00,655,1,ZTE,ZTE Blade A5,1,Unisoc SC9863,8,13,2,16,2600,76.5,shawn rojas
+2019-01-25 09:36:00,Visa,Rochester,MI,United States,2019-01-24 10:36:00,2019-02-23 06:58:00,660,1,Google,Google Pixel 3a XL,2,Qualcomm Snapdragon 670,8,12,4,64,3700,165.0,ryan banks
+2019-01-22 11:10:00,Mastercard,Voluntari,Bucuresti,Romania,2018-07-28 11:12:00,2019-02-28 07:52:00,728,1,Google,Google Pixel 3a XL,2,Qualcomm Snapdragon 670,8,12,4,64,3700,165.0,gregory smith
