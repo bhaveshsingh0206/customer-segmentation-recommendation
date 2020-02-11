@@ -140,7 +140,7 @@ function setupstorage() {
          url: 'http://127.0.0.1:5000/api/storage/all',
          method: 'GET',
          success: function(msg) {
-         	$('.selector').append('<div class="select-container"><label for="select-3">Brand</label><select name="select-3" type ="processor" id="select-3">')
+         	$('.selector').append('<div class="select-container"><label for="select-3">Storage (in GB)</label><select name="select-3" type ="processor" id="select-3">')
             console.log("type_of_user")
             msg.storage.forEach((t, i)=>{
             	if (i==0){

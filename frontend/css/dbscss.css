@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+:root {
+    --accent-color: #1e88e5;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+select,
+option,
+button {
+    cursor: pointer;
+}
+
+body {
+    display: flex;
+    overflow-x: hidden;
+    font-family: 'Muli', sans-serif;
+}
+
+aside {
+    background: #323232;
+    color: white;
+    height: 8vh;
+    width: 350px;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+.logo {
+    height: 8vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    text-align: center;
+    font-size: 1.3em;
+    padding: 0px 25px;
+}
+
+.sidebar {
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar a {
+    font-size: 1.1em;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 25px;
+}
+
+.sidebar a:hover {
+    color: var(--accent-color) !important;
+}
+
+.selected {
+    color: var(--accent-color) !important;
+}
+
+main {
+    height: 100vh;
+    width: calc(100% - 300px);
+}
+
+nav {
+    background: #323232;
+    height: 8vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav ul {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+nav ul li {
+    list-style: none;
+    color: white;
+    margin: 0px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+nav ul li a:hover {
+    color: var(--accent-color) !important;
+}
+
+/* Animation */
+.loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.ball {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 20px;
+    animation: move1 1s linear infinite;
+}
+
+.ball:nth-child(1) {
+    background: #4285f4;
+    animation-delay: 0s;
+}
+
+.ball:nth-child(2) {
+    background: #ea4335;
+    animation-delay: 0.125s;
+}
+
+.ball:nth-child(3) {
+    background: #fbbc05;
+    animation-delay: 0.25s;
+}
+
+.ball:nth-child(4) {
+    animation-delay: 0.375s;
+    background: #34a853;
+}
+
+@keyframes move1 {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-25px);
+    }
+}
+.container {
+    width: 100%;
+    /*padding-top: 30px;*/
+    height: 100%;
+    padding: 200px;
+    /*margin: 100px;*/
+    display: block;
+    /*flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;*/
+}
+
+.chart-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.chart {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selector {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+select {
+    width: 50%;
+    height: 40px;
+    font-family: 'Muli', sans-serif;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    outline: none;
+}
+.hidden {
+    display: none;
+}
+.title{
+    padding-bottom: 20px;
+    text-align: left;
+}
