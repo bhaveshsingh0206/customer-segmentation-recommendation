@@ -25,17 +25,17 @@ Based on data and after analysing users were divided into various categories suc
 
 ### Technology Stack
 
-###### Web Frontend developed using Html/css and Vanilla JavaScript
+- Web Frontend developed using Html/css and Vanilla JavaScript
 
-###### Backend developed using Flask
+- Backend developed using Flask
 
-###### Machine Learning Classfication and Regression Algorithms, Neural Networks
+- Machine Learning Classfication and Regression Algorithms, Neural Networks
 
-###### Data stored in excel
+- Data stored in excel
 
-###### Models trained by scrapping data from the Internet
+- Models trained by scrapping data from the Internet
 
-###### Dataset comprises of users previous purchase history, product specifications, and user data on a micro-segment.
+- Dataset comprises of users previous purchase history, product specifications, and user data on a micro-segment.
 
 ### Features
 
@@ -61,14 +61,14 @@ Based on data and after analysing users were divided into various categories suc
 
 ### Prediction (Performance and User Category)
 
-![Prediction](images/6.png)
-![Prediction](images/7.png)
-![Prediction](images/8.png)
+![pred1](images/6.png)
+![pred2](images/7.png)
+![pred3](images/8.png)
 
 ### Recommendations
 
-![Chat](images/10.png)
-![Chat](images/9.png)
+![recom](images/10.png)
+![recom](images/9.png)
 
 ### Configure Project
 
